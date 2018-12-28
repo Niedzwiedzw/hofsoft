@@ -1,0 +1,28 @@
+Znaleziono towar : 11661550 (Sprawdzenie: 11661550)
+Znaleziono towar : K0072409 (Sprawdzenie: K0072409)
+Znaleziono towar : K0030110 (Sprawdzenie: K0030110)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11661550
+Nazwa czesci w systemie Hofsoft: ................                                  £o¿ysko sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            100.64
+Numer producenta: ...............................                                       HPR 206 152
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0072409
+Nazwa czesci w systemie Hofsoft: ................                    Œrodek odt³.do sprzêg.i hamul.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.98
+Numer producenta: ...............................                         KRWC BRAKE&CLUTCH CLEANER
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0030110
+Nazwa czesci w systemie Hofsoft: ................                     Olej przek³adn.ATF Dexron III
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.73
+Numer producenta: ...............................                               KRAA ATF DEXRON III
+
+
+
+************************************************************
+************************************************************

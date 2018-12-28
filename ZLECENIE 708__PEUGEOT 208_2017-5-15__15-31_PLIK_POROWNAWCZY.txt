@@ -1,0 +1,28 @@
+Znaleziono towar : K0062030 (Sprawdzenie: K0062030)
+Znaleziono towar : 91702100 (Sprawdzenie: 91702100)
+Znaleziono towar : 30061001 (Sprawdzenie: 30061001)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0062030
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do spryskiwaczy LATO
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.06
+Numer producenta: ...............................                         KRAE KRAFT 5L LETNI Z LEJ
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91702100
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9249
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.15
+Numer producenta: ...............................                                BOS3 1 457 429 249
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          30061001
+Nazwa czesci w systemie Hofsoft: ................                     P³yn do uk³adu ch³odzenia G12
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.67
+Numer producenta: ...............................                                   SWAE 99 90 1381
+
+
+
+************************************************************
+************************************************************

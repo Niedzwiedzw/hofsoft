@@ -1,0 +1,28 @@
+Znaleziono towar : 91710075 (Sprawdzenie: 91710075)
+Znaleziono towar : 91700180 (Sprawdzenie: 91700180)
+Znaleziono towar : 91730110 (Sprawdzenie: 91730110)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91710075
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S0157
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             29.93
+Numer producenta: ...............................                                BOS3 F 026 400 157
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700180
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7080
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.03
+Numer producenta: ...............................                                BOS3 F 026 407 080
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91730110
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M5016
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.56
+Numer producenta: ...............................                                BOS3 1 987 435 016
+
+
+
+************************************************************
+************************************************************

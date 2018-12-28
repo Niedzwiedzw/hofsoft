@@ -1,0 +1,28 @@
+Znaleziono towar : 16161010 (Sprawdzenie: 16161010)
+Znaleziono towar : 90060015 (Sprawdzenie: 90060015)
+Znaleziono towar : 96010951 (Sprawdzenie: 96010951)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16161010
+Nazwa czesci w systemie Hofsoft: ................                     Odpowietrznik M8x1,25  9x32.4
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.57
+Numer producenta: ...............................                                          QBR 0015
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90060015
+Nazwa czesci w systemie Hofsoft: ................                        P³yn hamulcowy DOT 4 BF033
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.41
+Numer producenta: ...............................                            BOSE 1 987 479 106/004
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96010951
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1295
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             66.14
+Numer producenta: ...............................                            BOSK 0 986 494 600/387
+
+
+
+************************************************************
+************************************************************

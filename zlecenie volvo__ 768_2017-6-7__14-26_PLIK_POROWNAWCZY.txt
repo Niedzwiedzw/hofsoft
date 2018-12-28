@@ -1,0 +1,108 @@
+Znaleziono towar : V1516312 (Sprawdzenie: V1516312)
+Znaleziono towar : 91716480 (Sprawdzenie: 91716480)
+Znaleziono towar : 61116309 (Sprawdzenie: 61116309)
+Znaleziono towar : 91706351 (Sprawdzenie: 91706351)
+Znaleziono towar : 40115228 (Sprawdzenie: 40115228)
+Znaleziono towar : 61126312 (Sprawdzenie: 61126312)
+Znaleziono towar : 20061004 (Sprawdzenie: 20061004)
+Znaleziono towar : 91928985 (Sprawdzenie: 91928985)
+Znaleziono towar : N8251003 (Sprawdzenie: N8251003)
+Znaleziono towar : 61476302 (Sprawdzenie: 61476302)
+Znaleziono towar : 61136313 (Sprawdzenie: 61136313)
+Znaleziono towar : 20061162 (Sprawdzenie: 20061162)
+Znaleziono towar : 61156303 (Sprawdzenie: 61156303)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          V1516312
+Nazwa czesci w systemie Hofsoft: ................                                    Termostat 90°C
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            125.40
+Numer producenta: ...............................                                   VER1 TH6866.90J
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91716480
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3587
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             36.28
+Numer producenta: ...............................                                BOS3 1 457 433 587
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61116309
+Nazwa czesci w systemie Hofsoft: ................                    Uszczelka pod g³owicê 1.17 4k.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            125.32
+Numer producenta: ...............................                                       ELR 131.212
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91706351
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9244
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.22
+Numer producenta: ...............................                                BOS3 1 457 429 244
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          40115228
+Nazwa czesci w systemie Hofsoft: ................                         Nasadka 1/2" bit Torx T30
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.03
+Numer producenta: ...............................                                      DIYN YT-0442
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61126312
+Nazwa czesci w systemie Hofsoft: ................                    Komplet uszczelek dekla zawor.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             93.03
+Numer producenta: ...............................                                       ELR 076.790
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20061004
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             23.85
+Numer producenta: ...............................                                   SWAE 99 90 2374
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91928985
+Nazwa czesci w systemie Hofsoft: ................                         Podk³adka pod wtryskiwacz
+Ilosc: ..........................................                                                 5
+CENA: ...........................................                                              1.70
+Numer producenta: ...............................                                BOSD F 00V C17 503
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251003
+Nazwa czesci w systemie Hofsoft: ................                      Z³¹cze 2-styk. z uszczelkami
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.62
+Numer producenta: ...............................                                     NAG 123 /123T
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61476302
+Nazwa czesci w systemie Hofsoft: ................                        Œruba g³owicy M12x1.75x171
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             75.86
+Numer producenta: ...............................                                       ELR 270.130
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61136313
+Nazwa czesci w systemie Hofsoft: ................                        Uszczelka kolektora wydech
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.81
+Numer producenta: ...............................                                       ELR 295.140
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20061162
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             15.49
+Numer producenta: ...............................                                   SWAE 60 92 6580
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61156303
+Nazwa czesci w systemie Hofsoft: ................                     Simering 56x70x6 wa³ rozrz¹du
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             34.26
+Numer producenta: ...............................                                      ELR1 394.110
+
+
+
+************************************************************
+************************************************************

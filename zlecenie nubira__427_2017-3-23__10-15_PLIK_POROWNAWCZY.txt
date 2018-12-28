@@ -1,0 +1,20 @@
+Znaleziono towar : 84238344 (Sprawdzenie: 84238344)
+Znaleziono towar : 91701525 (Sprawdzenie: 91701525)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84238344
+Nazwa czesci w systemie Hofsoft: ................                     Silentblok wahacza przedniego
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             12.56
+Numer producenta: ...............................                                    TRW DE-SB-4849
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701525
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P3370
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.53
+Numer producenta: ...............................                                BOS3 0 451 103 370
+
+
+
+************************************************************
+************************************************************

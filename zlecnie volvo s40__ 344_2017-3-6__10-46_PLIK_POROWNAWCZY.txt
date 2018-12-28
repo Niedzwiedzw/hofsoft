@@ -1,0 +1,28 @@
+Znaleziono towar : 54302319 (Sprawdzenie: 54302319)
+Znaleziono towar : 84316384 (Sprawdzenie: 84316384)
+Znaleziono towar : 84316383 (Sprawdzenie: 84316383)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54302319
+Nazwa czesci w systemie Hofsoft: ................                                      Dr¹¿ek kier.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             28.85
+Numer producenta: ...............................                                          SID 3410
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84316384
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.43
+Numer producenta: ...............................                                    TRW FD-ES-3891
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84316383
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.43
+Numer producenta: ...............................                                    TRW FD-ES-3665
+
+
+
+************************************************************
+************************************************************

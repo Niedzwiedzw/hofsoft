@@ -1,0 +1,36 @@
+Znaleziono towar : B1716515 (Sprawdzenie: B1716515)
+Znaleziono towar : 10631116 (Sprawdzenie: 10631116)
+Znaleziono towar : 81720152 (Sprawdzenie: 81720152)
+Znaleziono towar : 91704850 (Sprawdzenie: 91704850)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          B1716515
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.11
+Numer producenta: ...............................                                    BLP3 ADV182201
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10631116
+Nazwa czesci w systemie Hofsoft: ................                     Ko³pak ko³o "13" AVANT Silver
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              8.53
+Numer producenta: ...............................                          AKC KO£PAK KO£A AVANT 13
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          81720152
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N6500
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             50.72
+Numer producenta: ...............................                                BOS3 0 450 906 500
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91704850
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9192
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.74
+Numer producenta: ...............................                                BOS3 1 457 429 192
+
+
+
+************************************************************
+************************************************************

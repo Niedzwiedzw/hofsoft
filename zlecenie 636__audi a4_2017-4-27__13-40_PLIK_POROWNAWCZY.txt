@@ -1,0 +1,36 @@
+Znaleziono towar : 21530264 (Sprawdzenie: 21530264)
+Znaleziono towar : 91180278 (Sprawdzenie: 91180278)
+Znaleziono towar : 48230743 (Sprawdzenie: 48230743)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21530264
+Nazwa czesci w systemie Hofsoft: ................                              Klamra zabezp.króæca
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.36
+Numer producenta: ...............................                                    SWA 30 93 1799
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91180278
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            427.11
+Numer producenta: ...............................                         BOS4 1 987 946 475/948867
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48230743
+Nazwa czesci w systemie Hofsoft: ................                       Mocow. os³ony sil. VW, Audi
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.85
+Numer producenta: ...............................                         ROM C10127     5 szt    7
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,28 @@
+Znaleziono towar : 91720112 (Sprawdzenie: 91720112)
+Znaleziono towar : E8800015 (Sprawdzenie: E8800015)
+Znaleziono towar : 39960965 (Sprawdzenie: 39960965)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91720112
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N6374
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             38.83
+Numer producenta: ...............................                                BOS3 0 450 906 374
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          E8800015
+Nazwa czesci w systemie Hofsoft: ................                    Czujnik pozycji wa³u korbowego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             66.01
+Numer producenta: ...............................                                        ERA 550102
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          39960965
+Nazwa czesci w systemie Hofsoft: ................                              Zawór zwrotny paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             26.61
+Numer producenta: ...............................                                  PIE 7.20235.02.0
+
+
+
+************************************************************
+************************************************************

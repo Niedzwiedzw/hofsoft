@@ -1,0 +1,52 @@
+Znaleziono towar : K4210310 (Sprawdzenie: K4210310)
+Znaleziono towar : 86070430 (Sprawdzenie: 86070430)
+Znaleziono towar : 96010010 (Sprawdzenie: 96010010)
+Znaleziono towar : 96050110 (Sprawdzenie: 96050110)
+Znaleziono towar : 16030667 (Sprawdzenie: 16030667)
+Znaleziono towar : 86070431 (Sprawdzenie: 86070431)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4210310
+Nazwa czesci w systemie Hofsoft: ................                                       Wahacz lewy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             70.37
+Numer producenta: ...............................                                      KRA4 4210310
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          86070430
+Nazwa czesci w systemie Hofsoft: ................                       Linka ham.rêczn. lewa BC661
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             37.44
+Numer producenta: ...............................                                BOSL 1 987 477 813
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96010010
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP783
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             57.81
+Numer producenta: ...............................                         BOSK 0 986 494 059/491441
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96050110
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD2023
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             54.75
+Numer producenta: ...............................                                BOS2 0 986 479 B22
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16030667
+Nazwa czesci w systemie Hofsoft: ................                     Reperaturka zac.ham.tyl. "38"
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.71
+Numer producenta: ...............................                                         AFN D4458
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          86070431
+Nazwa czesci w systemie Hofsoft: ................                       Linka ham.rêczn.prawa BC663
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             37.44
+Numer producenta: ...............................                                BOSL 1 987 477 815
+
+
+
+************************************************************
+************************************************************

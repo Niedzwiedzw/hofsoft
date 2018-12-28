@@ -1,0 +1,28 @@
+Znaleziono towar : 91715935 (Sprawdzenie: 91715935)
+Znaleziono towar : 91725506 (Sprawdzenie: 91725506)
+Znaleziono towar : 91705650 (Sprawdzenie: 91705650)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91715935
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S0220
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             50.09
+Numer producenta: ...............................                                BOS3 F 026 400 220
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91725506
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N2862
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             88.34
+Numer producenta: ...............................                                BOS3 F 026 402 862
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91705650
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9238
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             29.07
+Numer producenta: ...............................                                BOS3 1 457 429 238
+
+
+
+************************************************************
+************************************************************

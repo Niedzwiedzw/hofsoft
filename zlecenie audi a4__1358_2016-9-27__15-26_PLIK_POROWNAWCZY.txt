@@ -1,0 +1,52 @@
+Znaleziono towar : 00080061 (Sprawdzenie: 00080061)
+Znaleziono towar : 00080031 (Sprawdzenie: 00080031)
+Znaleziono towar : K0072409 (Sprawdzenie: K0072409)
+Znaleziono towar : 61130034 (Sprawdzenie: 61130034)
+Znaleziono towar : 00080071 (Sprawdzenie: 00080071)
+Znaleziono towar : 16160113 (Sprawdzenie: 16160113)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080061
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  20- 32mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.07
+Numer producenta: ...............................                                       NOR 101-032
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080031
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  12- 22mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.04
+Numer producenta: ...............................                                       NOR 101-022
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0072409
+Nazwa czesci w systemie Hofsoft: ................                    Œrodek odt³.do sprzêg.i hamul.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.98
+Numer producenta: ...............................                         KRWC BRAKE&CLUTCH CLEANER
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61130034
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora ss¹cego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.60
+Numer producenta: ...............................                         ELR 476.460             R
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080071
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  25- 40mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.23
+Numer producenta: ...............................                         NOR 101-040             R
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16160113
+Nazwa czesci w systemie Hofsoft: ................                                     Odpowietrznik
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.63
+Numer producenta: ...............................                         HPR 112 281 /035103245A R
+
+
+
+************************************************************
+************************************************************

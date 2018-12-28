@@ -1,0 +1,36 @@
+Znaleziono towar : 04230241 (Sprawdzenie: 04230241)
+Znaleziono towar : 04300093 (Sprawdzenie: 04300093)
+Znaleziono towar : 84300820 (Sprawdzenie: 84300820)
+Znaleziono towar : 84300821 (Sprawdzenie: 84300821)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04230241
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                             13.85
+Numer producenta: ...............................                                       LEM 3747501
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04300093
+Nazwa czesci w systemie Hofsoft: ................                     £¹cznik stabilizatora przedni
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             56.38
+Numer producenta: ...............................                            LEM 3058301 /7L0411317
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84300820
+Nazwa czesci w systemie Hofsoft: ................                       £¹cznik stabilizatora ty³ L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             50.33
+Numer producenta: ...............................                                    TRW VO-LS-4397
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84300821
+Nazwa czesci w systemie Hofsoft: ................                       £¹cznik stabilizatora ty³ P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             50.33
+Numer producenta: ...............................                                    TRW VO-LS-4398
+
+
+
+************************************************************
+************************************************************

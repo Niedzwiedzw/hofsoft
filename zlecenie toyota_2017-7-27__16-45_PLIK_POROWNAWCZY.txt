@@ -1,0 +1,20 @@
+Znaleziono towar : 90708655 (Sprawdzenie: 90708655)
+Znaleziono towar : K0062029 (Sprawdzenie: K0062029)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90708655
+Nazwa czesci w systemie Hofsoft: ................                    AR607S Pióro wycier.600/475 AE
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             58.92
+Numer producenta: ...............................                                BOS5 3 397 118 909
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0062029
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do spryskiwaczy ZIMA
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.16
+Numer producenta: ...............................                              KRAE KRAFT 5L (-22C)
+
+
+
+************************************************************
+************************************************************

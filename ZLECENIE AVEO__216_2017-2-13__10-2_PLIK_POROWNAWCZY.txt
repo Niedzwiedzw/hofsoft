@@ -1,0 +1,36 @@
+Znaleziono towar : 61157030 (Sprawdzenie: 61157030)
+Znaleziono towar : 91164060 (Sprawdzenie: 91164060)
+Znaleziono towar : C4228325 (Sprawdzenie: C4228325)
+Znaleziono towar : D1618327 (Sprawdzenie: D1618327)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61157030
+Nazwa czesci w systemie Hofsoft: ................                    Simering 60x80x8 ty³ wa³ korb.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.85
+Numer producenta: ...............................                                      ELR1 166.180
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91164060
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 4X 706
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.65
+Numer producenta: ...............................                                BOS4 1 987 947 962
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          C4228325
+Nazwa czesci w systemie Hofsoft: ................                       Sworzeñ wahacza dolnego L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.80
+Numer producenta: ...............................                                       CTR CBKD-10
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          D1618327
+Nazwa czesci w systemie Hofsoft: ................                                   Zestaw sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            312.35
+Numer producenta: ...............................                               ASN KO-030 / KO-025
+
+
+
+************************************************************
+************************************************************

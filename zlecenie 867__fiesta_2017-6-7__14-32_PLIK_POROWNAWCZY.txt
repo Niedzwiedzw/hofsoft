@@ -1,0 +1,28 @@
+Znaleziono towar : K0061009 (Sprawdzenie: K0061009)
+Znaleziono towar : 91712015 (Sprawdzenie: 91712015)
+Znaleziono towar : 91702059 (Sprawdzenie: 91702059)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061009
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.04
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91712015
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S0135
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.44
+Numer producenta: ...............................                                BOS3 F 026 400 135
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91702059
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7078
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.31
+Numer producenta: ...............................                                BOS3 F 026 407 078
+
+
+
+************************************************************
+************************************************************

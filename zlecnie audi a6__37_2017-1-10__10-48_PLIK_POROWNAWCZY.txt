@@ -1,0 +1,36 @@
+Znaleziono towar : 90700079 (Sprawdzenie: 90700079)
+Znaleziono towar : 90700971 (Sprawdzenie: 90700971)
+Znaleziono towar : 59100035 (Sprawdzenie: 59100035)
+Znaleziono towar : 20051000 (Sprawdzenie: 20051000)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90700079
+Nazwa czesci w systemie Hofsoft: ................                          H383  Pióro wycier.380mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.61
+Numer producenta: ...............................                                BOS5 3 397 011 551
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90700971
+Nazwa czesci w systemie Hofsoft: ................                    934S   Pióro wycier.555/555 AE
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             75.52
+Numer producenta: ...............................                                BOS5 3 397 118 934
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          59100035
+Nazwa czesci w systemie Hofsoft: ................                          Œwieca ¿arowa D-POWER 49
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                             39.58
+Numer producenta: ...............................                         NGK2 D-POWER 49      5849
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20051000
+Nazwa czesci w systemie Hofsoft: ................                       Smar ceramiczny do wtrysków
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             39.25
+Numer producenta: ...............................                                   SWAE 10 92 6712
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,28 @@
+Znaleziono towar : 50020569 (Sprawdzenie: 50020569)
+Znaleziono towar : 01615441 (Sprawdzenie: 01615441)
+Znaleziono towar : 90060015 (Sprawdzenie: 90060015)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50020569
+Nazwa czesci w systemie Hofsoft: ................                          Olej przek³adn. 80W GL-4
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             14.01
+Numer producenta: ...............................                                 CAS 80W MANUAL EP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01615441
+Nazwa czesci w systemie Hofsoft: ................                                   Zestaw sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            343.60
+Numer producenta: ...............................                                   LUK 620 3119 33
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90060015
+Nazwa czesci w systemie Hofsoft: ................                        P³yn hamulcowy DOT 4 BF033
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.94
+Numer producenta: ...............................                            BOSE 1 987 479 106/004
+
+
+
+************************************************************
+************************************************************

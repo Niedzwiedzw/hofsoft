@@ -1,0 +1,28 @@
+Znaleziono towar : 16106334 (Sprawdzenie: 16106334)
+Znaleziono towar : 50011540 (Sprawdzenie: 50011540)
+Znaleziono towar : 04104018 (Sprawdzenie: 04104018)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16106334
+Nazwa czesci w systemie Hofsoft: ................                        Zestaw napraw.kloc.hamulc.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.17
+Numer producenta: ...............................                               QBR 1755 / 109-1755
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50011540
+Nazwa czesci w systemie Hofsoft: ................                       Olej siln. SAE 10W-40 A3/B4
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.46
+Numer producenta: ...............................                          CAS 10W40 MAGNATEC A3/B4
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04104018
+Nazwa czesci w systemie Hofsoft: ................                           £o¿ysko ko³a przedniego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            101.97
+Numer producenta: ...............................                                     SKF 3981 VKBA
+
+
+
+************************************************************
+************************************************************

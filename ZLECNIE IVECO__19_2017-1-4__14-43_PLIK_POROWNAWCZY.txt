@@ -1,0 +1,36 @@
+Znaleziono towar : 81729096 (Sprawdzenie: 81729096)
+Znaleziono towar : 91739045 (Sprawdzenie: 91739045)
+Znaleziono towar : 41709062 (Sprawdzenie: 41709062)
+Znaleziono towar : 61729217 (Sprawdzenie: 61729217)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          81729096
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             82.67
+Numer producenta: ...............................                                     ORG 500054702
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91739045
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy R5535
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             27.48
+Numer producenta: ...............................                                BOS3 1 987 435 535
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41709062
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             45.58
+Numer producenta: ...............................                                     FIL 592/9  OP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61729217
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             69.72
+Numer producenta: ...............................                            MAN PU9002/1Z /PU9002X
+
+
+
+************************************************************
+************************************************************

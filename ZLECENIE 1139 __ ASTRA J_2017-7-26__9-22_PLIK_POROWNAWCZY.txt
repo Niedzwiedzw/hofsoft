@@ -1,0 +1,28 @@
+Znaleziono towar : 90900101 (Sprawdzenie: 90900101)
+Znaleziono towar : 91711535 (Sprawdzenie: 91711535)
+Znaleziono towar : 39041518 (Sprawdzenie: 39041518)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90900101
+Nazwa czesci w systemie Hofsoft: ................                    +50 FR7KPP33+     Œwieca zap³.
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                             16.96
+Numer producenta: ...............................                              BOSB S 50 0242236564
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91711535
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S0217
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             32.35
+Numer producenta: ...............................                                BOS3 F 026 400 217
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          39041518
+Nazwa czesci w systemie Hofsoft: ................                          Cewka zap³onowa - listwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            393.18
+Numer producenta: ...............................                                 DEL4 GN10234-12B1
+
+
+
+************************************************************
+************************************************************

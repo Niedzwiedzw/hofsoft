@@ -1,0 +1,20 @@
+Znaleziono towar : 04104018 (Sprawdzenie: 04104018)
+Znaleziono towar : 84314001 (Sprawdzenie: 84314001)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04104018
+Nazwa czesci w systemie Hofsoft: ................                           £o¿ysko ko³a przedniego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            100.94
+Numer producenta: ...............................                         SKF 3981 VKBA           R
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84314001
+Nazwa czesci w systemie Hofsoft: ................                             Koñcówka dr¹¿ka kier.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             31.81
+Numer producenta: ...............................                         TRW NI-ES-2801          R
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,20 @@
+Znaleziono towar : 96012320 (Sprawdzenie: 96012320)
+Znaleziono towar : 16032057 (Sprawdzenie: 16032057)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96012320
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP346
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             71.81
+Numer producenta: ...............................                                BOSK 0 986 494 032
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16032057
+Nazwa czesci w systemie Hofsoft: ................                          Reperaturka zacisku ham.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             18.76
+Numer producenta: ...............................                                         AFN D4612
+
+
+
+************************************************************
+************************************************************

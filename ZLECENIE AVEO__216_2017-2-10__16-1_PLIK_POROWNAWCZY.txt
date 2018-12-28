@@ -1,0 +1,28 @@
+Znaleziono towar : D1618327 (Sprawdzenie: D1618327)
+Znaleziono towar : 61157030 (Sprawdzenie: 61157030)
+Znaleziono towar : C4228325 (Sprawdzenie: C4228325)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          D1618327
+Nazwa czesci w systemie Hofsoft: ................                                   Zestaw sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            221.25
+Numer producenta: ...............................                               ASN KO-030 / KO-025
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61157030
+Nazwa czesci w systemie Hofsoft: ................                    Simering 60x80x8 ty³ wa³ korb.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.02
+Numer producenta: ...............................                                      ELR1 166.180
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          C4228325
+Nazwa czesci w systemie Hofsoft: ................                       Sworzeñ wahacza dolnego L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.56
+Numer producenta: ...............................                                       CTR CBKD-10
+
+
+
+************************************************************
+************************************************************

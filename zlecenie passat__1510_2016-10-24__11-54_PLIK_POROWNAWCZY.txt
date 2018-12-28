@@ -1,0 +1,20 @@
+Znaleziono towar : 11220790 (Sprawdzenie: 11220790)
+Znaleziono towar : 21220902 (Sprawdzenie: 21220902)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11220790
+Nazwa czesci w systemie Hofsoft: ................                     Rolka napinacza paska micro-V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.34
+Numer producenta: ...............................                            HPR 100 327 /028145278
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21220902
+Nazwa czesci w systemie Hofsoft: ................                           Ko³o pasowe alternatora
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             70.90
+Numer producenta: ...............................                                     INA 535000110
+
+
+
+************************************************************
+************************************************************

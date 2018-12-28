@@ -1,0 +1,44 @@
+Znaleziono towar : 91720112 (Sprawdzenie: 91720112)
+Znaleziono towar : 61110489 (Sprawdzenie: 61110489)
+Znaleziono towar : 91700070 (Sprawdzenie: 91700070)
+Znaleziono towar : 91710080 (Sprawdzenie: 91710080)
+Znaleziono towar : 99100476 (Sprawdzenie: 99100476)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91720112
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N6374
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             39.37
+Numer producenta: ...............................                                BOS3 0 450 906 374
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61110489
+Nazwa czesci w systemie Hofsoft: ................                    Uszczelka pod g³owicê 1.61 3k.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             81.29
+Numer producenta: ...............................                                       ELR 150.172
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700070
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9619
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.60
+Numer producenta: ...............................                                BOS3 1 457 429 619
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91710080
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3714
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.31
+Numer producenta: ...............................                                BOS3 1 457 433 714
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          99100476
+Nazwa czesci w systemie Hofsoft: ................                              Œwieca ¿arowa GLP003
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                             22.34
+Numer producenta: ...............................                                BOSC 0 250 202 022
+
+
+
+************************************************************
+************************************************************

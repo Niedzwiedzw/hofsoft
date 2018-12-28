@@ -1,0 +1,44 @@
+Znaleziono towar : 84302080 (Sprawdzenie: 84302080)
+Znaleziono towar : K1222330 (Sprawdzenie: K1222330)
+Znaleziono towar : 91702020 (Sprawdzenie: 91702020)
+Znaleziono towar : K6002311 (Sprawdzenie: K6002311)
+Znaleziono towar : 20580110 (Sprawdzenie: 20580110)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84302080
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.75
+Numer producenta: ...............................                         TRW FD-LS-0090          R
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K1222330
+Nazwa czesci w systemie Hofsoft: ................                    Rolka prowadz¹ca paska micro-V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.50
+Numer producenta: ...............................                                      KRA2 1222330
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91702020
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.50
+Numer producenta: ...............................                                BOS3 0 451 103 298
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6002311
+Nazwa czesci w systemie Hofsoft: ................                        Klocki hamulcowe     23200
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             38.79
+Numer producenta: ...............................                                      KRAK 6002311
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20580110
+Nazwa czesci w systemie Hofsoft: ................                           Z³¹cze elastyczne50x280
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             34.31
+Numer producenta: ...............................                                       ASM1 50X280
+
+
+
+************************************************************
+************************************************************

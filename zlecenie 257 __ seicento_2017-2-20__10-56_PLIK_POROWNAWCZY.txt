@@ -1,0 +1,28 @@
+Znaleziono towar : 41713245 (Sprawdzenie: 41713245)
+Znaleziono towar : 91164038 (Sprawdzenie: 91164038)
+Znaleziono towar : 00072214 (Sprawdzenie: 00072214)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41713245
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.94
+Numer producenta: ...............................                                     FIL 232/2  AR
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91164038
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 4x 668
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.84
+Numer producenta: ...............................                                BOS4 1 987 948 302
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00072214
+Nazwa czesci w systemie Hofsoft: ................                    Œrod.czysz.uk.dolotowy.siln.be
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.75
+Numer producenta: ...............................                                         WYN 29879
+
+
+
+************************************************************
+************************************************************

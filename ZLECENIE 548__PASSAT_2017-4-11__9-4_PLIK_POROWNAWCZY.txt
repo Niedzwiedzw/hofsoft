@@ -1,0 +1,44 @@
+Znaleziono towar : 96000125 (Sprawdzenie: 96000125)
+Znaleziono towar : 96000121 (Sprawdzenie: 96000121)
+Znaleziono towar : 96040520 (Sprawdzenie: 96040520)
+Znaleziono towar : 06050042 (Sprawdzenie: 06050042)
+Znaleziono towar : 91730024 (Sprawdzenie: 91730024)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96000125
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1504
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             85.25
+Numer producenta: ...............................                                BOSK 0 986 494 659
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96000121
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1505
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            113.42
+Numer producenta: ...............................                                BOSK 0 986 494 660
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96040520
+Nazwa czesci w systemie Hofsoft: ................                            Tarcza hamulcowa BD997
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                            127.57
+Numer producenta: ...............................                                BOS2 0 986 479 058
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          06050042
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa 412210
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                            129.16
+Numer producenta: ...............................                                ATE 24.0112-0210.1
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91730024
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy R2543
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             31.31
+Numer producenta: ...............................                                BOS3 1 987 432 543
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,68 @@
+Znaleziono towar : 96041160 (Sprawdzenie: 96041160)
+Znaleziono towar : 41731050 (Sprawdzenie: 41731050)
+Znaleziono towar : 00080006 (Sprawdzenie: 00080006)
+Znaleziono towar : 41711400 (Sprawdzenie: 41711400)
+Znaleziono towar : 00080011 (Sprawdzenie: 00080011)
+Znaleziono towar : 91701122 (Sprawdzenie: 91701122)
+Znaleziono towar : 91721140 (Sprawdzenie: 91721140)
+Znaleziono towar : 96011040 (Sprawdzenie: 96011040)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96041160
+Nazwa czesci w systemie Hofsoft: ................                     Tarcza hamul.tylna 278x9x53.5
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             71.49
+Numer producenta: ...............................                                BOS2 0 986 478 325
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41731050
+Nazwa czesci w systemie Hofsoft: ................                             Filtr wlotu powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.52
+Numer producenta: ...............................                                      FIL 1106   K
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080006
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   6- 11mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              2.17
+Numer producenta: ...............................                                          NOR 6-11
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41711400
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             32.03
+Numer producenta: ...............................                                     FIL 035/2  AP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080011
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   8- 12mm
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                              0.97
+Numer producenta: ...............................                                       NOR 101-012
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701122
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.73
+Numer producenta: ...............................                                BOS3 1 457 429 122
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91721140
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            134.29
+Numer producenta: ...............................                                BOS3 0 450 915 003
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96011040
+Nazwa czesci w systemie Hofsoft: ................                    Klocki hamulcowe     21919 ty³
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             61.33
+Numer producenta: ...............................                         BOSK 0 986 494 016/424496
+
+
+
+************************************************************
+************************************************************

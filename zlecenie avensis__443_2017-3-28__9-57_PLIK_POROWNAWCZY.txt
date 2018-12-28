@@ -1,0 +1,44 @@
+Znaleziono towar : S4303911 (Sprawdzenie: S4303911)
+Znaleziono towar : P1713900 (Sprawdzenie: P1713900)
+Znaleziono towar : 01613831 (Sprawdzenie: 01613831)
+Znaleziono towar : 24233834 (Sprawdzenie: 24233834)
+Znaleziono towar : 61123707 (Sprawdzenie: 61123707)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          S4303911
+Nazwa czesci w systemie Hofsoft: ................                     £¹cznik stabilizatora tyl.L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             27.71
+Numer producenta: ...............................                                  SAK4 430-20-3911
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          P1713900
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.22
+Numer producenta: ...............................                                      JPN3 FA-098S
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01613831
+Nazwa czesci w systemie Hofsoft: ................                                   Zestaw sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            213.94
+Numer producenta: ...............................                                   LUK 622 1145 60
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24233834
+Nazwa czesci w systemie Hofsoft: ................                            Guma stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             12.77
+Numer producenta: ...............................                                    SWA 81 94 2873
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61123707
+Nazwa czesci w systemie Hofsoft: ................                    Komplet Uszczelek dekla zawor.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.62
+Numer producenta: ...............................                                       ELR 457.380
+
+
+
+************************************************************
+************************************************************

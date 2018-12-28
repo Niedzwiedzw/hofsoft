@@ -1,0 +1,36 @@
+Znaleziono towar : 54225510 (Sprawdzenie: 54225510)
+Znaleziono towar : 84316110 (Sprawdzenie: 84316110)
+Znaleziono towar : 04235913 (Sprawdzenie: 04235913)
+Znaleziono towar : 64235912 (Sprawdzenie: 64235912)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54225510
+Nazwa czesci w systemie Hofsoft: ................                               Sworzeñ wahacza L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             22.67
+Numer producenta: ...............................                                          SID 7989
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84316110
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             29.61
+Numer producenta: ...............................                                    TRW CI-ES-0930
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04235913
+Nazwa czesci w systemie Hofsoft: ................                      Silentblok wahacza L/P tylny
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             36.57
+Numer producenta: ...............................                              LEM 2889601 /3820301
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          64235912
+Nazwa czesci w systemie Hofsoft: ................                    Silentblok wahacza L/P przedni
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             12.45
+Numer producenta: ...............................                                      SAS 523 3843
+
+
+
+************************************************************
+************************************************************

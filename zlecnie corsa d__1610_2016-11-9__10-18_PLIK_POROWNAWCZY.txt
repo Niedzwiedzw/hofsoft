@@ -1,0 +1,36 @@
+Znaleziono towar : X4001549 (Sprawdzenie: X4001549)
+Znaleziono towar : 21501554 (Sprawdzenie: 21501554)
+Znaleziono towar : 84301590 (Sprawdzenie: 84301590)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          X4001549
+Nazwa czesci w systemie Hofsoft: ................                             Amortyzator tylny (G)
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             71.29
+Numer producenta: ...............................                                         MON G1037
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21501554
+Nazwa czesci w systemie Hofsoft: ................                           Pompa uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            110.40
+Numer producenta: ...............................                                   SKF2 85701 VKPC
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84301590
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             28.50
+Numer producenta: ...............................                                    TRW FI-LS-4548
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             29.95
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+
+************************************************************
+************************************************************

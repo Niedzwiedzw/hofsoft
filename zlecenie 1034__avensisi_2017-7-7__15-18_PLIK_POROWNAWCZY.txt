@@ -1,0 +1,36 @@
+Znaleziono towar : 04103970 (Sprawdzenie: 04103970)
+Znaleziono towar : 20020297 (Sprawdzenie: 20020297)
+Znaleziono towar : 48237011 (Sprawdzenie: 48237011)
+Znaleziono towar : B1713923 (Sprawdzenie: B1713923)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04103970
+Nazwa czesci w systemie Hofsoft: ................                           £o¿ysko ko³a przedniego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             82.48
+Numer producenta: ...............................                                     SKF 6831 VKBA
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20020297
+Nazwa czesci w systemie Hofsoft: ................                     Olej przek³adniowy 75W80W GL5
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.10
+Numer producenta: ...............................                                   SWAE 30 94 0580
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48237011
+Nazwa czesci w systemie Hofsoft: ................                          Spinka mocowania nadkola
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.68
+Numer producenta: ...............................                           ROM B23143       10 SZT
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          B1713923
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.02
+Numer producenta: ...............................                                     BLP3 ADT32293
+
+
+
+************************************************************
+************************************************************

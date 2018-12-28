@@ -1,0 +1,36 @@
+Znaleziono towar : 91705960 (Sprawdzenie: 91705960)
+Znaleziono towar : 91725870 (Sprawdzenie: 91725870)
+Znaleziono towar : K1715925 (Sprawdzenie: K1715925)
+Znaleziono towar : 41735900 (Sprawdzenie: 41735900)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91705960
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9193
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.92
+Numer producenta: ...............................                                BOS3 1 457 429 193
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91725870
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa F2161
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.38
+Numer producenta: ...............................                                BOS3 0 450 902 161
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K1715925
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.09
+Numer producenta: ...............................                                      KRA3 1715925
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41735900
+Nazwa czesci w systemie Hofsoft: ................                             Filtr wlotu powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             32.30
+Numer producenta: ...............................                                      FIL 1007   K
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,36 @@
+Znaleziono towar : 54233081 (Sprawdzenie: 54233081)
+Znaleziono towar : K4003207 (Sprawdzenie: K4003207)
+Znaleziono towar : K4003205 (Sprawdzenie: K4003205)
+Znaleziono towar : 74093008 (Sprawdzenie: 74093008)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54233081
+Nazwa czesci w systemie Hofsoft: ................                     Silentblok wahacza przedniego
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             18.39
+Numer producenta: ...............................                                        SID 819662
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4003207
+Nazwa czesci w systemie Hofsoft: ................                         Amortyzator przedni L (G)
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             68.42
+Numer producenta: ...............................                                      KRAM 4003207
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4003205
+Nazwa czesci w systemie Hofsoft: ................                         Amortyzator przedni P (G)
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             68.42
+Numer producenta: ...............................                                      KRAM 4003205
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74093008
+Nazwa czesci w systemie Hofsoft: ................                      Mocowanie amortyzatora przód
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             53.63
+Numer producenta: ...............................                                       KYB2 SM1810
+
+
+
+************************************************************
+************************************************************

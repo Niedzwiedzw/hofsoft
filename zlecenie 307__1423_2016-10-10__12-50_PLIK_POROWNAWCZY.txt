@@ -1,0 +1,68 @@
+Znaleziono towar : 96010040 (Sprawdzenie: 96010040)
+Znaleziono towar : 21155980 (Sprawdzenie: 21155980)
+Znaleziono towar : 11635511 (Sprawdzenie: 11635511)
+Znaleziono towar : 01615630 (Sprawdzenie: 01615630)
+Znaleziono towar : 91705950 (Sprawdzenie: 91705950)
+Znaleziono towar : H6075740 (Sprawdzenie: H6075740)
+Znaleziono towar : 91725581 (Sprawdzenie: 91725581)
+Znaleziono towar : 96055920 (Sprawdzenie: 96055920)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96010040
+Nazwa czesci w systemie Hofsoft: ................                    Klocki hamulcowe     20961 ty³
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             59.81
+Numer producenta: ...............................                         BOSK 0 986 494 596/461769
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21155980
+Nazwa czesci w systemie Hofsoft: ................                      Tuleja prowadz¹ca - sprzêg³o
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.40
+Numer producenta: ...............................                         COR 34710 200           9
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11635511
+Nazwa czesci w systemie Hofsoft: ................                                 DŸwignia sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.31
+Numer producenta: ...............................                         HPR 722 392 /211766     9
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01615630
+Nazwa czesci w systemie Hofsoft: ................                                   Zestaw sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            262.96
+Numer producenta: ...............................                         LUK 623 3043 00         9
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91705950
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.08
+Numer producenta: ...............................                                BOS3 0 451 103 261
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          H6075740
+Nazwa czesci w systemie Hofsoft: ................                                  Linka ham.rêczn.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             33.58
+Numer producenta: ...............................                              HPG3 8AS 355 668-481
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91725581
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             32.87
+Numer producenta: ...............................                                BOS3 1 457 070 000
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96055920
+Nazwa czesci w systemie Hofsoft: ................                    Tarcza ham. 247x9x35         T
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             53.45
+Numer producenta: ...............................                         BOS2 0 986 479 B40/478608
+
+
+
+************************************************************
+************************************************************

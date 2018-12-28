@@ -1,0 +1,84 @@
+Znaleziono towar : K1226512 (Sprawdzenie: K1226512)
+Znaleziono towar : 91700055 (Sprawdzenie: 91700055)
+Znaleziono towar : 81730210 (Sprawdzenie: 81730210)
+Znaleziono towar : 81720701 (Sprawdzenie: 81720701)
+Znaleziono towar : 81710680 (Sprawdzenie: 81710680)
+Znaleziono towar : 21220075 (Sprawdzenie: 21220075)
+Znaleziono towar : 30061001 (Sprawdzenie: 30061001)
+Znaleziono towar : 80950896 (Sprawdzenie: 80950896)
+Znaleziono towar : 91166595 (Sprawdzenie: 91166595)
+Znaleziono towar : 91180273 (Sprawdzenie: 91180273)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K1226512
+Nazwa czesci w systemie Hofsoft: ................                     Rolka napinacza paska micro-V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.91
+Numer producenta: ...............................                                      KRA2 1226512
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700055
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.21
+Numer producenta: ...............................                                BOS3 F 026 407 023
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          81730210
+Nazwa czesci w systemie Hofsoft: ................                             Filtr wlotu powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.93
+Numer producenta: ...............................                                BOS3 1 987 432 114
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          81720701
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            100.74
+Numer producenta: ...............................                                BOS3 0 450 906 467
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          81710680
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.90
+Numer producenta: ...............................                                BOS3 1 457 433 331
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21220075
+Nazwa czesci w systemie Hofsoft: ................                            Rolka prowadz¹ca pasek
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             36.40
+Numer producenta: ...............................                                     INA 532046810
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          30061001
+Nazwa czesci w systemie Hofsoft: ................                     P³yn do uk³adu ch³odzenia G12
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                             20.15
+Numer producenta: ...............................                                   SWAE 99 90 1381
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80950896
+Nazwa czesci w systemie Hofsoft: ................                    Akum.100Ah/830A S5          L-
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            337.48
+Numer producenta: ...............................                                       BOS1 S5 013
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91166595
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6x1555
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.17
+Numer producenta: ...............................                                BOS4 1 987 947 949
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91180273
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            383.37
+Numer producenta: ...............................                                BOS4 1 987 946 943
+
+
+
+************************************************************
+************************************************************

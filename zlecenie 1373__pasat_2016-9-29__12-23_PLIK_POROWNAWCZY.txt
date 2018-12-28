@@ -1,0 +1,20 @@
+Znaleziono towar : 59100047 (Sprawdzenie: 59100047)
+Znaleziono towar : 84300215 (Sprawdzenie: 84300215)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          59100047
+Nazwa czesci w systemie Hofsoft: ................                          Œwieca ¿arowa D-POWER 55
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                             72.40
+Numer producenta: ...............................                         NGK2 D-POWER 55      9864
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84300215
+Nazwa czesci w systemie Hofsoft: ................                    £¹cznik stabilizatora L/P prz.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.27
+Numer producenta: ...............................                         TRW VO-LS-1870          4
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,68 @@
+Znaleziono towar : 90803150 (Sprawdzenie: 90803150)
+Znaleziono towar : 16213020 (Sprawdzenie: 16213020)
+Znaleziono towar : 48230012 (Sprawdzenie: 48230012)
+Znaleziono towar : 90700715 (Sprawdzenie: 90700715)
+Znaleziono towar : 90801750 (Sprawdzenie: 90801750)
+Znaleziono towar : 96003493 (Sprawdzenie: 96003493)
+Znaleziono towar : 16109015 (Sprawdzenie: 16109015)
+Znaleziono towar : 56029313 (Sprawdzenie: 56029313)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90803150
+Nazwa czesci w systemie Hofsoft: ................                       ¯arówka P 21W 12V PureLight
+Ilosc: ..........................................                                                 7
+CENA: ...........................................                                              0.92
+Numer producenta: ...............................                                BOS8 1 987 302 201
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16213020
+Nazwa czesci w systemie Hofsoft: ................                          Zestaw napr.zacisku ham.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             26.98
+Numer producenta: ...............................                             QBR 1386X / 113-1386X
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48230012
+Nazwa czesci w systemie Hofsoft: ................                    Blaszka mont. mocow. os³on kó³
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.98
+Numer producenta: ...............................                          ROM 12623        25 szt.
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90700715
+Nazwa czesci w systemie Hofsoft: ................                    609    Pióro wycier.600/600 TW
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             42.52
+Numer producenta: ...............................                                BOS5 3 397 118 309
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90801750
+Nazwa czesci w systemie Hofsoft: ................                       ¯arówka R 10W 12V PureLight
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              0.82
+Numer producenta: ...............................                                BOS8 1 987 302 203
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96003493
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP972
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             76.23
+Numer producenta: ...............................                                BOSK 0 986 424 833
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16109015
+Nazwa czesci w systemie Hofsoft: ................                    Zestaw naprawczy szczêk hamul.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.39
+Numer producenta: ...............................                               QBR 0839 / 105-0839
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56029313
+Nazwa czesci w systemie Hofsoft: ................                          Szczêki hamulcowe 170x42
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             74.16
+Numer producenta: ...............................                                      REM1 4712 00
+
+
+
+************************************************************
+************************************************************

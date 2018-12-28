@@ -1,0 +1,44 @@
+Znaleziono towar : 90904212 (Sprawdzenie: 90904212)
+Znaleziono towar : 00072403 (Sprawdzenie: 00072403)
+Znaleziono towar : 99048323 (Sprawdzenie: 99048323)
+Znaleziono towar : 48230053 (Sprawdzenie: 48230053)
+Znaleziono towar : 59128324 (Sprawdzenie: 59128324)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90904212
+Nazwa czesci w systemie Hofsoft: ................                    WR7KI33S CNG/LPG  Œwieca zap³.
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                             12.87
+Numer producenta: ...............................                                BOSB 0 242 236 576
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00072403
+Nazwa czesci w systemie Hofsoft: ................                    Œrod.czysz.uk.dolotowy gaŸnika
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.61
+Numer producenta: ...............................                                   WYN 54179/54181
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          99048323
+Nazwa czesci w systemie Hofsoft: ................                          Cewka zap³onowa - listwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             70.62
+Numer producenta: ...............................                                     ORG 96253555I
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48230053
+Nazwa czesci w systemie Hofsoft: ................                         Trójnik uniwersalny  O 10
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.43
+Numer producenta: ...............................                          ROM C60651        5 szt.
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          59128324
+Nazwa czesci w systemie Hofsoft: ................                             Komplet przewodów W/N
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             54.76
+Numer producenta: ...............................                         NGK1 RC-DW1202       6020
+
+
+
+************************************************************
+************************************************************

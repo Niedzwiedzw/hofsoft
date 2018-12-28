@@ -1,0 +1,20 @@
+Znaleziono towar : 00072208 (Sprawdzenie: 00072208)
+Znaleziono towar : 30072427 (Sprawdzenie: 30072427)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00072208
+Nazwa czesci w systemie Hofsoft: ................                    Œrod.czysz.uk.dolotowy.sil.dsl
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.18
+Numer producenta: ...............................                                         WYN 23379
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          30072427
+Nazwa czesci w systemie Hofsoft: ................                       Preparat do czyszczenia DPF
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             34.77
+Numer producenta: ...............................                                           K2 W150
+
+
+
+************************************************************
+************************************************************

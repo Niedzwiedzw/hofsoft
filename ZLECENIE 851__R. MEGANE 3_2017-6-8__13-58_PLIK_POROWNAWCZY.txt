@@ -1,0 +1,36 @@
+Znaleziono towar : 91325202 (Sprawdzenie: 91325202)
+Znaleziono towar : 11788500 (Sprawdzenie: 11788500)
+Znaleziono towar : 21535000 (Sprawdzenie: 21535000)
+Znaleziono towar : 21535001 (Sprawdzenie: 21535001)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91325202
+Nazwa czesci w systemie Hofsoft: ................                               Ko³o wa³ka rozrz¹du
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            300.00
+Numer producenta: ...............................                                    REN 7701478505
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11788500
+Nazwa czesci w systemie Hofsoft: ................                                 Korek do gazu M10
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              0.53
+Numer producenta: ...............................                          AKC 61547    =       M10
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21535000
+Nazwa czesci w systemie Hofsoft: ................                    Zaœlepka wa³u rozrz¹du 57x10,5
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.83
+Numer producenta: ...............................                                     COR 53092 216
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21535001
+Nazwa czesci w systemie Hofsoft: ................                     Zaœlepka wa³u rozrz¹du 42,5x9
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.92
+Numer producenta: ...............................                                     COR 53091 216
+
+
+
+************************************************************
+************************************************************

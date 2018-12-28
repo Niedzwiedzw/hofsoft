@@ -1,0 +1,28 @@
+Znaleziono towar : 16090120 (Sprawdzenie: 16090120)
+Znaleziono towar : 56035522 (Sprawdzenie: 56035522)
+Znaleziono towar : 56035521 (Sprawdzenie: 56035521)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16090120
+Nazwa czesci w systemie Hofsoft: ................                    Przewód hamulc.metal. L=600 mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              6.29
+Numer producenta: ...............................                                            WP 009
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56035522
+Nazwa czesci w systemie Hofsoft: ................                    Cylinderek ham. P      "20,64"
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.14
+Numer producenta: ...............................                                      KRA6 6035522
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56035521
+Nazwa czesci w systemie Hofsoft: ................                    Cylinderek ham. L      "20,64"
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.14
+Numer producenta: ...............................                                      KRA6 6035521
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,52 @@
+Znaleziono towar : K1715925 (Sprawdzenie: K1715925)
+Znaleziono towar : 91725870 (Sprawdzenie: 91725870)
+Znaleziono towar : K0061175 (Sprawdzenie: K0061175)
+Znaleziono towar : T0010260 (Sprawdzenie: T0010260)
+Znaleziono towar : 91705960 (Sprawdzenie: 91705960)
+Znaleziono towar : 91186190 (Sprawdzenie: 91186190)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K1715925
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.09
+Numer producenta: ...............................                                      KRA3 1715925
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91725870
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa F2161
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.38
+Numer producenta: ...............................                                BOS3 0 450 902 161
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061175
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.96
+Numer producenta: ...............................                         KRAE KRAFT P£YN DO CH£.5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          T0010260
+Nazwa czesci w systemie Hofsoft: ................                         Olej silnikowy SAE  5W-40
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             60.86
+Numer producenta: ...............................                         TOT 5W40 Q. 9000 ENERGY L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91705960
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9193
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.92
+Numer producenta: ...............................                                BOS3 1 457 429 193
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91186190
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            162.74
+Numer producenta: ...............................                           BOS4 1 987 946 933/8723
+
+
+
+************************************************************
+************************************************************

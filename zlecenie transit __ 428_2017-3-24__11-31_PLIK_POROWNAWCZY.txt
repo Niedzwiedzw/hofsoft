@@ -1,0 +1,68 @@
+Znaleziono towar : N8250799 (Sprawdzenie: N8250799)
+Znaleziono towar : 59839861 (Sprawdzenie: 59839861)
+Znaleziono towar : 90803150 (Sprawdzenie: 90803150)
+Znaleziono towar : 10930020 (Sprawdzenie: 10930020)
+Znaleziono towar : N8251513 (Sprawdzenie: N8251513)
+Znaleziono towar : 90805250 (Sprawdzenie: 90805250)
+Znaleziono towar : N8251147 (Sprawdzenie: N8251147)
+Znaleziono towar : N8251765 (Sprawdzenie: N8251765)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8250799
+Nazwa czesci w systemie Hofsoft: ................                     Zestaw os³on termokurczliwych
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              2.28
+Numer producenta: ...............................                                           NAG 047
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          59839861
+Nazwa czesci w systemie Hofsoft: ................                       Gniazdo  7 -stykowe 16A 12V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.31
+Numer producenta: ...............................                               HEL 8JB 001 941-002
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90803150
+Nazwa czesci w systemie Hofsoft: ................                       ¯arówka P 21W 12V PureLight
+Ilosc: ..........................................                                                 6
+CENA: ...........................................                                              0.93
+Numer producenta: ...............................                                BOS8 1 987 302 201
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10930020
+Nazwa czesci w systemie Hofsoft: ................                           Bezpiecznik  10A p³aski
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                              0.24
+Numer producenta: ...............................                               NAR BEZPIECZNIK 10A
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251513
+Nazwa czesci w systemie Hofsoft: ................                        Taœma izolacyjna p³ócienna
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.22
+Numer producenta: ...............................                                         NAG 268/1
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90805250
+Nazwa czesci w systemie Hofsoft: ................                    ¯arówka H4 60/55W 12VPureLight
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              5.89
+Numer producenta: ...............................                                BOS8 1 987 302 041
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251147
+Nazwa czesci w systemie Hofsoft: ................                       Wtyk ¿arówki reflektora H-4
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.01
+Numer producenta: ...............................                                         NAG 193/1
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251765
+Nazwa czesci w systemie Hofsoft: ................                      Opr. ¿arówki 5W bezc.hermet.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.01
+Numer producenta: ...............................                                           NAG 428
+
+
+
+************************************************************
+************************************************************

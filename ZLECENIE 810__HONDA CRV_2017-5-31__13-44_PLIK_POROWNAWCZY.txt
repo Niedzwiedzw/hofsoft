@@ -1,0 +1,44 @@
+Znaleziono towar : 24236643 (Sprawdzenie: 24236643)
+Znaleziono towar : 91706615 (Sprawdzenie: 91706615)
+Znaleziono towar : N8251823 (Sprawdzenie: N8251823)
+Znaleziono towar : 91716678 (Sprawdzenie: 91716678)
+Znaleziono towar : 91736650 (Sprawdzenie: 91736650)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24236643
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              4.71
+Numer producenta: ...............................                                    SWA 85 94 1998
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91706615
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7068
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.44
+Numer producenta: ...............................                                BOS3 F 026 407 068
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251823
+Nazwa czesci w systemie Hofsoft: ................                     Przekaü.MICRO sygna≥u úwiate≥
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.62
+Numer producenta: ...............................                                           NAG 458
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91716678
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S0159
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             48.71
+Numer producenta: ...............................                                BOS3 F 026 400 159
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91736650
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2166
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             21.32
+Numer producenta: ...............................                                BOS3 1 987 432 166
+
+
+
+************************************************************
+************************************************************

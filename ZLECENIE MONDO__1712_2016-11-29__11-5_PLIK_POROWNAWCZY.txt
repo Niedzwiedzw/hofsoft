@@ -1,0 +1,52 @@
+Znaleziono towar : 00080041 (Sprawdzenie: 00080041)
+Znaleziono towar : K6012127 (Sprawdzenie: K6012127)
+Znaleziono towar : 91702400 (Sprawdzenie: 91702400)
+Znaleziono towar : 00080101 (Sprawdzenie: 00080101)
+Znaleziono towar : K6002175 (Sprawdzenie: K6002175)
+Znaleziono towar : 91712164 (Sprawdzenie: 91712164)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080041
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  16- 27mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.07
+Numer producenta: ...............................                                       NOR 101-027
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6012127
+Nazwa czesci w systemie Hofsoft: ................                    Klocki hamulcowe     23557 ty³
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             42.11
+Numer producenta: ...............................                                      KRAK 6012127
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91702400
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9239
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.16
+Numer producenta: ...............................                                BOS3 1 457 429 239
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080101
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  40- 60mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.42
+Numer producenta: ...............................                                       NOR 101-060
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6002175
+Nazwa czesci w systemie Hofsoft: ................                        Klocki hamulcowe     23278
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             44.32
+Numer producenta: ...............................                                      KRAK 6002175
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91712164
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3047
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.33
+Numer producenta: ...............................                                BOS3 1 457 433 047
+
+
+
+************************************************************
+************************************************************

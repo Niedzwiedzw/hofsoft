@@ -1,0 +1,28 @@
+Znaleziono towar : 91714225 (Sprawdzenie: 91714225)
+Znaleziono towar : 80071142 (Sprawdzenie: 80071142)
+Znaleziono towar : 91704850 (Sprawdzenie: 91704850)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91714225
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             81.31
+Numer producenta: ...............................                                BOS3 F 026 400 200
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80071142
+Nazwa czesci w systemie Hofsoft: ................                         Spray do pasków klinowych
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.69
+Numer producenta: ...............................                          CRC 10756 / 100813131244
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91704850
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.81
+Numer producenta: ...............................                                BOS3 1 457 429 192
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,28 @@
+Znaleziono towar : N8251823 (Sprawdzenie: N8251823)
+Znaleziono towar : 48233772 (Sprawdzenie: 48233772)
+Znaleziono towar : 48233724 (Sprawdzenie: 48233724)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251823
+Nazwa czesci w systemie Hofsoft: ................                     Przekaü.MICRO sygna≥u úwiate≥
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.62
+Numer producenta: ...............................                                           NAG 458
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48233772
+Nazwa czesci w systemie Hofsoft: ................                     Spinka mocow. zderzaka czarna
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.54
+Numer producenta: ...............................                          ROM B19233        5 szt.
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48233724
+Nazwa czesci w systemie Hofsoft: ................                    Ko≥ek rozp. mocowania zderzaka
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.66
+Numer producenta: ...............................                          ROM B22626       10 SZT.
+
+
+
+************************************************************
+************************************************************

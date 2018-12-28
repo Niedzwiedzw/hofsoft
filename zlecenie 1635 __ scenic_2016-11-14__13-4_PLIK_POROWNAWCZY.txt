@@ -1,0 +1,60 @@
+Znaleziono towar : 59839905 (Sprawdzenie: 59839905)
+Znaleziono towar : N8250801 (Sprawdzenie: N8250801)
+Znaleziono towar : N8250711 (Sprawdzenie: N8250711)
+Znaleziono towar : N8251653 (Sprawdzenie: N8251653)
+Znaleziono towar : N8251511 (Sprawdzenie: N8251511)
+Znaleziono towar : N8251631 (Sprawdzenie: N8251631)
+Znaleziono towar : N8251617 (Sprawdzenie: N8251617)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          59839905
+Nazwa czesci w systemie Hofsoft: ................                     Gniazdo zapalniczki 2-stykowe
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.20
+Numer producenta: ...............................                               HEL 8JB 008 023-001
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8250801
+Nazwa czesci w systemie Hofsoft: ................                    Obudowa bezpiecznika p≥askiego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              2.88
+Numer producenta: ...............................                                           NAG 048
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8250711
+Nazwa czesci w systemie Hofsoft: ................                    Podstawa przekaünika 5-stykowa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.41
+Numer producenta: ...............................                                         NAG 009/1
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251653
+Nazwa czesci w systemie Hofsoft: ................                       Obudowa bezp.UNIVAL MTA 30A
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              4.97
+Numer producenta: ...............................                                         NAG 322/2
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251511
+Nazwa czesci w systemie Hofsoft: ................                        Taúma izolacyjna p≥Ûcienna
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.37
+Numer producenta: ...............................                                           NAG 268
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251631
+Nazwa czesci w systemie Hofsoft: ................                    Wy≥πcznik duøy 2-poz 3-stykowy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.29
+Numer producenta: ...............................                                           NAG 315
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251617
+Nazwa czesci w systemie Hofsoft: ................                      Przek. zwierno-rozwierny 541
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.57
+Numer producenta: ...............................                                           NAG 308
+
+
+
+************************************************************
+************************************************************

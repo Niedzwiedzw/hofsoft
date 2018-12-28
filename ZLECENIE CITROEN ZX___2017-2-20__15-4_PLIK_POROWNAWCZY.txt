@@ -1,0 +1,28 @@
+Znaleziono towar : 00080012 (Sprawdzenie: 00080012)
+Znaleziono towar : 91723010 (Sprawdzenie: 91723010)
+Znaleziono towar : 41715950 (Sprawdzenie: 41715950)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080012
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   8- 16mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.38
+Numer producenta: ...............................                                       NOR 100-16W
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91723010
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa GH002
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             18.27
+Numer producenta: ...............................                                BOS3 0 450 905 002
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41715950
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.00
+Numer producenta: ...............................                                     FIL 311    AE
+
+
+
+************************************************************
+************************************************************

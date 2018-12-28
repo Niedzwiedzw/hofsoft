@@ -1,0 +1,43 @@
+Znaleziono towar : 26038011 (Sprawdzenie: 26038011)
+Znaleziono towar : 16090050 (Sprawdzenie: 16090050)
+Znaleziono towar : 90060015 (Sprawdzenie: 90060015) <---Poprawiono?Znaleziono towar : 20501580 (Sprawdzenie: 20501580)
+Znaleziono towar : 26080340 (Sprawdzenie: 26080340)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          26038011
+Nazwa czesci w systemie Hofsoft: ................                                   Cylinderek ham.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             70.93
+Numer producenta: ...............................                                         AP 1 4770
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16090050
+Nazwa czesci w systemie Hofsoft: ................                    Przewód hamulc.metal. L=250 mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.13
+Numer producenta: ...............................                                            WP 006
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90060015
+Nazwa czesci w systemie Hofsoft: ................                        P³yn hamulcowy DOT 4 BF033
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.74
+Numer producenta: ...............................                            BOSE 1 987 479 106/004
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20501580
+Nazwa czesci w systemie Hofsoft: ................                                   Wieszak t³umika
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.52
+Numer producenta: ...............................                                       FIS 123-923
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          26080340
+Nazwa czesci w systemie Hofsoft: ................                       Przewód ham.przedni L=295mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.06
+Numer producenta: ...............................                                      AP 5 6T46584
+
+
+
+************************************************************
+************************************************************

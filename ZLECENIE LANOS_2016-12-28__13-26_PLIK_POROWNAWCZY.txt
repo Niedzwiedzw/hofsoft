@@ -1,0 +1,28 @@
+Znaleziono towar : 20532020 (Sprawdzenie: 20532020)
+Znaleziono towar : 12518305 (Sprawdzenie: 12518305)
+Znaleziono towar : 20528320 (Sprawdzenie: 20528320)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20532020
+Nazwa czesci w systemie Hofsoft: ................                          Pierœcieñ uszczelniaj¹cy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              3.11
+Numer producenta: ...............................                                       FIS 130-916
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          12518305
+Nazwa czesci w systemie Hofsoft: ................                                    T³umik przedni
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             67.14
+Numer producenta: ...............................                                          PLO 0508
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20528320
+Nazwa czesci w systemie Hofsoft: ................                               Uszczelka kolektora
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              3.48
+Numer producenta: ...............................                                       FIS 870-904
+
+
+
+************************************************************
+************************************************************

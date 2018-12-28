@@ -1,0 +1,28 @@
+Znaleziono towar : 61700045 (Sprawdzenie: 61700045)
+Znaleziono towar : 91710180 (Sprawdzenie: 91710180)
+Znaleziono towar : 48230748 (Sprawdzenie: 48230748)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61700045
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.58
+Numer producenta: ...............................                                       MAN HU8001X
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91710180
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S0028
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             37.75
+Numer producenta: ...............................                                BOS3 F 026 400 028
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48230748
+Nazwa czesci w systemie Hofsoft: ................                      Mocowanie nadkoli Audi A3,A4
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.67
+Numer producenta: ...............................                              ROM C10134     5 szt
+
+
+
+************************************************************
+************************************************************

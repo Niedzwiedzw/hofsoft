@@ -1,0 +1,36 @@
+Znaleziono towar : 91171575 (Sprawdzenie: 91171575)
+Znaleziono towar : 91701525 (Sprawdzenie: 91701525)
+Znaleziono towar : 80905700 (Sprawdzenie: 80905700)
+Znaleziono towar : K0061170 (Sprawdzenie: K0061170)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91171575
+Nazwa czesci w systemie Hofsoft: ................                      Pasek rozrz¹du    111x17 HSN
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.59
+Numer producenta: ...............................                                BOS4 1 987 949 194
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701525
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P3370
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.18
+Numer producenta: ...............................                                BOS3 0 451 103 370
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80905700
+Nazwa czesci w systemie Hofsoft: ................                    + 8 FR7DC+        Œwieca zap³.
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              4.74
+Numer producenta: ...............................                              BOSB S 08 0242235666
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061170
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.55
+Numer producenta: ...............................                         KRAE KRAFT P£YN DO CH£.1L
+
+
+
+************************************************************
+************************************************************

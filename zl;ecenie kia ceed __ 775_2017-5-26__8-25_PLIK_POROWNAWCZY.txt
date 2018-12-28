@@ -1,0 +1,28 @@
+Znaleziono towar : 96018805 (Sprawdzenie: 96018805)
+Znaleziono towar : 24234743 (Sprawdzenie: 24234743)
+Znaleziono towar : 96058822 (Sprawdzenie: 96058822)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96018805
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1051
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             79.17
+Numer producenta: ...............................                                BOSK 0 986 494 627
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24234743
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              4.09
+Numer producenta: ...............................                                    SWA 90 94 1585
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96058822
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD2114
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             73.90
+Numer producenta: ...............................                            BOS2 0 986 479 C14/508
+
+
+
+************************************************************
+************************************************************

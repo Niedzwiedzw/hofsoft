@@ -1,0 +1,52 @@
+Znaleziono towar : 48238900 (Sprawdzenie: 48238900)
+Znaleziono towar : 04230459 (Sprawdzenie: 04230459)
+Znaleziono towar : 48231902 (Sprawdzenie: 48231902)
+Znaleziono towar : 84310620 (Sprawdzenie: 84310620)
+Znaleziono towar : 84310625 (Sprawdzenie: 84310625)
+Znaleziono towar : 00080011 (Sprawdzenie: 00080011)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48238900
+Nazwa czesci w systemie Hofsoft: ................                        Trójnik spryskiwacza 8,5mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.14
+Numer producenta: ...............................                          ROM 52031         1 SZT.
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04230459
+Nazwa czesci w systemie Hofsoft: ................                    Silentblok wah.przed.doln.prz.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.57
+Numer producenta: ...............................                            LEM 1768101 /7D0407183
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48231902
+Nazwa czesci w systemie Hofsoft: ................                         Wkrêt mocowania b³otników
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.20
+Numer producenta: ...............................                          ROM 45168        10 szt.
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84310620
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.23
+Numer producenta: ...............................                                    TRW VO-ES-0368
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84310625
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.23
+Numer producenta: ...............................                                    TRW VO-ES-0369
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080011
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   8- 12mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              0.99
+Numer producenta: ...............................                                       NOR 101-012
+
+
+
+************************************************************
+************************************************************

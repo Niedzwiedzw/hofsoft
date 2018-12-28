@@ -1,0 +1,28 @@
+Znaleziono towar : 91180807 (Sprawdzenie: 91180807)
+Znaleziono towar : 91730300 (Sprawdzenie: 91730300)
+Znaleziono towar : K0061009 (Sprawdzenie: K0061009)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91180807
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            191.03
+Numer producenta: ...............................                           BOS4 1 987 946 921 /438
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91730300
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2097
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.56
+Numer producenta: ...............................                                BOS3 1 987 432 097
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061009
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.04
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 1L
+
+
+
+************************************************************
+************************************************************

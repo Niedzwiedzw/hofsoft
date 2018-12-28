@@ -1,0 +1,20 @@
+Znaleziono towar : K0061170 (Sprawdzenie: K0061170)
+Znaleziono towar : 80905906 (Sprawdzenie: 80905906)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061170
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.55
+Numer producenta: ...............................                         KRAE KRAFT P£YN DO CH£.1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80905906
+Nazwa czesci w systemie Hofsoft: ................                    +42 FR8SC+        Œwieca zap³.
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              7.48
+Numer producenta: ...............................                              BOSB S 42 0242229797
+
+
+
+************************************************************
+************************************************************

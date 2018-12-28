@@ -1,0 +1,28 @@
+Znaleziono towar : 61130130 (Sprawdzenie: 61130130)
+Znaleziono towar : 00130040 (Sprawdzenie: 00130040)
+Znaleziono towar : 61130135 (Sprawdzenie: 61130135)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61130130
+Nazwa czesci w systemie Hofsoft: ................                    Uszczelka kolekt.wyd.1-4 cyld.
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              1.64
+Numer producenta: ...............................                                       ELR 815.187
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00130040
+Nazwa czesci w systemie Hofsoft: ................                            Przewód paliwowy   4mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.60
+Numer producenta: ...............................                                   GAT2 3225-00051
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61130135
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora ss¹cego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.77
+Numer producenta: ...............................                                       ELR 915.213
+
+
+
+************************************************************
+************************************************************

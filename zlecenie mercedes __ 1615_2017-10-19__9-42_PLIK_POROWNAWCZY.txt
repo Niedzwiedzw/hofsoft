@@ -1,0 +1,28 @@
+Znaleziono towar : 91721075 (Sprawdzenie: 91721075)
+Znaleziono towar : 90818532 (Sprawdzenie: 90818532)
+Znaleziono towar : 91731065 (Sprawdzenie: 91731065)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91721075
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N2065
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             66.97
+Numer producenta: ...............................                                BOS3 F 026 402 065
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90818532
+Nazwa czesci w systemie Hofsoft: ................                             ¯arówka ksenonowa D1S
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                            145.30
+Numer producenta: ...............................                                BOS8 1 987 302 905
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91731065
+Nazwa czesci w systemie Hofsoft: ................                                    Filtr kabinowy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             71.54
+Numer producenta: ...............................                         BOS3 1 987 435 001/432326
+
+
+
+************************************************************
+************************************************************

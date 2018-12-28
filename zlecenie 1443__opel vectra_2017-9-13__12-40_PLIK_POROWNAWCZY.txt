@@ -1,0 +1,52 @@
+Znaleziono towar : 91731530 (Sprawdzenie: 91731530)
+Znaleziono towar : 41728300 (Sprawdzenie: 41728300)
+Znaleziono towar : K6001545 (Sprawdzenie: K6001545)
+Znaleziono towar : 46121540 (Sprawdzenie: 46121540)
+Znaleziono towar : 91701520 (Sprawdzenie: 91701520)
+Znaleziono towar : 91711760 (Sprawdzenie: 91711760)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91731530
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2030
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.09
+Numer producenta: ...............................                                BOS3 1 987 432 030
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41728300
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.19
+Numer producenta: ...............................                                     FIL 905    PP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6001545
+Nazwa czesci w systemie Hofsoft: ................                        Klocki hamulcowe     21828
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             51.04
+Numer producenta: ...............................                                      KRAK 6001545
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          46121540
+Nazwa czesci w systemie Hofsoft: ................                    Czujnik klocka ham.prz.  660mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.18
+Numer producenta: ...............................                                       HPR 203 972
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701520
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P3079
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.26
+Numer producenta: ...............................                                BOS3 0 451 103 079
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91711760
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3740
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             18.27
+Numer producenta: ...............................                                BOS3 1 457 433 740
+
+
+
+************************************************************
+************************************************************

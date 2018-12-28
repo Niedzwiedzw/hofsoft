@@ -1,0 +1,36 @@
+Znaleziono towar : E0011221 (Sprawdzenie: E0011221)
+Znaleziono towar : 91705202 (Sprawdzenie: 91705202)
+Znaleziono towar : 91735075 (Sprawdzenie: 91735075)
+Znaleziono towar : 41715330 (Sprawdzenie: 41715330)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          E0011221
+Nazwa czesci w systemie Hofsoft: ................                             Olej siln. SAE  5W-30
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             82.36
+Numer producenta: ...............................                          ELF 5W30 EVOFULLTECH LLX
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91705202
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7125
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.09
+Numer producenta: ...............................                                BOS3 F 026 407 125
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91735075
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2078
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             38.41
+Numer producenta: ...............................                                BOS3 1 987 432 078
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41715330
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             35.80
+Numer producenta: ...............................                                      FIL 137/6 AP
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,44 @@
+Znaleziono towar : 56026665 (Sprawdzenie: 56026665)
+Znaleziono towar : 96046670 (Sprawdzenie: 96046670)
+Znaleziono towar : 16095550 (Sprawdzenie: 16095550)
+Znaleziono towar : 96008030 (Sprawdzenie: 96008030)
+Znaleziono towar : 41708001 (Sprawdzenie: 41708001)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56026665
+Nazwa czesci w systemie Hofsoft: ................                          Szczêki hamulcowe 200x38
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             56.41
+Numer producenta: ...............................                                      REM1 4400 00
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96046670
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD2024
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             75.93
+Numer producenta: ...............................                         BOS2 0 986 479 B23/478174
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16095550
+Nazwa czesci w systemie Hofsoft: ................                    Przewód hamulc.metal. L=200 mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              4.43
+Numer producenta: ...............................                         WP 043                 74
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96008030
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP097
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             79.67
+Numer producenta: ...............................                                BOSK 0 986 424 214
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41708001
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.40
+Numer producenta: ...............................                                     FIL 580/7  OP
+
+
+
+************************************************************
+************************************************************

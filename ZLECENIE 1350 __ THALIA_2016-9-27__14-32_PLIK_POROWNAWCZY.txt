@@ -1,0 +1,28 @@
+Znaleziono towar : 91185421 (Sprawdzenie: 91185421)
+Znaleziono towar : 20061004 (Sprawdzenie: 20061004)
+Znaleziono towar : K0072409 (Sprawdzenie: K0072409)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91185421
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            249.80
+Numer producenta: ...............................                                BOS4 1 987 946 439
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20061004
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             23.37
+Numer producenta: ...............................                                   SWAE 99 90 2374
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0072409
+Nazwa czesci w systemie Hofsoft: ................                    Œrodek odt³.do sprzêg.i hamul.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.98
+Numer producenta: ...............................                         KRWC BRAKE&CLUTCH CLEANER
+
+
+
+************************************************************
+************************************************************

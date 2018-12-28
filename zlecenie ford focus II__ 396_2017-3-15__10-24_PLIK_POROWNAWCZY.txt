@@ -1,0 +1,20 @@
+Znaleziono towar : 91928987 (Sprawdzenie: 91928987)
+Znaleziono towar : 91805574 (Sprawdzenie: 91805574)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91928987
+Nazwa czesci w systemie Hofsoft: ................                         Podk³adka pod wtryskiwacz
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              2.39
+Numer producenta: ...............................                                BOSD F 00V C17 504
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91805574
+Nazwa czesci w systemie Hofsoft: ................                               Os³ona wtryskiwacza
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              9.48
+Numer producenta: ...............................                                    ORG 1609848080
+
+
+
+************************************************************
+************************************************************

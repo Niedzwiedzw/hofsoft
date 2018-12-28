@@ -1,0 +1,28 @@
+Znaleziono towar : 54221554 (Sprawdzenie: 54221554)
+Znaleziono towar : 96001650 (Sprawdzenie: 96001650)
+Znaleziono towar : 54221555 (Sprawdzenie: 54221555)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54221554
+Nazwa czesci w systemie Hofsoft: ................                              Sworzeñ wahacza lewy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             31.24
+Numer producenta: ...............................                                          SID 9080
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96001650
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP363
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             67.51
+Numer producenta: ...............................                         BOSK 0 986 494 654/424646
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54221555
+Nazwa czesci w systemie Hofsoft: ................                             Sworzeñ wahacza prawy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             31.24
+Numer producenta: ...............................                         SID 9081                6
+
+
+
+************************************************************
+************************************************************

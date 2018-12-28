@@ -1,0 +1,20 @@
+Znaleziono towar : K0061175 (Sprawdzenie: K0061175)
+Znaleziono towar : K1555942 (Sprawdzenie: K1555942)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061175
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.96
+Numer producenta: ...............................                         KRAE KRAFT P£YN DO CH£.5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K1555942
+Nazwa czesci w systemie Hofsoft: ................                                         Ch³odnica
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            156.96
+Numer producenta: ...............................                                      KRAF 1555942
+
+
+
+************************************************************
+************************************************************

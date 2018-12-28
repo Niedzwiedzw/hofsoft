@@ -1,0 +1,52 @@
+Znaleziono towar : 91730301 (Sprawdzenie: 91730301)
+Znaleziono towar : 12960112 (Sprawdzenie: 12960112)
+Znaleziono towar : 00072208 (Sprawdzenie: 00072208)
+Znaleziono towar : 99410018 (Sprawdzenie: 99410018)
+Znaleziono towar : 48850076 (Sprawdzenie: 48850076)
+Znaleziono towar : 10930005 (Sprawdzenie: 10930005)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91730301
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy R2397
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.30
+Numer producenta: ...............................                                BOS3 1 987 432 397
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          12960112
+Nazwa czesci w systemie Hofsoft: ................                              Przewód intercoolera
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             81.58
+Numer producenta: ...............................                                       HPR 113 715
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00072208
+Nazwa czesci w systemie Hofsoft: ................                    Œrod.czysz.uk.dolotowy.sil.dsl
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.44
+Numer producenta: ...............................                                         WYN 23379
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          99410018
+Nazwa czesci w systemie Hofsoft: ................                           Czujnik ABS prawy WS507
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             70.17
+Numer producenta: ...............................                                BOSI 0 986 594 507
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48850076
+Nazwa czesci w systemie Hofsoft: ................                                         Zawór EGR
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            227.47
+Numer producenta: ...............................                                  PIE 7.24809.16.0
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10930005
+Nazwa czesci w systemie Hofsoft: ................                           Bezpiecznik   5A p³aski
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              0.24
+Numer producenta: ...............................                                NAR BEZPIECZNIK 5A
+
+
+
+************************************************************
+************************************************************

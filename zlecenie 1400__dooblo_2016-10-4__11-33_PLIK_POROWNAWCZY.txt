@@ -1,0 +1,28 @@
+Znaleziono towar : 91733060 (Sprawdzenie: 91733060)
+Znaleziono towar : 41713045 (Sprawdzenie: 41713045)
+Znaleziono towar : 41703070 (Sprawdzenie: 41703070)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91733060
+Nazwa czesci w systemie Hofsoft: ................                             Filtr wlotu powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.41
+Numer producenta: ...............................                                BOS3 1 987 432 228
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41713045
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             26.01
+Numer producenta: ...............................                                     FIL 098/3  AP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41703070
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.41
+Numer producenta: ...............................                                     FIL 682/2  OE
+
+
+
+************************************************************
+************************************************************

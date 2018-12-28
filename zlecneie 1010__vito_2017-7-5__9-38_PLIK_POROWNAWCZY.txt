@@ -1,0 +1,76 @@
+Znaleziono towar : 80700656 (Sprawdzenie: 80700656)
+Znaleziono towar : K0062030 (Sprawdzenie: K0062030)
+Znaleziono towar : 96001400 (Sprawdzenie: 96001400)
+Znaleziono towar : 06121330 (Sprawdzenie: 06121330)
+Znaleziono towar : 80700658 (Sprawdzenie: 80700658)
+Znaleziono towar : 96011099 (Sprawdzenie: 96011099)
+Znaleziono towar : 96051480 (Sprawdzenie: 96051480)
+Znaleziono towar : 96041403 (Sprawdzenie: 96041403)
+Znaleziono towar : 96121303 (Sprawdzenie: 96121303)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80700656
+Nazwa czesci w systemie Hofsoft: ................                    AP650U Pióro wycier.650     AE
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             42.20
+Numer producenta: ...............................                                BOS5 3 397 006 952
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0062030
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do spryskiwaczy LATO
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.06
+Numer producenta: ...............................                         KRAE KRAFT 5L LETNI Z LEJ
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96001400
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1031
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            117.39
+Numer producenta: ...............................                                BOSK 0 986 494 121
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          06121330
+Nazwa czesci w systemie Hofsoft: ................                        Czujnik klocka ham. 620418
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.77
+Numer producenta: ...............................                                ATE 24.8190-0418.2
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80700658
+Nazwa czesci w systemie Hofsoft: ................                    AP700U Pióro wycier.700     AE
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             45.12
+Numer producenta: ...............................                                BOS5 3 397 006 953
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96011099
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP992
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            100.15
+Numer producenta: ...............................                            BOSK 0 986 494 603/082
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96051480
+Nazwa czesci w systemie Hofsoft: ................                            Tarcza hamulcowa BD976
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             90.46
+Numer producenta: ...............................                                BOS2 0 986 479 138
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96041403
+Nazwa czesci w systemie Hofsoft: ................                            Tarcza hamulcowa BD975
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             94.13
+Numer producenta: ...............................                            BOS2 0 986 479 C50/137
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96121303
+Nazwa czesci w systemie Hofsoft: ................                         Czujnik klocka ham. AP309
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.12
+Numer producenta: ...............................                                BOSI 1 987 473 037
+
+
+
+************************************************************
+************************************************************

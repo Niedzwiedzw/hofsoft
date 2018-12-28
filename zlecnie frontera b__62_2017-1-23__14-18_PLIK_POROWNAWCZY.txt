@@ -1,0 +1,28 @@
+Znaleziono towar : 90700613 (Sprawdzenie: 90700613)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : 10624100 (Sprawdzenie: 10624100)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90700613
+Nazwa czesci w systemie Hofsoft: ................                          H341  Pióro wycier.340mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.57
+Numer producenta: ...............................                                BOS5 3 397 004 755
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10624100
+Nazwa czesci w systemie Hofsoft: ................                    Szczotko-skrobaczka 55 cm (22)
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              2.22
+Numer producenta: ...............................                           AKC SZCZOTKO-SKROBACZKA
+
+
+
+************************************************************
+************************************************************

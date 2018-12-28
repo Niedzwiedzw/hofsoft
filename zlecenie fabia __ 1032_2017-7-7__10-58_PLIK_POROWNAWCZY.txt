@@ -1,0 +1,28 @@
+Znaleziono towar : 10930030 (Sprawdzenie: 10930030)
+Znaleziono towar : 99040070 (Sprawdzenie: 99040070)
+Znaleziono towar : 90900025 (Sprawdzenie: 90900025)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10930030
+Nazwa czesci w systemie Hofsoft: ................                           Bezpiecznik  15A p³aski
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              0.24
+Numer producenta: ...............................                               NAR BEZPIECZNIK 15A
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          99040070
+Nazwa czesci w systemie Hofsoft: ................                               Cewka zap³onowa 12V
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             80.80
+Numer producenta: ...............................                                 BOS 0 986 221 023
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90900025
+Nazwa czesci w systemie Hofsoft: ................                    +51 FR7HC+        Œwieca zap³.
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                              8.09
+Numer producenta: ...............................                              BOSB S 51 0242236565
+
+
+
+************************************************************
+************************************************************

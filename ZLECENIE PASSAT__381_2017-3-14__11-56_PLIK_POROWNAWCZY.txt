@@ -1,0 +1,36 @@
+Znaleziono towar : 00150300 (Sprawdzenie: 00150300)
+Znaleziono towar : N8251511 (Sprawdzenie: N8251511)
+Znaleziono towar : 00150400 (Sprawdzenie: 00150400)
+Znaleziono towar : 00130080 (Sprawdzenie: 00130080)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00150300
+Nazwa czesci w systemie Hofsoft: ................                     Przewód elas.fil.pow.45x500mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.30
+Numer producenta: ...............................                                   GAT2 7743-00545
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251511
+Nazwa czesci w systemie Hofsoft: ................                        Taœma izolacyjna p³ócienna
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.37
+Numer producenta: ...............................                                           NAG 268
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00150400
+Nazwa czesci w systemie Hofsoft: ................                     Przewód elas.fil.pow.50x500mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.04
+Numer producenta: ...............................                                   GAT2 7743-00550
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00130080
+Nazwa czesci w systemie Hofsoft: ................                            Przewód paliwowy   8mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.94
+Numer producenta: ...............................                                   GAT2 3225-00053
+
+
+
+************************************************************
+************************************************************

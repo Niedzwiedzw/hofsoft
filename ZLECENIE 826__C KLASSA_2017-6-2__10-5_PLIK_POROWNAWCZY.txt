@@ -1,0 +1,28 @@
+Znaleziono towar : 04231310 (Sprawdzenie: 04231310)
+Znaleziono towar : 90707237 (Sprawdzenie: 90707237)
+Znaleziono towar : 04231410 (Sprawdzenie: 04231410)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04231310
+Nazwa czesci w systemie Hofsoft: ................                    Poduszka tylnej belki-przednia
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             31.73
+Numer producenta: ...............................                           LEM 1098401 /1243511942
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90707237
+Nazwa czesci w systemie Hofsoft: ................                    AR24U  Pióro wycier.600     AE
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             28.66
+Numer producenta: ...............................                                BOS5 3 397 008 538
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04231410
+Nazwa czesci w systemie Hofsoft: ................                             Poduszka tylnej belki
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             65.29
+Numer producenta: ...............................                           LEM 1135501 /2023510842
+
+
+
+************************************************************
+************************************************************

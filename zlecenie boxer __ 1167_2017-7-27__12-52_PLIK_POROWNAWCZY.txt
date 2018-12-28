@@ -1,0 +1,36 @@
+Znaleziono towar : 96023453 (Sprawdzenie: 96023453)
+Znaleziono towar : 96013102 (Sprawdzenie: 96013102)
+Znaleziono towar : 96055907 (Sprawdzenie: 96055907)
+Znaleziono towar : 16103028 (Sprawdzenie: 16103028)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96023453
+Nazwa czesci w systemie Hofsoft: ................                    Szczêki hamulcowe 172x42 BS946
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             81.88
+Numer producenta: ...............................                                BOSS 0 986 487 726
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96013102
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1020
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            118.96
+Numer producenta: ...............................                            BOSK 0 986 494 604/110
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96055907
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD1220
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                            127.29
+Numer producenta: ...............................                                BOS2 0 986 479 316
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16103028
+Nazwa czesci w systemie Hofsoft: ................                    Zestaw naprawczy szczêk hamul.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.41
+Numer producenta: ...............................                               QBR 0875 / 105-0875
+
+
+
+************************************************************
+************************************************************

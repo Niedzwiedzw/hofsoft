@@ -1,0 +1,60 @@
+Znaleziono towar : 96056614 (Sprawdzenie: 96056614)
+Znaleziono towar : 96006606 (Sprawdzenie: 96006606)
+Znaleziono towar : 91716678 (Sprawdzenie: 91716678)
+Znaleziono towar : 96046698 (Sprawdzenie: 96046698)
+Znaleziono towar : 91726553 (Sprawdzenie: 91726553)
+Znaleziono towar : 96016602 (Sprawdzenie: 96016602)
+Znaleziono towar : 00080012 (Sprawdzenie: 00080012)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96056614
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD1266
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             81.84
+Numer producenta: ...............................                                BOS2 0 986 479 449
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96006606
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1287
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            131.51
+Numer producenta: ...............................                                BOSK 0 986 494 379
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91716678
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S0159
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             48.19
+Numer producenta: ...............................                                BOS3 F 026 400 159
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96046698
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD1322
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                            157.43
+Numer producenta: ...............................                                BOS2 0 986 479 456
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91726553
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N2063
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             56.49
+Numer producenta: ...............................                                BOS3 F 026 402 063
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96016602
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1219
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            128.29
+Numer producenta: ...............................                                BOSK 0 986 494 329
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080012
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   8- 16mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.38
+Numer producenta: ...............................                                       NOR 100-16W
+
+
+
+************************************************************
+************************************************************

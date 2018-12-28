@@ -1,0 +1,84 @@
+Znaleziono towar : 91731516 (Sprawdzenie: 91731516)
+Znaleziono towar : 91711810 (Sprawdzenie: 91711810)
+Znaleziono towar : 91726290 (Sprawdzenie: 91726290)
+Znaleziono towar : 24231768 (Sprawdzenie: 24231768)
+Znaleziono towar : 74001567 (Sprawdzenie: 74001567)
+Znaleziono towar : 01181605 (Sprawdzenie: 01181605)
+Znaleziono towar : 91701615 (Sprawdzenie: 91701615)
+Znaleziono towar : 74001534 (Sprawdzenie: 74001534)
+Znaleziono towar : 04301566 (Sprawdzenie: 04301566)
+Znaleziono towar : 24231767 (Sprawdzenie: 24231767)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91731516
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy R2376
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             42.62
+Numer producenta: ...............................                                BOS3 1 987 432 376
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91711810
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3579
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.09
+Numer producenta: ...............................                                BOS3 1 457 433 579
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91726290
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa F5273
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             18.77
+Numer producenta: ...............................                                BOS3 0 450 905 273
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24231768
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              8.64
+Numer producenta: ...............................                                    SWA 40 93 1067
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74001567
+Nazwa czesci w systemie Hofsoft: ................                         Amortyzator przedni P (G)
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            156.84
+Numer producenta: ...............................                                        KYB 334634
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01181605
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z napinaczem
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            212.12
+Numer producenta: ...............................                                   SKF1 05260 VKMA
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701615
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7006
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.66
+Numer producenta: ...............................                                BOS3 F 026 407 006
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74001534
+Nazwa czesci w systemie Hofsoft: ................                         Amortyzator przedni P (G)
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            133.76
+Numer producenta: ...............................                                        KYB 334632
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04301566
+Nazwa czesci w systemie Hofsoft: ................                     £¹cznik stabilizatora tyl.L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             21.38
+Numer producenta: ...............................                              LEM 3475001/71740112
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24231767
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              7.59
+Numer producenta: ...............................                                    SWA 40 94 0484
+
+
+
+************************************************************
+************************************************************

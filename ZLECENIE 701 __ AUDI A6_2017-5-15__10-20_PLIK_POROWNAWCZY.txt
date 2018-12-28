@@ -1,0 +1,36 @@
+Znaleziono towar : 16030665 (Sprawdzenie: 16030665)
+Znaleziono towar : 96050110 (Sprawdzenie: 96050110)
+Znaleziono towar : 16036131 (Sprawdzenie: 16036131)
+Znaleziono towar : K6010040 (Sprawdzenie: K6010040)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16030665
+Nazwa czesci w systemie Hofsoft: ................                     Reperaturka zac.ham.tyl. "38"
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.09
+Numer producenta: ...............................                                         AFN D4083
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96050110
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD2023
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             54.75
+Numer producenta: ...............................                                BOS2 0 986 479 B22
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16036131
+Nazwa czesci w systemie Hofsoft: ................                              T³oczek zacisku ham.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.76
+Numer producenta: ...............................                                        AFN D02519
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6010040
+Nazwa czesci w systemie Hofsoft: ................                    Klocki hamulcowe     23554 ty³
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             27.49
+Numer producenta: ...............................                                      KRAK 6010040
+
+
+
+************************************************************
+************************************************************

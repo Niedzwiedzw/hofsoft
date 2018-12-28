@@ -1,0 +1,76 @@
+Znaleziono towar : J0062006 (Sprawdzenie: J0062006)
+Znaleziono towar : Z1703070 (Sprawdzenie: Z1703070)
+Znaleziono towar : 91733060 (Sprawdzenie: 91733060)
+Znaleziono towar : 01166636 (Sprawdzenie: 01166636)
+Znaleziono towar : 56003062 (Sprawdzenie: 56003062)
+Znaleziono towar : 91726860 (Sprawdzenie: 91726860)
+Znaleziono towar : H9001510 (Sprawdzenie: H9001510)
+Znaleziono towar : K0061009 (Sprawdzenie: K0061009)
+Znaleziono towar : 41713075 (Sprawdzenie: 41713075)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          J0062006
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do spryskiwaczy ZIMA
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.70
+Numer producenta: ...............................                                  JPPE JPP 5L(-22)
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          Z1703070
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.74
+Numer producenta: ...............................                                MTO 50014460 (KOL)
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91733060
+Nazwa czesci w systemie Hofsoft: ................                             Filtr wlotu powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.41
+Numer producenta: ...............................                                BOS3 1 987 432 228
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01166636
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6x1670
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.58
+Numer producenta: ...............................                                       GAT 6PK1670
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56003062
+Nazwa czesci w systemie Hofsoft: ................                        Klocki hamulcowe     23705
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             70.65
+Numer producenta: ...............................                                       REM 0858 32
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91726860
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            116.34
+Numer producenta: ...............................                                BOS3 F 026 402 076
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          H9001510
+Nazwa czesci w systemie Hofsoft: ................                    Czujnik ciœnienia oleju 14x1.5
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.42
+Numer producenta: ...............................                                        ERA 330364
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061009
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.94
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41713075
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.47
+Numer producenta: ...............................                                      FIL 078/1 AP
+
+
+
+************************************************************
+************************************************************

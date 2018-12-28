@@ -1,0 +1,44 @@
+Znaleziono towar : 50020329 (Sprawdzenie: 50020329)
+Znaleziono towar : 90060015 (Sprawdzenie: 90060015)
+Znaleziono towar : 90060020 (Sprawdzenie: 90060020)
+Znaleziono towar : 50020540 (Sprawdzenie: 50020540)
+Znaleziono towar : 91704210 (Sprawdzenie: 91704210)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50020329
+Nazwa czesci w systemie Hofsoft: ................                     Olej przek³adniowy 75W90 GL4+
+Ilosc: ..........................................                                                 5
+CENA: ...........................................                                             24.15
+Numer producenta: ...............................                           CAS 75W90 SYN.TRANSAXLE
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90060015
+Nazwa czesci w systemie Hofsoft: ................                        P³yn hamulcowy DOT 4 BF033
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.41
+Numer producenta: ...............................                            BOSE 1 987 479 106/004
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90060020
+Nazwa czesci w systemie Hofsoft: ................                        P³yn hamulcowy DOT 4 BF034
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.02
+Numer producenta: ...............................                            BOSE 1 987 479 107/002
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50020540
+Nazwa czesci w systemie Hofsoft: ................                       Olej przek³adn. 80W 90 GL-5
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.64
+Numer producenta: ...............................                           CAS 80W90 AXLE EPX GL-5
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91704210
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P2042
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.96
+Numer producenta: ...............................                                BOS3 0 986 452 042
+
+
+
+************************************************************
+************************************************************

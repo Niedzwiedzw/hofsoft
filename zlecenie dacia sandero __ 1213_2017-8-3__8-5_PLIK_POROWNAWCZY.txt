@@ -1,0 +1,28 @@
+Znaleziono towar : 20061004 (Sprawdzenie: 20061004)
+Znaleziono towar : K1225250 (Sprawdzenie: K1225250)
+Znaleziono towar : 21185421 (Sprawdzenie: 21185421)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20061004
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.17
+Numer producenta: ...............................                                   SWAE 99 90 2374
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K1225250
+Nazwa czesci w systemie Hofsoft: ................                    Rolka prowadz¹ca pasek micro-V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.97
+Numer producenta: ...............................                                      KRA2 1225250
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21185421
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            216.04
+Numer producenta: ...............................                                     INA 530019530
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,44 @@
+Znaleziono towar : 20061004 (Sprawdzenie: 20061004)
+Znaleziono towar : 61495035 (Sprawdzenie: 61495035)
+Znaleziono towar : 96005002 (Sprawdzenie: 96005002)
+Znaleziono towar : 96045070 (Sprawdzenie: 96045070)
+Znaleziono towar : 00080091 (Sprawdzenie: 00080091)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20061004
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.17
+Numer producenta: ...............................                                   SWAE 99 90 2374
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61495035
+Nazwa czesci w systemie Hofsoft: ................                           Poduszka skrzyni biegów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.05
+Numer producenta: ...............................                                      SAS 400 1370
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96005002
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP713
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             46.81
+Numer producenta: ...............................                                BOSK 0 986 467 720
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96045070
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD2022
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             68.75
+Numer producenta: ...............................                         BOS2 0 986 479 B21/478124
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080091
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  35- 50mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.36
+Numer producenta: ...............................                         NOR 101-050             4
+
+
+
+************************************************************
+************************************************************

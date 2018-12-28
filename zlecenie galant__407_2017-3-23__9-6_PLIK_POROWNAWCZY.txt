@@ -1,0 +1,84 @@
+Znaleziono towar : 01224295 (Sprawdzenie: 01224295)
+Znaleziono towar : 00080031 (Sprawdzenie: 00080031)
+Znaleziono towar : 80953590 (Sprawdzenie: 80953590)
+Znaleziono towar : D1166340 (Sprawdzenie: D1166340)
+Znaleziono towar : 21224221 (Sprawdzenie: 21224221)
+Znaleziono towar : 91712450 (Sprawdzenie: 91712450)
+Znaleziono towar : 91703610 (Sprawdzenie: 91703610)
+Znaleziono towar : 01224297 (Sprawdzenie: 01224297)
+Znaleziono towar : S1504231 (Sprawdzenie: S1504231)
+Znaleziono towar : 31174375 (Sprawdzenie: 31174375)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01224295
+Nazwa czesci w systemie Hofsoft: ................                            Rolka napinaj¹ca pasek
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             49.33
+Numer producenta: ...............................                                    SKF1 75614 VKM
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080031
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  12- 22mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.06
+Numer producenta: ...............................                                       NOR 101-022
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80953590
+Nazwa czesci w systemie Hofsoft: ................                    Akum. 60Ah/540A S4          L-
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            204.12
+Numer producenta: ...............................                                       BOS1 S4 024
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          D1166340
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6x1063
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.69
+Numer producenta: ...............................                                      DRB1 6PK1063
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21224221
+Nazwa czesci w systemie Hofsoft: ................                           Napinacz paska rozrz¹du
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            206.34
+Numer producenta: ...............................                                     INA 533004620
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91712450
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S0165
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             45.23
+Numer producenta: ...............................                                BOS3 F 026 400 165
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91703610
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P2041
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.43
+Numer producenta: ...............................                                BOS3 0 986 452 041
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01224297
+Nazwa czesci w systemie Hofsoft: ................                            Rolka prowadz¹ca pasek
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             50.47
+Numer producenta: ...............................                                    SKF1 85141 VKM
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          S1504231
+Nazwa czesci w systemie Hofsoft: ................                           Pompa uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             65.93
+Numer producenta: ...............................                                  SAK1 150-50-4231
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          31174375
+Nazwa czesci w systemie Hofsoft: ................                      Pasek rozrz¹du  77177x30 HSN
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            101.95
+Numer producenta: ...............................                                        CNT CT1128
+
+
+
+************************************************************
+************************************************************

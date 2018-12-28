@@ -1,0 +1,36 @@
+Znaleziono towar : 11788500 (Sprawdzenie: 11788500)
+Znaleziono towar : K6041560 (Sprawdzenie: K6041560)
+Znaleziono towar : 96001551 (Sprawdzenie: 96001551)
+Znaleziono towar : K4101620 (Sprawdzenie: K4101620)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11788500
+Nazwa czesci w systemie Hofsoft: ................                                 Korek do gazu M10
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              0.53
+Numer producenta: ...............................                          AKC 61547    =       M10
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6041560
+Nazwa czesci w systemie Hofsoft: ................                      Tarcza hamulcowa 236x20x41x4
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             31.71
+Numer producenta: ...............................                                      KRA5 6041560
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96001551
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP508
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             55.77
+Numer producenta: ...............................                                BOSK 0 986 460 938
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4101620
+Nazwa czesci w systemie Hofsoft: ................                           £o¿ysko ko³a przedniego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.66
+Numer producenta: ...............................                                      KRAN 4101620
+
+
+
+************************************************************
+************************************************************

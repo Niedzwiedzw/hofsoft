@@ -1,0 +1,52 @@
+Znaleziono towar : 91714140 (Sprawdzenie: 91714140)
+Znaleziono towar : 00080031 (Sprawdzenie: 00080031)
+Znaleziono towar : K0061170 (Sprawdzenie: K0061170)
+Znaleziono towar : K0061175 (Sprawdzenie: K0061175)
+Znaleziono towar : 00080091 (Sprawdzenie: 00080091)
+Znaleziono towar : 50030209 (Sprawdzenie: 50030209)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91714140
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S9051
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.13
+Numer producenta: ...............................                                BOS3 1 987 429 051
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080031
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  12- 22mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.11
+Numer producenta: ...............................                                       NOR 101-022
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061170
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.55
+Numer producenta: ...............................                         KRAE KRAFT P£YN DO CH£.1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061175
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.96
+Numer producenta: ...............................                         KRAE KRAFT P£YN DO CH£.5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080091
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  35- 50mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.36
+Numer producenta: ...............................                         NOR 101-050             L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50030209
+Nazwa czesci w systemie Hofsoft: ................                    Olej przek³adn.ATF samoch.JAP.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             27.42
+Numer producenta: ...............................                         CAS ATF MULTIVEHICLE    L
+
+
+
+************************************************************
+************************************************************

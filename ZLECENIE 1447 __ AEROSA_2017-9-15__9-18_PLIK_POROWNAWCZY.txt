@@ -1,0 +1,28 @@
+Znaleziono towar : 70950395 (Sprawdzenie: 70950395)
+Znaleziono towar : K0061009 (Sprawdzenie: K0061009)
+Znaleziono towar : 90909002 (Sprawdzenie: 90909002)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          70950395
+Nazwa czesci w systemie Hofsoft: ................                    Akum. 44Ah/420A S4          L-
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            157.59
+Numer producenta: ...............................                                       BOS1 S4 000
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061009
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              7.04
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90909002
+Nazwa czesci w systemie Hofsoft: ................                         Œwieca zap³.DOX15LE Extra
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              6.76
+Numer producenta: ...............................                                    ORG 101905601B
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,44 @@
+Znaleziono towar : 81735013 (Sprawdzenie: 81735013)
+Znaleziono towar : 90801705 (Sprawdzenie: 90801705)
+Znaleziono towar : 91705190 (Sprawdzenie: 91705190)
+Znaleziono towar : E0010275 (Sprawdzenie: E0010275)
+Znaleziono towar : E0010274 (Sprawdzenie: E0010274)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          81735013
+Nazwa czesci w systemie Hofsoft: ................                             Filtr wlotu powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.53
+Numer producenta: ...............................                                    REN 7701064237
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90801705
+Nazwa czesci w systemie Hofsoft: ................                        ¯arówka H 6W 12V PureLight
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.52
+Numer producenta: ...............................                                BOS8 1 987 302 232
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91705190
+Nazwa czesci w systemie Hofsoft: ................                                  Filtr oleju P336
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.31
+Numer producenta: ...............................                                BOS3 0 451 103 336
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          E0010275
+Nazwa czesci w systemie Hofsoft: ................                         Olej silnikowy SAE  5W-40
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             51.38
+Numer producenta: ...............................                                ELF 5W40 EVO900 NF
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          E0010274
+Nazwa czesci w systemie Hofsoft: ................                         Olej silnikowy SAE  5W-40
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.97
+Numer producenta: ...............................                                ELF 5W40 EVO900 NF
+
+
+
+************************************************************
+************************************************************

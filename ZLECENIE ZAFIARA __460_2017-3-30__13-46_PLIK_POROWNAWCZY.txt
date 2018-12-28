@@ -1,0 +1,36 @@
+Znaleziono towar : 59111530 (Sprawdzenie: 59111530)
+Znaleziono towar : 10942295 (Sprawdzenie: 10942295)
+Znaleziono towar : 20521540 (Sprawdzenie: 20521540)
+Znaleziono towar : 20580015 (Sprawdzenie: 20580015)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          59111530
+Nazwa czesci w systemie Hofsoft: ................                                      Sonda Lambda
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            302.13
+Numer producenta: ...............................                         NGK3 OTA7N-5A2       1938
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10942295
+Nazwa czesci w systemie Hofsoft: ................                       Pasta monterska do t³umików
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.73
+Numer producenta: ...............................                         BSL 258502 /258002      8
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20521540
+Nazwa czesci w systemie Hofsoft: ................                               Uszczelka kolektora
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              3.68
+Numer producenta: ...............................                         FIS 120-905             8
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20580015
+Nazwa czesci w systemie Hofsoft: ................                           Z³¹cze elastyczne40x150
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.15
+Numer producenta: ...............................                                       ASM1 40X150
+
+
+
+************************************************************
+************************************************************

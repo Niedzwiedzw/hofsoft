@@ -1,0 +1,20 @@
+Znaleziono towar : K0020331 (Sprawdzenie: K0020331)
+Znaleziono towar : 91713710 (Sprawdzenie: 91713710)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0020331
+Nazwa czesci w systemie Hofsoft: ................                    Olej przek³adniowy 75W90 GL4/5
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.80
+Numer producenta: ...............................                         KRAA 75W90 GEARSYNT GL4/5
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91713710
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S9135
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             21.70
+Numer producenta: ...............................                                BOS3 1 987 429 135
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,76 @@
+Znaleziono towar : 80905700 (Sprawdzenie: 80905700)
+Znaleziono towar : 61121240 (Sprawdzenie: 61121240)
+Znaleziono towar : 61131260 (Sprawdzenie: 61131260)
+Znaleziono towar : 00130070 (Sprawdzenie: 00130070)
+Znaleziono towar : 00080071 (Sprawdzenie: 00080071)
+Znaleziono towar : 51131070 (Sprawdzenie: 51131070)
+Znaleziono towar : 91817011 (Sprawdzenie: 91817011)
+Znaleziono towar : 61111210 (Sprawdzenie: 61111210)
+Znaleziono towar : K0061175 (Sprawdzenie: K0061175)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80905700
+Nazwa czesci w systemie Hofsoft: ................                    + 8 FR7DC+        Œwieca zap³.
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              4.94
+Numer producenta: ...............................                              BOSB S 08 0242235666
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61121240
+Nazwa czesci w systemie Hofsoft: ................                    Komplet uszczelek dekla zawor.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             54.82
+Numer producenta: ...............................                                       ELR 899.917
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61131260
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora ss¹cego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.55
+Numer producenta: ...............................                                       ELR 830.056
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00130070
+Nazwa czesci w systemie Hofsoft: ................                            Przewód paliwowy   7mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.78
+Numer producenta: ...............................                                   GAT2 3225-00056
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080071
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  25- 40mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.23
+Numer producenta: ...............................                                       NOR 101-040
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          51131070
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora wydech.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.21
+Numer producenta: ...............................                                         GLA 51359
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91817011
+Nazwa czesci w systemie Hofsoft: ................                          Oring wtryskiwacza benz.
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              4.52
+Numer producenta: ...............................                                 BOS 1 280 210 752
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61111210
+Nazwa czesci w systemie Hofsoft: ................                             Uszczelka pod g³owicê
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             87.64
+Numer producenta: ...............................                                       ELR 830.177
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061175
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.80
+Numer producenta: ...............................                         KRAE KRAFT P£YN DO CH£.5L
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,60 @@
+Znaleziono towar : 91713862 (Sprawdzenie: 91713862)
+Znaleziono towar : 90800795 (Sprawdzenie: 90800795)
+Znaleziono towar : 86003975 (Sprawdzenie: 86003975)
+Znaleziono towar : 91733750 (Sprawdzenie: 91733750)
+Znaleziono towar : 91703810 (Sprawdzenie: 91703810)
+Znaleziono towar : 16213724 (Sprawdzenie: 16213724)
+Znaleziono towar : S6043859 (Sprawdzenie: S6043859)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91713862
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S0017
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             18.83
+Numer producenta: ...............................                                BOS3 F 026 400 017
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90800795
+Nazwa czesci w systemie Hofsoft: ................                    ¯arówka W 21/5W 12V     W3x16q
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.48
+Numer producenta: ...............................                                BOS8 1 987 302 252
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          86003975
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP445
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             96.28
+Numer producenta: ...............................                                BOSK 0 986 424 735
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91733750
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2088
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.57
+Numer producenta: ...............................                                BOS3 1 987 432 088
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91703810
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P2028
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.57
+Numer producenta: ...............................                                BOS3 0 986 452 028
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16213724
+Nazwa czesci w systemie Hofsoft: ................                          Zestaw napr.zacisku ham.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.08
+Numer producenta: ...............................                             QBR 1376X / 113-1376X
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          S6043859
+Nazwa czesci w systemie Hofsoft: ................                    Tarcza hamulcowa przód (255mm)
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             43.51
+Numer producenta: ...............................                                  SAK5 604-20-3859
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,36 @@
+Znaleziono towar : 84220642 (Sprawdzenie: 84220642)
+Znaleziono towar : 04230020 (Sprawdzenie: 04230020)
+Znaleziono towar : 84230024 (Sprawdzenie: 84230024)
+Znaleziono towar : 84300679 (Sprawdzenie: 84300679)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84220642
+Nazwa czesci w systemie Hofsoft: ................                               Sworzeñ wahacza L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             28.23
+Numer producenta: ...............................                                    TRW VO-BJ-1990
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04230020
+Nazwa czesci w systemie Hofsoft: ................                    Silentblok wahacza przed.tylny
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.68
+Numer producenta: ...............................                           LEM 2693601 /7H0407182A
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84230024
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              7.74
+Numer producenta: ...............................                                    TRW VO-SB-2320
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84300679
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             21.58
+Numer producenta: ...............................                                    TRW VO-LS-2311
+
+
+
+************************************************************
+************************************************************

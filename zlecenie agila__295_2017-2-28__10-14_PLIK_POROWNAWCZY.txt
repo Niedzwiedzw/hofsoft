@@ -1,0 +1,36 @@
+Znaleziono towar : 94101700 (Sprawdzenie: 94101700)
+Znaleziono towar : K6061570 (Sprawdzenie: K6061570)
+Znaleziono towar : 16101775 (Sprawdzenie: 16101775)
+Znaleziono towar : 56021650 (Sprawdzenie: 56021650)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          94101700
+Nazwa czesci w systemie Hofsoft: ................                              £o¿ysko ko³a tylnego
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             54.99
+Numer producenta: ...............................                                       OPT 202 224
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6061570
+Nazwa czesci w systemie Hofsoft: ................                      Bêben hamulcowy 180/182x34.5
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             57.89
+Numer producenta: ...............................                                      KRA5 6061570
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16101775
+Nazwa czesci w systemie Hofsoft: ................                    Zestaw naprawczy szczêk hamul.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.68
+Numer producenta: ...............................                               QBR 0837 / 105-0837
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56021650
+Nazwa czesci w systemie Hofsoft: ................                          Szczêki hamulcowe 180x26
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             38.60
+Numer producenta: ...............................                                      REM1 4145 00
+
+
+
+************************************************************
+************************************************************

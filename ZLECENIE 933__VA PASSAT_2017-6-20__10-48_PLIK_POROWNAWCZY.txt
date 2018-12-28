@@ -1,0 +1,20 @@
+Znaleziono towar : 50030211 (Sprawdzenie: 50030211)
+Znaleziono towar : 61740003 (Sprawdzenie: 61740003)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50030211
+Nazwa czesci w systemie Hofsoft: ................                                   Olej przek³adn.
+Ilosc: ..........................................                                                 8
+CENA: ...........................................                                             32.37
+Numer producenta: ...............................                                    CAS TRANSMAX Z
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61740003
+Nazwa czesci w systemie Hofsoft: ................                          Filtr aut.skrzyni biegów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             79.71
+Numer producenta: ...............................                                      MAN H2826KIT
+
+
+
+************************************************************
+************************************************************

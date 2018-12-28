@@ -1,0 +1,60 @@
+Znaleziono towar : 50030112 (Sprawdzenie: 50030112)
+Znaleziono towar : 00080021 (Sprawdzenie: 00080021)
+Znaleziono towar : 01220013 (Sprawdzenie: 01220013)
+Znaleziono towar : 21500305 (Sprawdzenie: 21500305)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : 91180455 (Sprawdzenie: 91180455)
+Znaleziono towar : 21220980 (Sprawdzenie: 21220980)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50030112
+Nazwa czesci w systemie Hofsoft: ................                     Olej przek³adn.ATF DEXRON IID
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.15
+Numer producenta: ...............................                          CAS ATF Dex II Multivehi
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080021
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  10- 16mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              0.99
+Numer producenta: ...............................                                       NOR 101-016
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01220013
+Nazwa czesci w systemie Hofsoft: ................                           Napinacz paska rozrz¹du
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            116.67
+Numer producenta: ...............................                                    SKF1 11117 VKM
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21500305
+Nazwa czesci w systemie Hofsoft: ................                           Pompa uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            100.87
+Numer producenta: ...............................                                   SKF2 81620 VKPC
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91180455
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z napinaczem
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            179.04
+Numer producenta: ...............................                                BOS4 1 987 948 157
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21220980
+Nazwa czesci w systemie Hofsoft: ................                            Napinacz paska micro-V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            130.97
+Numer producenta: ...............................                                     INA 534012730
+
+
+
+************************************************************
+************************************************************

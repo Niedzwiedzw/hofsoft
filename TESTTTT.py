@@ -1,0 +1,2 @@
+rozchodTemp={}
+print(rozchodTemp)

@@ -1,0 +1,28 @@
+Znaleziono towar : 11780180 (Sprawdzenie: 11780180)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : 00072302 (Sprawdzenie: 00072302)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11780180
+Nazwa czesci w systemie Hofsoft: ................                    Korek zbiorniczka wyrównawcze.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.00
+Numer producenta: ...............................                            HPR 111 023 /3B0121321
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00072302
+Nazwa czesci w systemie Hofsoft: ................                    Dodat.do uk.ch³odze.czyszcz¹cy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.05
+Numer producenta: ...............................                                         WYN 45944
+
+
+
+************************************************************
+************************************************************

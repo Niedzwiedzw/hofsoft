@@ -1,0 +1,28 @@
+Znaleziono towar : 91714900 (Sprawdzenie: 91714900)
+Znaleziono towar : 91730010 (Sprawdzenie: 91730010)
+Znaleziono towar : 91700070 (Sprawdzenie: 91700070)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91714900
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.23
+Numer producenta: ...............................                                BOS3 1 457 433 058
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91730010
+Nazwa czesci w systemie Hofsoft: ................                    Filtr wlotu powiet. A501/M2012
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.58
+Numer producenta: ...............................                                BOS3 1 987 432 012
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700070
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.26
+Numer producenta: ...............................                                BOS3 1 457 429 619
+
+
+
+************************************************************
+************************************************************

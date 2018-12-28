@@ -1,0 +1,36 @@
+Znaleziono towar : 41736630 (Sprawdzenie: 41736630)
+Znaleziono towar : 91706690 (Sprawdzenie: 91706690)
+Znaleziono towar : 48233772 (Sprawdzenie: 48233772)
+Znaleziono towar : P1716668 (Sprawdzenie: P1716668)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41736630
+Nazwa czesci w systemie Hofsoft: ................                             Filtr wlotu powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             21.23
+Numer producenta: ...............................                                      FIL 1175   K
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91706690
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7077
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.39
+Numer producenta: ...............................                                BOS3 F 026 407 077
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48233772
+Nazwa czesci w systemie Hofsoft: ................                     Spinka mocow. zderzaka czarna
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.54
+Numer producenta: ...............................                          ROM B19233        5 szt.
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          P1716668
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.89
+Numer producenta: ...............................                                      JPN3 FA-439S
+
+
+
+************************************************************
+************************************************************

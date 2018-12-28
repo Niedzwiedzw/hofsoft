@@ -1,0 +1,28 @@
+Znaleziono towar : 91724700 (Sprawdzenie: 91724700)
+Znaleziono towar : E8804607 (Sprawdzenie: E8804607)
+Znaleziono towar : 90805250 (Sprawdzenie: 90805250)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91724700
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N4511
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             54.80
+Numer producenta: ...............................                                BOS3 1 457 434 511
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          E8804607
+Nazwa czesci w systemie Hofsoft: ................                    Czujnik pozycji wa³ka rozrz¹du
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            116.16
+Numer producenta: ...............................                                        ERA 550531
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90805250
+Nazwa czesci w systemie Hofsoft: ................                    ¯arówka H4 60/55W 12VPureLight
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.89
+Numer producenta: ...............................                                BOS8 1 987 302 041
+
+
+
+************************************************************
+************************************************************

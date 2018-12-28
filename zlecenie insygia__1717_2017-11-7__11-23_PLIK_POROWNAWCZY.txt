@@ -1,0 +1,28 @@
+Znaleziono towar : 16030636 (Sprawdzenie: 16030636)
+Znaleziono towar : 96001673 (Sprawdzenie: 96001673)
+Znaleziono towar : 96011534 (Sprawdzenie: 96011534)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16030636
+Nazwa czesci w systemie Hofsoft: ................                     Reperaturka zac.ham.tyl. "41"
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.01
+Numer producenta: ...............................                                         AFN D4656
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96001673
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1191
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            127.24
+Numer producenta: ...............................                            BOSK 0 986 494 632/279
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96011534
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1663
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             96.82
+Numer producenta: ...............................                            BOSK 0 986 494 668/297
+
+
+
+************************************************************
+************************************************************

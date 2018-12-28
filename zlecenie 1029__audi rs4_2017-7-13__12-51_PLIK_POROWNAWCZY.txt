@@ -1,0 +1,28 @@
+Znaleziono towar : 00179930 (Sprawdzenie: 00179930)
+Znaleziono towar : 01132990 (Sprawdzenie: 01132990)
+Znaleziono towar : 91700015 (Sprawdzenie: 91700015)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00179930
+Nazwa czesci w systemie Hofsoft: ................                    Przewód uk³.ogrzewania œr.19mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.24
+Numer producenta: ...............................                              GAT2 3230-12191 / 90
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01132990
+Nazwa czesci w systemie Hofsoft: ................                         Silikon trwale elastyczny
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.02
+Numer producenta: ...............................                          GOE 34-000420-00 /410-00
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700015
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P3314
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.65
+Numer producenta: ...............................                                BOS3 0 451 103 314
+
+
+
+************************************************************
+************************************************************

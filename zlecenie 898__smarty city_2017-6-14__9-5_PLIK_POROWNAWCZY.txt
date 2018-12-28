@@ -1,0 +1,44 @@
+Znaleziono towar : 91711375 (Sprawdzenie: 91711375)
+Znaleziono towar : 20061004 (Sprawdzenie: 20061004)
+Znaleziono towar : 91701499 (Sprawdzenie: 91701499)
+Znaleziono towar : 91731415 (Sprawdzenie: 91731415)
+Znaleziono towar : 81511042 (Sprawdzenie: 81511042)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91711375
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3044
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.19
+Numer producenta: ...............................                                BOS3 1 457 433 044
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20061004
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             23.85
+Numer producenta: ...............................                                   SWAE 99 90 2374
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701499
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9127
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.62
+Numer producenta: ...............................                                BOS3 1 457 429 127
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91731415
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy R2378
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             48.28
+Numer producenta: ...............................                                BOS3 1 987 432 378
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          81511042
+Nazwa czesci w systemie Hofsoft: ................                                    Termostat 90°C
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             75.47
+Numer producenta: ...............................                                     WAH1 3146.90D
+
+
+
+************************************************************
+************************************************************

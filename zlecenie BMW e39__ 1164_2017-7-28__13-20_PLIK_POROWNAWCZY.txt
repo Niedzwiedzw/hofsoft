@@ -1,0 +1,36 @@
+Znaleziono towar : N8250711 (Sprawdzenie: N8250711)
+Znaleziono towar : 10930005 (Sprawdzenie: 10930005)
+Znaleziono towar : N8250801 (Sprawdzenie: N8250801)
+Znaleziono towar : N8251617 (Sprawdzenie: N8251617)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8250711
+Nazwa czesci w systemie Hofsoft: ................                    Podstawa przekaünika 5-stykowa
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              8.41
+Numer producenta: ...............................                                         NAG 009/1
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10930005
+Nazwa czesci w systemie Hofsoft: ................                           Bezpiecznik   5A p≥aski
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              0.24
+Numer producenta: ...............................                                NAR BEZPIECZNIK 5A
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8250801
+Nazwa czesci w systemie Hofsoft: ................                    Obudowa bezpiecznika p≥askiego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              2.88
+Numer producenta: ...............................                                           NAG 048
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251617
+Nazwa czesci w systemie Hofsoft: ................                      Przek. zwierno-rozwierny 541
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              5.57
+Numer producenta: ...............................                                           NAG 308
+
+
+
+************************************************************
+************************************************************

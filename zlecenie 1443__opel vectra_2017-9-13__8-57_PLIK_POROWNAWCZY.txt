@@ -1,0 +1,36 @@
+Znaleziono towar : 91731530 (Sprawdzenie: 91731530)
+Znaleziono towar : 91701520 (Sprawdzenie: 91701520)
+Znaleziono towar : 91711760 (Sprawdzenie: 91711760)
+Znaleziono towar : 41728300 (Sprawdzenie: 41728300)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91731530
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2030
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.09
+Numer producenta: ...............................                                BOS3 1 987 432 030
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701520
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P3079
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.26
+Numer producenta: ...............................                                BOS3 0 451 103 079
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91711760
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3740
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             18.27
+Numer producenta: ...............................                                BOS3 1 457 433 740
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41728300
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.19
+Numer producenta: ...............................                                     FIL 905    PP
+
+
+
+************************************************************
+************************************************************

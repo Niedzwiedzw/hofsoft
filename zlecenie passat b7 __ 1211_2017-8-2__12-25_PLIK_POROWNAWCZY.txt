@@ -1,0 +1,44 @@
+Znaleziono towar : 91700055 (Sprawdzenie: 91700055)
+Znaleziono towar : 96010004 (Sprawdzenie: 96010004)
+Znaleziono towar : K0061001 (Sprawdzenie: K0061001)
+Znaleziono towar : 91710410 (Sprawdzenie: 91710410)
+Znaleziono towar : 61720037 (Sprawdzenie: 61720037)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700055
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7023
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.43
+Numer producenta: ...............................                                BOS3 F 026 407 023
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96010004
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1252
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             99.73
+Numer producenta: ...............................                            BOSK 0 986 494 626/344
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061001
+Nazwa czesci w systemie Hofsoft: ................                     Koncentrat do uk³. ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.86
+Numer producenta: ...............................                         KRAE KONC DO CH£O G12+ 1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91710410
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S9404
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.09
+Numer producenta: ...............................                                BOS3 1 987 429 404
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61720037
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             64.78
+Numer producenta: ...............................                             MAN PU8008/1 / PU8008
+
+
+
+************************************************************
+************************************************************

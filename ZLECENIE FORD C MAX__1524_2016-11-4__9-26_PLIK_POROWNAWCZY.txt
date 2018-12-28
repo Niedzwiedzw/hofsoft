@@ -1,0 +1,44 @@
+Znaleziono towar : 00072214 (Sprawdzenie: 00072214)
+Znaleziono towar : 59105930 (Sprawdzenie: 59105930)
+Znaleziono towar : 00080031 (Sprawdzenie: 00080031)
+Znaleziono towar : 11515944 (Sprawdzenie: 11515944)
+Znaleziono towar : 00080021 (Sprawdzenie: 00080021)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00072214
+Nazwa czesci w systemie Hofsoft: ................                    Œrod.czysz.uk.dolotowy.siln.be
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.27
+Numer producenta: ...............................                                 WYN 29879 / 23079
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          59105930
+Nazwa czesci w systemie Hofsoft: ................                          Œwieca ¿arowa D-POWER 40
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                             35.31
+Numer producenta: ...............................                         NGK2 D-POWER 40      1684
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080031
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  12- 22mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.04
+Numer producenta: ...............................                         NOR 101-022             4
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11515944
+Nazwa czesci w systemie Hofsoft: ................                                    Termostat 83°C
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             89.15
+Numer producenta: ...............................                                    GAT1 TH41183G1
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080021
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  10- 16mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              0.97
+Numer producenta: ...............................                                       NOR 101-016
+
+
+
+************************************************************
+************************************************************

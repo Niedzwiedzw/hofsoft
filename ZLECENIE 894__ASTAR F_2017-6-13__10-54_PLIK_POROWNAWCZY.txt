@@ -1,0 +1,28 @@
+Znaleziono towar : K6041560 (Sprawdzenie: K6041560)
+Znaleziono towar : K4101620 (Sprawdzenie: K4101620)
+Znaleziono towar : 96001551 (Sprawdzenie: 96001551)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6041560
+Nazwa czesci w systemie Hofsoft: ................                      Tarcza hamulcowa 236x20x41x4
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             31.71
+Numer producenta: ...............................                                      KRA5 6041560
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4101620
+Nazwa czesci w systemie Hofsoft: ................                           £o¿ysko ko³a przedniego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.66
+Numer producenta: ...............................                                      KRAN 4101620
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96001551
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP508
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             55.77
+Numer producenta: ...............................                                BOSK 0 986 460 938
+
+
+
+************************************************************
+************************************************************

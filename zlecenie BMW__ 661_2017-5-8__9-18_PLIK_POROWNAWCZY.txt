@@ -1,0 +1,36 @@
+Znaleziono towar : 06102630 (Sprawdzenie: 06102630)
+Znaleziono towar : K6012560 (Sprawdzenie: K6012560)
+Znaleziono towar : 25102506 (Sprawdzenie: 25102506)
+Znaleziono towar : K6052630 (Sprawdzenie: K6052630)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          06102630
+Nazwa czesci w systemie Hofsoft: ................                      Zestaw napr.szcz.ham. 669062
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.02
+Numer producenta: ...............................                                ATE 03.0137-9062.2
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6012560
+Nazwa czesci w systemie Hofsoft: ................                    Klocki hamulcowe     21691 ty³
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             36.32
+Numer producenta: ...............................                                      KRAK 6012560
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          25102506
+Nazwa czesci w systemie Hofsoft: ................                             Œruba ko³a M12x1.5-25
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              3.56
+Numer producenta: ...............................                                    SWA 20 91 8903
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6052630
+Nazwa czesci w systemie Hofsoft: ................                    Tarcza ham.tylna 298x20x61.3x5
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             55.56
+Numer producenta: ...............................                                      KRA5 6052630
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,28 @@
+Znaleziono towar : 51134626 (Sprawdzenie: 51134626)
+Znaleziono towar : 80071116 (Sprawdzenie: 80071116)
+Znaleziono towar : 20061162 (Sprawdzenie: 20061162)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          51134626
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora ss¹cego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.80
+Numer producenta: ...............................                                     GLA X71064-00
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80071116
+Nazwa czesci w systemie Hofsoft: ................                    Prepar.czyszcz.przep³ywomierze
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.71
+Numer producenta: ...............................                                 CRC 10433 / 30498
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20061162
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             15.49
+Numer producenta: ...............................                                   SWAE 60 92 6580
+
+
+
+************************************************************
+************************************************************

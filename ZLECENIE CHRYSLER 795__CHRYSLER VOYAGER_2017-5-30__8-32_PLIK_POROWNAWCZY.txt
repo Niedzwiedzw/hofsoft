@@ -1,0 +1,52 @@
+Znaleziono towar : 74018550 (Sprawdzenie: 74018550)
+Znaleziono towar : 74238515 (Sprawdzenie: 74238515)
+Znaleziono towar : 54228512 (Sprawdzenie: 54228512)
+Znaleziono towar : 91708500 (Sprawdzenie: 91708500)
+Znaleziono towar : 96008533 (Sprawdzenie: 96008533)
+Znaleziono towar : 91710100 (Sprawdzenie: 91710100)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74018550
+Nazwa czesci w systemie Hofsoft: ................                             Amortyzator tylny (G)
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             80.92
+Numer producenta: ...............................                                        KYB 344080
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74238515
+Nazwa czesci w systemie Hofsoft: ................                        Tuleja stabilizatora przed
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              6.22
+Numer producenta: ...............................                                      TED 00136504
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54228512
+Nazwa czesci w systemie Hofsoft: ................                         Sworzeñ wahacza dolny L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             32.50
+Numer producenta: ...............................                                         SID 91081
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91708500
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P3251
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.43
+Numer producenta: ...............................                                BOS3 0 451 103 251
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96008533
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP384
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            115.46
+Numer producenta: ...............................                                BOSK 0 986 424 668
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91710100
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S9957
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             21.74
+Numer producenta: ...............................                                BOS3 1 457 429 957
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,52 @@
+Znaleziono towar : 21505290 (Sprawdzenie: 21505290)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : 11151511 (Sprawdzenie: 11151511)
+Znaleziono towar : 11151509 (Sprawdzenie: 11151509)
+Znaleziono towar : 91184015 (Sprawdzenie: 91184015)
+Znaleziono towar : 91701800 (Sprawdzenie: 91701800)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21505290
+Nazwa czesci w systemie Hofsoft: ................                           Pompa uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            144.68
+Numer producenta: ...............................                                   SKF2 86305 VKPC
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11151511
+Nazwa czesci w systemie Hofsoft: ................                    Simering 70x85x7 przód wa³ kor
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             31.45
+Numer producenta: ...............................                                     COR 85512 460
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11151509
+Nazwa czesci w systemie Hofsoft: ................                    Simering 60x75x7 przód wa³ kor
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.32
+Numer producenta: ...............................                                     COR 85509 460
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91184015
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z napinaczem
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            174.73
+Numer producenta: ...............................                                BOS4 1 987 946 571
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701800
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9198
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.57
+Numer producenta: ...............................                                BOS3 1 457 429 198
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,28 @@
+Znaleziono towar : 96008533 (Sprawdzenie: 96008533)
+Znaleziono towar : 74238515 (Sprawdzenie: 74238515)
+Znaleziono towar : 54228512 (Sprawdzenie: 54228512)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96008533
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP384
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            115.46
+Numer producenta: ...............................                                BOSK 0 986 424 668
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74238515
+Nazwa czesci w systemie Hofsoft: ................                        Tuleja stabilizatora przed
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              6.22
+Numer producenta: ...............................                                      TED 00136504
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54228512
+Nazwa czesci w systemie Hofsoft: ................                         Sworzeñ wahacza dolny L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             32.50
+Numer producenta: ...............................                                         SID 91081
+
+
+
+************************************************************
+************************************************************

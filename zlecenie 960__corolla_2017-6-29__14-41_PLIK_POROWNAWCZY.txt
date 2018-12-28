@@ -1,0 +1,52 @@
+Znaleziono towar : 61123707 (Sprawdzenie: 61123707)
+Znaleziono towar : 60058501 (Sprawdzenie: 60058501)
+Znaleziono towar : 01166685 (Sprawdzenie: 01166685)
+Znaleziono towar : K0061175 (Sprawdzenie: K0061175)
+Znaleziono towar : 91703810 (Sprawdzenie: 91703810)
+Znaleziono towar : 01323726 (Sprawdzenie: 01323726)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61123707
+Nazwa czesci w systemie Hofsoft: ................                    Komplet Uszczelek dekla zawor.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.62
+Numer producenta: ...............................                                       ELR 457.380
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          60058501
+Nazwa czesci w systemie Hofsoft: ................                         Silikon trwale elastyczny
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.23
+Numer producenta: ...............................                          ELR 036.163   /  036.166
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01166685
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6x1835
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             39.75
+Numer producenta: ...............................                                       GAT 6PK1835
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061175
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.96
+Numer producenta: ...............................                         KRAE KRAFT P£YN DO CH£.5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91703810
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P2028
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.57
+Numer producenta: ...............................                                BOS3 0 986 452 028
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01323726
+Nazwa czesci w systemie Hofsoft: ................                        Zestaw rozrz¹du ³añcuchowy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            346.90
+Numer producenta: ...............................                                   SKF1 91000 VKML
+
+
+
+************************************************************
+************************************************************

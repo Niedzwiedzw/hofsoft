@@ -1,0 +1,36 @@
+Znaleziono towar : 00080091 (Sprawdzenie: 00080091)
+Znaleziono towar : K0061011 (Sprawdzenie: K0061011)
+Znaleziono towar : E8804004 (Sprawdzenie: E8804004)
+Znaleziono towar : 00072302 (Sprawdzenie: 00072302)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080091
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  35- 50mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.30
+Numer producenta: ...............................                                       NOR 101-050
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061011
+Nazwa czesci w systemie Hofsoft: ................                     Koncentrat do uk³. ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             45.85
+Numer producenta: ...............................                         KRAE KONC DO CH£O G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          E8804004
+Nazwa czesci w systemie Hofsoft: ................                    Czujnik pozycji wa³ka rozrz¹du
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             90.03
+Numer producenta: ...............................                         ERA 550583A/B           L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00072302
+Nazwa czesci w systemie Hofsoft: ................                    Dodat.do uk.ch³odze.czyszcz¹cy
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             12.05
+Numer producenta: ...............................                         WYN 45944               L
+
+
+
+************************************************************
+************************************************************

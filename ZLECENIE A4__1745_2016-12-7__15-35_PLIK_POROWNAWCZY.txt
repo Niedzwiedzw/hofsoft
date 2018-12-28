@@ -1,0 +1,100 @@
+Znaleziono towar : 21220860 (Sprawdzenie: 21220860)
+Znaleziono towar : 00080031 (Sprawdzenie: 00080031)
+Znaleziono towar : 21220850 (Sprawdzenie: 21220850)
+Znaleziono towar : 91700100 (Sprawdzenie: 91700100)
+Znaleziono towar : 91710150 (Sprawdzenie: 91710150)
+Znaleziono towar : 10942003 (Sprawdzenie: 10942003)
+Znaleziono towar : 91720150 (Sprawdzenie: 91720150)
+Znaleziono towar : 31166835 (Sprawdzenie: 31166835)
+Znaleziono towar : 01164450 (Sprawdzenie: 01164450)
+Znaleziono towar : K0061009 (Sprawdzenie: K0061009)
+Znaleziono towar : 10942021 (Sprawdzenie: 10942021)
+Znaleziono towar : 91180152 (Sprawdzenie: 91180152)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21220860
+Nazwa czesci w systemie Hofsoft: ................                    Rolka prowadz¹ca pasek micro-V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             59.03
+Numer producenta: ...............................                                     INA 532015610
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080031
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  12- 22mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.04
+Numer producenta: ...............................                                       NOR 101-022
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21220850
+Nazwa czesci w systemie Hofsoft: ................                     Rolka napinacza paska micro-V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             73.49
+Numer producenta: ...............................                                     INA 531030710
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700100
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9152
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.59
+Numer producenta: ...............................                                BOS3 1 457 429 152
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91710150
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3046
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             27.36
+Numer producenta: ...............................                                BOS3 1 457 433 046
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10942003
+Nazwa czesci w systemie Hofsoft: ................                         Klej do metalu 4 minutowy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.00
+Numer producenta: ...............................                                        AMT 60-021
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91720150
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N0509
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             60.12
+Numer producenta: ...............................                                BOS3 0 986 450 509
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          31166835
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6X2404
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             52.72
+Numer producenta: ...............................                                       CNT 6PK2404
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01164450
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 4x1218
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.63
+Numer producenta: ...............................                                       GAT 4PK1218
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061009
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              6.98
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10942021
+Nazwa czesci w systemie Hofsoft: ................                     Klej do gwintów, demontowalny
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.62
+Numer producenta: ...............................                                    AMT 60-042 6ML
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91180152
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            616.74
+Numer producenta: ...............................                                BOS4 1 987 948 519
+
+
+
+************************************************************
+************************************************************

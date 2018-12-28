@@ -1,0 +1,36 @@
+Znaleziono towar : 96004173 (Sprawdzenie: 96004173)
+Znaleziono towar : 04104018 (Sprawdzenie: 04104018)
+Znaleziono towar : K0072404 (Sprawdzenie: K0072404)
+Znaleziono towar : 84314001 (Sprawdzenie: 84314001)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96004173
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP427
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            120.77
+Numer producenta: ...............................                                BOSK 0 986 424 715
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04104018
+Nazwa czesci w systemie Hofsoft: ................                           £o¿ysko ko³a przedniego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            100.94
+Numer producenta: ...............................                                     SKF 3981 VKBA
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0072404
+Nazwa czesci w systemie Hofsoft: ................                     Smar penetruj¹co-konserwuj¹cy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.68
+Numer producenta: ...............................                              KRWC PENETRATING OIL
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84314001
+Nazwa czesci w systemie Hofsoft: ................                             Koñcówka dr¹¿ka kier.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             31.81
+Numer producenta: ...............................                                    TRW NI-ES-2801
+
+
+
+************************************************************
+************************************************************

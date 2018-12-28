@@ -1,0 +1,28 @@
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : 21184640 (Sprawdzenie: 21184640)
+Znaleziono towar : 99118580 (Sprawdzenie: 99118580)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             29.95
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21184640
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z napinaczem
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            171.76
+Numer producenta: ...............................                                     INA 530038010
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          99118580
+Nazwa czesci w systemie Hofsoft: ................                        Sonda Lambda (uniwersalna)
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            164.98
+Numer producenta: ...............................                                BOS6 0 258 986 602
+
+
+
+************************************************************
+************************************************************

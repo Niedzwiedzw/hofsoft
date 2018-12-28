@@ -1,0 +1,28 @@
+Znaleziono towar : 61135561 (Sprawdzenie: 61135561)
+Znaleziono towar : 61152503 (Sprawdzenie: 61152503)
+Znaleziono towar : 61135963 (Sprawdzenie: 61135963)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61135561
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora wydech.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             34.09
+Numer producenta: ...............................                                       ELR 354.802
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61152503
+Nazwa czesci w systemie Hofsoft: ................                    Simering 61x75x8 przód wa³ kor
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             35.55
+Numer producenta: ...............................                                      ELR1 004.450
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61135963
+Nazwa czesci w systemie Hofsoft: ................                    Zestaw uszczelek kolektora ss.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.66
+Numer producenta: ...............................                                       ELR 893.650
+
+
+
+************************************************************
+************************************************************

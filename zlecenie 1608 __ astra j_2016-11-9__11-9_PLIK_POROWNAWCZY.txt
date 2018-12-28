@@ -1,0 +1,28 @@
+Znaleziono towar : 41711565 (Sprawdzenie: 41711565)
+Znaleziono towar : 90010719 (Sprawdzenie: 90010719)
+Znaleziono towar : 91701615 (Sprawdzenie: 91701615)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41711565
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             26.02
+Numer producenta: ...............................                                      FIL 051/9 AP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90010719
+Nazwa czesci w systemie Hofsoft: ................                    Olej siln. SAE  5W-30GM DEXOS2
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             74.37
+Numer producenta: ...............................                             ORGE 5W30 OPEL DEXOS2
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701615
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.36
+Numer producenta: ...............................                                BOS3 F 026 407 006
+
+
+
+************************************************************
+************************************************************

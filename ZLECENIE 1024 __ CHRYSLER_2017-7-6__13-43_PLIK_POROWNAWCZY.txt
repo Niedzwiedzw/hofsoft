@@ -1,0 +1,28 @@
+Znaleziono towar : 90700632 (Sprawdzenie: 90700632)
+Znaleziono towar : 90707140 (Sprawdzenie: 90707140)
+Znaleziono towar : K0062030 (Sprawdzenie: K0062030)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90700632
+Nazwa czesci w systemie Hofsoft: ................                    H400  Pióro wycier.400mm    TW
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.83
+Numer producenta: ...............................                                BOS5 3 397 004 757
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90707140
+Nazwa czesci w systemie Hofsoft: ................                    AR19U  Pióro wycier.475     AE
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.22
+Numer producenta: ...............................                                BOS5 3 397 008 533
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0062030
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do spryskiwaczy LATO
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.06
+Numer producenta: ...............................                         KRAE KRAFT 5L LETNI Z LEJ
+
+
+
+************************************************************
+************************************************************

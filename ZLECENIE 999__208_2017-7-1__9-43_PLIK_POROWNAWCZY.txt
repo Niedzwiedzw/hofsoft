@@ -1,0 +1,28 @@
+Znaleziono towar : 96006051 (Sprawdzenie: 96006051)
+Znaleziono towar : 91725870 (Sprawdzenie: 91725870)
+Znaleziono towar : 96045990 (Sprawdzenie: 96045990)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96006051
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP318
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             79.12
+Numer producenta: ...............................                                BOSK 0 986 494 623
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91725870
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa F2161
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.38
+Numer producenta: ...............................                                BOS3 0 450 902 161
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96045990
+Nazwa czesci w systemie Hofsoft: ................                            Tarcza hamulcowa BD536
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             66.63
+Numer producenta: ...............................                                BOS2 0 986 478 618
+
+
+
+************************************************************
+************************************************************

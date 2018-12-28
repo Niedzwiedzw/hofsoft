@@ -1,0 +1,28 @@
+Znaleziono towar : 64235280 (Sprawdzenie: 64235280)
+Znaleziono towar : 54315066 (Sprawdzenie: 54315066)
+Znaleziono towar : K4304162 (Sprawdzenie: K4304162)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          64235280
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              3.72
+Numer producenta: ...............................                                      SAS 230 4005
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54315066
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             18.94
+Numer producenta: ...............................                                          SID 5830
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4304162
+Nazwa czesci w systemie Hofsoft: ................                                      Dr¹¿ek kier.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             13.93
+Numer producenta: ...............................                                      KRA4 4304162
+
+
+
+************************************************************
+************************************************************

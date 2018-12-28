@@ -1,0 +1,44 @@
+Znaleziono towar : 91705190 (Sprawdzenie: 91705190)
+Znaleziono towar : 91725870 (Sprawdzenie: 91725870)
+Znaleziono towar : 91715035 (Sprawdzenie: 91715035)
+Znaleziono towar : E0011305 (Sprawdzenie: E0011305)
+Znaleziono towar : 91735057 (Sprawdzenie: 91735057)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91705190
+Nazwa czesci w systemie Hofsoft: ................                                  Filtr oleju P336
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.61
+Numer producenta: ...............................                                BOS3 0 451 103 336
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91725870
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa F2161
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.82
+Numer producenta: ...............................                                BOS3 0 450 902 161
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91715035
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3311
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.29
+Numer producenta: ...............................                                BOS3 1 457 433 311
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          E0011305
+Nazwa czesci w systemie Hofsoft: ................                             Olej siln. SAE  5W-30
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             61.08
+Numer producenta: ...............................                               ELF 5W30 EVO900 SXR
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91735057
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy R2197
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             36.53
+Numer producenta: ...............................                                BOS3 1 987 432 197
+
+
+
+************************************************************
+************************************************************

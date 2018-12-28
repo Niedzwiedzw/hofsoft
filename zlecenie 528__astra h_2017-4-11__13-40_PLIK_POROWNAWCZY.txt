@@ -1,0 +1,36 @@
+Znaleziono towar : 01611845 (Sprawdzenie: 01611845)
+Znaleziono towar : 10942296 (Sprawdzenie: 10942296)
+Znaleziono towar : 48232500 (Sprawdzenie: 48232500)
+Znaleziono towar : 01611537 (Sprawdzenie: 01611537)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01611845
+Nazwa czesci w systemie Hofsoft: ................                          Ko³o zamachowe dwumasowe
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            944.26
+Numer producenta: ...............................                                  LUK1 415 0265 10
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10942296
+Nazwa czesci w systemie Hofsoft: ................                       Pasta monterska do t³umików
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.01
+Numer producenta: ...............................                             BSL 258503 / 258004/3
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48232500
+Nazwa czesci w systemie Hofsoft: ................                          Ko³ek rozporowy zderzaka
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              3.74
+Numer producenta: ...............................                          ROM 605064       10 szt.
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01611537
+Nazwa czesci w systemie Hofsoft: ................                                   Zestaw sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            722.59
+Numer producenta: ...............................                                   LUK 624 3224 34
+
+
+
+************************************************************
+************************************************************

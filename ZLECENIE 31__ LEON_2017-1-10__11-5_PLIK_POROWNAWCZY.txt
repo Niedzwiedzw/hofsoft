@@ -1,0 +1,44 @@
+Znaleziono towar : 40071400 (Sprawdzenie: 40071400)
+Znaleziono towar : 61120025 (Sprawdzenie: 61120025)
+Znaleziono towar : K0061009 (Sprawdzenie: K0061009)
+Znaleziono towar : 61130903 (Sprawdzenie: 61130903)
+Znaleziono towar : 30061001 (Sprawdzenie: 30061001)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          40071400
+Nazwa czesci w systemie Hofsoft: ................                             P造n do mycia silnika
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.20
+Numer producenta: ...............................                                           K2 K177
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61120025
+Nazwa czesci w systemie Hofsoft: ................                           Uszczelka dekla zawor闚
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             35.33
+Numer producenta: ...............................                                       ELR 332.800
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061009
+Nazwa czesci w systemie Hofsoft: ................                         P造n do uk豉du ch這dzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.04
+Numer producenta: ...............................                             KRAE PΧN G12/G12+ 1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61130903
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora ss鉍ego
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                             10.06
+Numer producenta: ...............................                                       ELR 475.931
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          30061001
+Nazwa czesci w systemie Hofsoft: ................                     P造n do uk豉du ch這dzenia G12
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.67
+Numer producenta: ...............................                                   SWAE 99 90 1381
+
+
+
+************************************************************
+************************************************************

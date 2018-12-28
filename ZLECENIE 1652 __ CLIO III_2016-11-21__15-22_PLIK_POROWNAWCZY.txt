@@ -1,0 +1,28 @@
+Znaleziono towar : 90804799 (Sprawdzenie: 90804799)
+Znaleziono towar : 96004137 (Sprawdzenie: 96004137)
+Znaleziono towar : 96044065 (Sprawdzenie: 96044065)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90804799
+Nazwa czesci w systemie Hofsoft: ................                      ¯arówka H1 55W 12V PureLight
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.81
+Numer producenta: ...............................                                BOS8 1 987 302 011
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96004137
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP936
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             77.59
+Numer producenta: ...............................                         BOSK 0 986 494 592/424795
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96044065
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD2074
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             92.80
+Numer producenta: ...............................                            BOS2 0 986 479 B73/103
+
+
+
+************************************************************
+************************************************************

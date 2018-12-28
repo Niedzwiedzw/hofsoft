@@ -1,0 +1,36 @@
+Znaleziono towar : 91166620 (Sprawdzenie: 91166620)
+Znaleziono towar : 01222484 (Sprawdzenie: 01222484)
+Znaleziono towar : 11222482 (Sprawdzenie: 11222482)
+Znaleziono towar : 90708645 (Sprawdzenie: 90708645)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91166620
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6x1640
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             29.97
+Numer producenta: ...............................                                BOS4 1 987 948 492
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01222484
+Nazwa czesci w systemie Hofsoft: ................                    Rolka prowadz¹ca pasek micro-V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             40.07
+Numer producenta: ...............................                                    SKF1 34030 VKM
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11222482
+Nazwa czesci w systemie Hofsoft: ................                       Napinacz paska micro-V KPL.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            249.33
+Numer producenta: ...............................                                     INA 534016910
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90708645
+Nazwa czesci w systemie Hofsoft: ................                    AR601S Pióro wycier.600/400 AE
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             58.92
+Numer producenta: ...............................                                BOS5 3 397 118 907
+
+
+
+************************************************************
+************************************************************

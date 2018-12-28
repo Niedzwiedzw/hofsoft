@@ -1,0 +1,68 @@
+Znaleziono towar : 11788500 (Sprawdzenie: 11788500)
+Znaleziono towar : K4300258 (Sprawdzenie: K4300258)
+Znaleziono towar : Z4300415 (Sprawdzenie: Z4300415)
+Znaleziono towar : 64300430 (Sprawdzenie: 64300430)
+Znaleziono towar : K4020320 (Sprawdzenie: K4020320)
+Znaleziono towar : 54310190 (Sprawdzenie: 54310190)
+Znaleziono towar : 44300390 (Sprawdzenie: 44300390)
+Znaleziono towar : 54400700 (Sprawdzenie: 54400700)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11788500
+Nazwa czesci w systemie Hofsoft: ................                                 Korek do gazu M10
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              0.53
+Numer producenta: ...............................                          AKC 61547    =       M10
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4300258
+Nazwa czesci w systemie Hofsoft: ................                    £¹cznik zawiesz.prawy bez œrub
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.32
+Numer producenta: ...............................                                      KRA4 4300258
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          Z4300415
+Nazwa czesci w systemie Hofsoft: ................                          Dr¹¿ek reakcyjny tylny P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             71.32
+Numer producenta: ...............................                                   MTO 21906 (FEB)
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          64300430
+Nazwa czesci w systemie Hofsoft: ................                          Dr¹¿ek reakcyjny dolny P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            118.18
+Numer producenta: ...............................                                   TRW VO-TC-8230P
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4020320
+Nazwa czesci w systemie Hofsoft: ................                        Sprê¿yna przed.zawieszenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             56.16
+Numer producenta: ...............................                                      KRAX 4020320
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54310190
+Nazwa czesci w systemie Hofsoft: ................                             Koñcówka dr¹¿ka kier.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             39.67
+Numer producenta: ...............................                                         SID 37630
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          44300390
+Nazwa czesci w systemie Hofsoft: ................                        Dr¹¿ek reakcyjny przedni P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             55.04
+Numer producenta: ...............................                                   TRW VO-TC-4001P
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54400700
+Nazwa czesci w systemie Hofsoft: ................                     Przegub napêdowy zewn. z os³.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             45.08
+Numer producenta: ...............................                                        GSP 803018
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,44 @@
+Znaleziono towar : 96000381 (Sprawdzenie: 96000381)
+Znaleziono towar : 04236510 (Sprawdzenie: 04236510)
+Znaleziono towar : 74306502 (Sprawdzenie: 74306502)
+Znaleziono towar : 24236503 (Sprawdzenie: 24236503)
+Znaleziono towar : 96046520 (Sprawdzenie: 96046520)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96000381
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP175
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             81.34
+Numer producenta: ...............................                                BOSK 0 986 424 364
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04236510
+Nazwa czesci w systemie Hofsoft: ................                          Silentblok wahacza tylny
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             13.61
+Numer producenta: ...............................                           LEM 2971001 /6Q0407183A
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74306502
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             27.53
+Numer producenta: ...............................                                    SWA 30 91 9518
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24236503
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              5.76
+Numer producenta: ...............................                                    SWA 30 92 7642
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96046520
+Nazwa czesci w systemie Hofsoft: ................                            Tarcza hamulcowa BD753
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             66.32
+Numer producenta: ...............................                                BOS2 0 986 478 853
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,20 @@
+Znaleziono towar : H6004175 (Sprawdzenie: H6004175)
+Znaleziono towar : 10071128 (Sprawdzenie: 10071128)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          H6004175
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe T1679
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             82.46
+Numer producenta: ...............................                               HPG 8DB 355 013-141
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10071128
+Nazwa czesci w systemie Hofsoft: ................                          Smar miedziowy - areozol
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.48
+Numer producenta: ...............................                                        AMT 20-A10
+
+
+
+************************************************************
+************************************************************

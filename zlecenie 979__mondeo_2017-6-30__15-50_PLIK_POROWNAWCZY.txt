@@ -1,0 +1,108 @@
+Znaleziono towar : 90708557 (Sprawdzenie: 90708557)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : 91712025 (Sprawdzenie: 91712025)
+Znaleziono towar : 14102058 (Sprawdzenie: 14102058)
+Znaleziono towar : 48233780 (Sprawdzenie: 48233780)
+Znaleziono towar : 91166638 (Sprawdzenie: 91166638)
+Znaleziono towar : 00080071 (Sprawdzenie: 00080071)
+Znaleziono towar : 91702080 (Sprawdzenie: 91702080)
+Znaleziono towar : 90700347 (Sprawdzenie: 90700347)
+Znaleziono towar : 91722060 (Sprawdzenie: 91722060)
+Znaleziono towar : 00080041 (Sprawdzenie: 00080041)
+Znaleziono towar : 91732085 (Sprawdzenie: 91732085)
+Znaleziono towar : 91182038 (Sprawdzenie: 91182038)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90708557
+Nazwa czesci w systemie Hofsoft: ................                    AM467S Pióra wycier.650/475 AE
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             70.60
+Numer producenta: ...............................                                BOS5 3 397 007 467
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91712025
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S0109
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             26.96
+Numer producenta: ...............................                                BOS3 F 026 400 109
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          14102058
+Nazwa czesci w systemie Hofsoft: ................                                £o¿ysko ko³a przód
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            245.68
+Numer producenta: ...............................                                       OPT 301 305
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48233780
+Nazwa czesci w systemie Hofsoft: ................                     Spinka mocow. zderzaka czarna
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.48
+Numer producenta: ...............................                          ROM B19239       10 szt.
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91166638
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6x1685
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             32.01
+Numer producenta: ...............................                                BOS4 1 987 947 986
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080071
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  25- 40mm
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                              1.30
+Numer producenta: ...............................                                       NOR 101-040
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91702080
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7017
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.14
+Numer producenta: ...............................                                BOS3 F 026 407 017
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90700347
+Nazwa czesci w systemie Hofsoft: ................                       H304  Pióro wycier.300mm TW
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.86
+Numer producenta: ...............................                                BOS5 3 397 004 990
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91722060
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N2007
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             38.27
+Numer producenta: ...............................                                BOS3 F 026 402 007
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080041
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  16- 27mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.13
+Numer producenta: ...............................                                       NOR 101-027
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91732085
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy R2409
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             32.90
+Numer producenta: ...............................                                BOS3 1 987 432 409
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91182038
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            173.11
+Numer producenta: ...............................                                BOS4 1 987 948 520
+
+
+
+************************************************************
+************************************************************

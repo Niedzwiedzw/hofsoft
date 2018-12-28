@@ -1,0 +1,44 @@
+Znaleziono towar : 91700070 (Sprawdzenie: 91700070)
+Znaleziono towar : 00130022 (Sprawdzenie: 00130022)
+Znaleziono towar : 48850018 (Sprawdzenie: 48850018)
+Znaleziono towar : 91710080 (Sprawdzenie: 91710080)
+Znaleziono towar : 00130040 (Sprawdzenie: 00130040)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700070
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9619
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.60
+Numer producenta: ...............................                                BOS3 1 457 429 619
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00130022
+Nazwa czesci w systemie Hofsoft: ................                          Przewód paliwowy   3.2mm
+Ilosc: ..........................................                                                 7
+CENA: ...........................................                                              3.27
+Numer producenta: ...............................                                   GAT2 4324-10050
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48850018
+Nazwa czesci w systemie Hofsoft: ................                               Konwerter ciœnienia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             94.79
+Numer producenta: ...............................                                  PIE 7.02184.01.0
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91710080
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3714
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.31
+Numer producenta: ...............................                                BOS3 1 457 433 714
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00130040
+Nazwa czesci w systemie Hofsoft: ................                            Przewód paliwowy   4mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              4.71
+Numer producenta: ...............................                                   GAT2 3225-00051
+
+
+
+************************************************************
+************************************************************

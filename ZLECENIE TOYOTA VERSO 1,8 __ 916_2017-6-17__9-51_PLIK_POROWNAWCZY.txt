@@ -1,0 +1,28 @@
+Znaleziono towar : 80950529 (Sprawdzenie: 80950529)
+Znaleziono towar : 06053898 (Sprawdzenie: 06053898)
+Znaleziono towar : 96013763 (Sprawdzenie: 96013763)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80950529
+Nazwa czesci w systemie Hofsoft: ................                    Akum. 63Ah/610A S5          L-
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            257.69
+Numer producenta: ...............................                                       BOS1 S5 005
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          06053898
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa 411168
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                            105.52
+Numer producenta: ...............................                                ATE 24.0111-0168.1
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96013763
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1328
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             94.13
+Numer producenta: ...............................                                BOSK 0 986 494 404
+
+
+
+************************************************************
+************************************************************

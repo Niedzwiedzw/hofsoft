@@ -1,0 +1,76 @@
+Znaleziono towar : 06080071 (Sprawdzenie: 06080071)
+Znaleziono towar : K6065500 (Sprawdzenie: K6065500)
+Znaleziono towar : 06105045 (Sprawdzenie: 06105045)
+Znaleziono towar : 96025610 (Sprawdzenie: 96025610)
+Znaleziono towar : 96045920 (Sprawdzenie: 96045920)
+Znaleziono towar : 16090080 (Sprawdzenie: 16090080)
+Znaleziono towar : 90805250 (Sprawdzenie: 90805250)
+Znaleziono towar : H9805500 (Sprawdzenie: H9805500)
+Znaleziono towar : 56036200 (Sprawdzenie: 56036200)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          06080071
+Nazwa czesci w systemie Hofsoft: ................                               Przewód ham. 331435
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             22.03
+Numer producenta: ...............................                                ATE 24.5237-0308.3
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6065500
+Nazwa czesci w systemie Hofsoft: ................                          Bêben hamulcowy 229x50.5
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             53.11
+Numer producenta: ...............................                                      KRA5 6065500
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          06105045
+Nazwa czesci w systemie Hofsoft: ................                      Zestaw napr.szcz.ham. 669220
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             18.56
+Numer producenta: ...............................                                ATE 03.0137-9220.2
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96025610
+Nazwa czesci w systemie Hofsoft: ................                    Szczêki hamulcowe 228x42 BS802
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             59.91
+Numer producenta: ...............................                                BOSS 0 986 487 552
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96045920
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD2028
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             66.82
+Numer producenta: ...............................                         BOS2 0 986 479 B27/478268
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16090080
+Nazwa czesci w systemie Hofsoft: ................                    Przewód hamulc.metal. L=400 mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              5.39
+Numer producenta: ...............................                         WP 045                 68
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90805250
+Nazwa czesci w systemie Hofsoft: ................                    ¯arówka H4 60/55W 12VPureLight
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.89
+Numer producenta: ...............................                                BOS8 1 987 302 041
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          H9805500
+Nazwa czesci w systemie Hofsoft: ................                     Sterownik œwiec ¿arowych DUR.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             92.80
+Numer producenta: ...............................                                        HUC 132083
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56036200
+Nazwa czesci w systemie Hofsoft: ................                    Cylinderek ham.        "22,22"
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             21.20
+Numer producenta: ...............................                                      KRA6 6036200
+
+
+
+************************************************************
+************************************************************

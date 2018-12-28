@@ -1,0 +1,28 @@
+Znaleziono towar : 20522510 (Sprawdzenie: 20522510)
+Znaleziono towar : 11151017 (Sprawdzenie: 11151017)
+Znaleziono towar : K0072409 (Sprawdzenie: K0072409)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20522510
+Nazwa czesci w systemie Hofsoft: ................                               Uszczelka kolektora
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.73
+Numer producenta: ...............................                                       FIS 100-909
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11151017
+Nazwa czesci w systemie Hofsoft: ................                      Simering 40x55x8 skrz.biegów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.04
+Numer producenta: ...............................                                     COR 27959 010
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0072409
+Nazwa czesci w systemie Hofsoft: ................                    Œrodek odt³.do sprzêg.i hamul.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.98
+Numer producenta: ...............................                         KRWC BRAKE&CLUTCH CLEANER
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,28 @@
+Znaleziono towar : 91180807 (Sprawdzenie: 91180807)
+Znaleziono towar : 91700015 (Sprawdzenie: 91700015)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91180807
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            192.56
+Numer producenta: ...............................                           BOS4 1 987 946 921 /438
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700015
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P3314
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.80
+Numer producenta: ...............................                                BOS3 0 451 103 314
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+
+************************************************************
+************************************************************

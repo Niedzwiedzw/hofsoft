@@ -1,0 +1,60 @@
+Znaleziono towar : 54221535 (Sprawdzenie: 54221535)
+Znaleziono towar : 90700658 (Sprawdzenie: 90700658)
+Znaleziono towar : E9031504 (Sprawdzenie: E9031504)
+Znaleziono towar : 54301554 (Sprawdzenie: 54301554)
+Znaleziono towar : 90700649 (Sprawdzenie: 90700649)
+Znaleziono towar : 04231900 (Sprawdzenie: 04231900)
+Znaleziono towar : 84231536 (Sprawdzenie: 84231536)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54221535
+Nazwa czesci w systemie Hofsoft: ................                               Sworzeñ wahacza L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             26.15
+Numer producenta: ...............................                                          SID 9785
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90700658
+Nazwa czesci w systemie Hofsoft: ................                    AM700U Pióro wycier.700     AE
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             45.83
+Numer producenta: ...............................                                BOS5 3 397 008 588
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          E9031504
+Nazwa czesci w systemie Hofsoft: ................                            W³¹cznik œwiate³ stopu
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             36.86
+Numer producenta: ...............................                                        ERA 330721
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54301554
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             29.24
+Numer producenta: ...............................                                          SID 9062
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90700649
+Nazwa czesci w systemie Hofsoft: ................                    AM550U Pióro wycier.550     AE
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             34.50
+Numer producenta: ...............................                                BOS5 3 397 008 583
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04231900
+Nazwa czesci w systemie Hofsoft: ................                     Silentblok mocow.tylnej belki
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             92.75
+Numer producenta: ...............................                                       LEM 3593601
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84231536
+Nazwa czesci w systemie Hofsoft: ................                    Silentblok wahacza przed.tylny
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             40.58
+Numer producenta: ...............................                                    TRW OP-SB-2824
+
+
+
+************************************************************
+************************************************************

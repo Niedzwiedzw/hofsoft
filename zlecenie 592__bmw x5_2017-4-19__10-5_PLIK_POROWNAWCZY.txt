@@ -1,0 +1,28 @@
+Znaleziono towar : 20061004 (Sprawdzenie: 20061004)
+Znaleziono towar : 41702730 (Sprawdzenie: 41702730)
+Znaleziono towar : 10068510 (Sprawdzenie: 10068510)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20061004
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             23.85
+Numer producenta: ...............................                                   SWAE 99 90 2374
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41702730
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             27.44
+Numer producenta: ...............................                                     FIL 649/8  OE
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10068510
+Nazwa czesci w systemie Hofsoft: ................                             Woda demineralizowana
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.19
+Numer producenta: ...............................                          PLK WODA DEMINERALIZOWAN
+
+
+
+************************************************************
+************************************************************

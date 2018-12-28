@@ -1,0 +1,36 @@
+Znaleziono towar : 91180539 (Sprawdzenie: 91180539)
+Znaleziono towar : 14090285 (Sprawdzenie: 14090285)
+Znaleziono towar : 91166405 (Sprawdzenie: 91166405)
+Znaleziono towar : 40071400 (Sprawdzenie: 40071400)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91180539
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z napinaczem
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            176.35
+Numer producenta: ...............................                                BOS4 1 987 948 255
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          14090285
+Nazwa czesci w systemie Hofsoft: ................                    Poduszka amortyzatora z ³o¿ys.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             17.00
+Numer producenta: ...............................                          HPR 108 557 /357412331AS
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91166405
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6x1145
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.11
+Numer producenta: ...............................                                BOS4 1 987 947 943
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          40071400
+Nazwa czesci w systemie Hofsoft: ................                             P³yn do mycia silnika
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.92
+Numer producenta: ...............................                                           K2 K177
+
+
+
+************************************************************
+************************************************************

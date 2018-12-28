@@ -1,0 +1,76 @@
+Znaleziono towar : 91166595 (Sprawdzenie: 91166595)
+Znaleziono towar : 91730212 (Sprawdzenie: 91730212)
+Znaleziono towar : 50020346 (Sprawdzenie: 50020346)
+Znaleziono towar : 91180273 (Sprawdzenie: 91180273)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : 81710680 (Sprawdzenie: 81710680)
+Znaleziono towar : 91700055 (Sprawdzenie: 91700055)
+Znaleziono towar : K0061009 (Sprawdzenie: K0061009)
+Znaleziono towar : 81720701 (Sprawdzenie: 81720701)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91166595
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6x1555
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.74
+Numer producenta: ...............................                                BOS4 1 987 947 949
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91730212
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy R2431
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             32.19
+Numer producenta: ...............................                                BOS3 1 987 432 431
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50020346
+Nazwa czesci w systemie Hofsoft: ................                    Olej przek³adniowy 75W-80 GL4+
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                             40.59
+Numer producenta: ...............................                           CAS 75W80 SYNTRANS V FE
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91180273
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            389.90
+Numer producenta: ...............................                                BOS4 1 987 946 943
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          81710680
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3331
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.36
+Numer producenta: ...............................                                BOS3 1 457 433 331
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700055
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7023
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.43
+Numer producenta: ...............................                                BOS3 F 026 407 023
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061009
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              7.04
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          81720701
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N6467
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            102.63
+Numer producenta: ...............................                                BOS3 0 450 906 467
+
+
+
+************************************************************
+************************************************************

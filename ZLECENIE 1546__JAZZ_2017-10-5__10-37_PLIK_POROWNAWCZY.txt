@@ -1,0 +1,28 @@
+Znaleziono towar : 96006696 (Sprawdzenie: 96006696)
+Znaleziono towar : 16036665 (Sprawdzenie: 16036665)
+Znaleziono towar : 90060015 (Sprawdzenie: 90060015)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96006696
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1234
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             66.54
+Numer producenta: ...............................                         BOSK 0 986 494 299/461126
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16036665
+Nazwa czesci w systemie Hofsoft: ................                              Reperaturka zac.ham.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.19
+Numer producenta: ...............................                         AFN D4402               6
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90060015
+Nazwa czesci w systemie Hofsoft: ................                        P³yn hamulcowy DOT 4 BF033
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.41
+Numer producenta: ...............................                            BOSE 1 987 479 106/004
+
+
+
+************************************************************
+************************************************************

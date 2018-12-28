@@ -1,0 +1,44 @@
+Znaleziono towar : 91710410 (Sprawdzenie: 91710410)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : 91730301 (Sprawdzenie: 91730301)
+Znaleziono towar : 81726550 (Sprawdzenie: 81726550)
+Znaleziono towar : 91704850 (Sprawdzenie: 91704850)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91710410
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S9404
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.96
+Numer producenta: ...............................                                BOS3 1 987 429 404
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.13
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91730301
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy R2397
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.98
+Numer producenta: ...............................                                BOS3 1 987 432 397
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          81726550
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N0008
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             43.67
+Numer producenta: ...............................                                BOS3 1 457 070 008
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91704850
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9192
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.59
+Numer producenta: ...............................                                BOS3 1 457 429 192
+
+
+
+************************************************************
+************************************************************

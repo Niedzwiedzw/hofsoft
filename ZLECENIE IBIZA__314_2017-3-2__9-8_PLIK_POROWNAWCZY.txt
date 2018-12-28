@@ -1,0 +1,28 @@
+Znaleziono towar : 21326503 (Sprawdzenie: 21326503)
+Znaleziono towar : 91706550 (Sprawdzenie: 91706550)
+Znaleziono towar : 90900025 (Sprawdzenie: 90900025)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21326503
+Nazwa czesci w systemie Hofsoft: ................                                 Rozrz¹d kompletny
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            218.35
+Numer producenta: ...............................                                    SWA 99 13 0607
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91706550
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9194
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.66
+Numer producenta: ...............................                                BOS3 1 457 429 194
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90900025
+Nazwa czesci w systemie Hofsoft: ................                    +51 FR7HC+        Œwieca zap³.
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                              8.54
+Numer producenta: ...............................                              BOSB S 51 0242236565
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,68 @@
+Znaleziono towar : 26080010 (Sprawdzenie: 26080010)
+Znaleziono towar : 16093030 (Sprawdzenie: 16093030)
+Znaleziono towar : 16090140 (Sprawdzenie: 16090140)
+Znaleziono towar : 84220090 (Sprawdzenie: 84220090)
+Znaleziono towar : 14230170 (Sprawdzenie: 14230170)
+Znaleziono towar : 24340070 (Sprawdzenie: 24340070)
+Znaleziono towar : K4300223 (Sprawdzenie: K4300223)
+Znaleziono towar : 16090080 (Sprawdzenie: 16090080)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          26080010
+Nazwa czesci w systemie Hofsoft: ................                         Przewód ham.tylny L=180mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             11.03
+Numer producenta: ...............................                                      AP 5 6T46126
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16093030
+Nazwa czesci w systemie Hofsoft: ................                    Przewód hamulc.metal. L=2400mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.59
+Numer producenta: ...............................                                            WP 014
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16090140
+Nazwa czesci w systemie Hofsoft: ................                    Przewód hamulc.metal. L=700 mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.82
+Numer producenta: ...............................                                            WP 033
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84220090
+Nazwa czesci w systemie Hofsoft: ................                         Sworzeñ wahacza L/P Ý19mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.73
+Numer producenta: ...............................                                    TRW VO-BJ-7154
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          14230170
+Nazwa czesci w systemie Hofsoft: ................                    Silentblok wahacza przed.tylny
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.69
+Numer producenta: ...............................                                       LEM 2535201
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24340070
+Nazwa czesci w systemie Hofsoft: ................                    Os³ona maglownicy /ze wsp.TRW/
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.88
+Numer producenta: ...............................                                    SWA 30 80 0057
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4300223
+Nazwa czesci w systemie Hofsoft: ................                    £¹cznik stabilizatora L/P prz.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             11.40
+Numer producenta: ...............................                                      KRA4 4300223
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16090080
+Nazwa czesci w systemie Hofsoft: ................                    Przewód hamulc.metal. L=400 mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.39
+Numer producenta: ...............................                                            WP 045
+
+
+
+************************************************************
+************************************************************

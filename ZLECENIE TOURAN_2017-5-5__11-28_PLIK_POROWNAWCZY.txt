@@ -1,0 +1,28 @@
+Znaleziono towar : J0062006 (Sprawdzenie: J0062006)
+Znaleziono towar : 00080011 (Sprawdzenie: 00080011)
+Znaleziono towar : 96070930 (Sprawdzenie: 96070930)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          J0062006
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do spryskiwaczy ZIMA
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.00
+Numer producenta: ...............................                                  JPPE JPP 5L(-22)
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080011
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   8- 12mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.04
+Numer producenta: ...............................                                       NOR 101-012
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96070930
+Nazwa czesci w systemie Hofsoft: ................                            Linka ham.rêczn. BC776
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             29.12
+Numer producenta: ...............................                                BOSL 1 987 477 942
+
+
+
+************************************************************
+************************************************************

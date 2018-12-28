@@ -1,0 +1,36 @@
+Znaleziono towar : 84232082 (Sprawdzenie: 84232082)
+Znaleziono towar : K6022220 (Sprawdzenie: K6022220)
+Znaleziono towar : 24232081 (Sprawdzenie: 24232081)
+Znaleziono towar : 16102185 (Sprawdzenie: 16102185)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84232082
+Nazwa czesci w systemie Hofsoft: ................                     Silentblok wahacza przedniego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             21.59
+Numer producenta: ...............................                                    TRW FD-SB-1352
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6022220
+Nazwa czesci w systemie Hofsoft: ................                          Szczêki hamulcowe 203x38
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             40.26
+Numer producenta: ...............................                                      KRAS 6022220
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24232081
+Nazwa czesci w systemie Hofsoft: ................                     Silentblok wahacza przedniego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.55
+Numer producenta: ...............................                                    SWA 50 91 8495
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16102185
+Nazwa czesci w systemie Hofsoft: ................                    Zestaw naprawczy szczêk hamul.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             21.66
+Numer producenta: ...............................                               QBR 0772 / 105-0772
+
+
+
+************************************************************
+************************************************************

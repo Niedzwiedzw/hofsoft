@@ -1,0 +1,44 @@
+Znaleziono towar : 80905711 (Sprawdzenie: 80905711)
+Znaleziono towar : S6058820 (Sprawdzenie: S6058820)
+Znaleziono towar : 56018800 (Sprawdzenie: 56018800)
+Znaleziono towar : 80950551 (Sprawdzenie: 80950551)
+Znaleziono towar : 10800800 (Sprawdzenie: 10800800)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80905711
+Nazwa czesci w systemie Hofsoft: ................                    + 8 FR7DC+ SB4    Œwieca zap³.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.57
+Numer producenta: ...............................                          BOSB S 08 SB4 0242235912
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          S6058820
+Nazwa czesci w systemie Hofsoft: ................                      Tarcza hamulcowa ty³ (261mm)
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             39.13
+Numer producenta: ...............................                                  SAK5 605-03-8820
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56018800
+Nazwa czesci w systemie Hofsoft: ................                        Klocki hamulcowe     23456
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             48.35
+Numer producenta: ...............................                                       REM 0649 02
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80950551
+Nazwa czesci w systemie Hofsoft: ................                    Akum. 60Ah/540A S4          L-
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            183.48
+Numer producenta: ...............................                                       BOS1 S4 005
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10800800
+Nazwa czesci w systemie Hofsoft: ................                    ¯arówka W 3W 12V     W2,1x9,5d
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              0.39
+Numer producenta: ...............................                                 NAR 17097 W3W 12V
+
+
+
+************************************************************
+************************************************************

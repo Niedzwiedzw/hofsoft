@@ -1,0 +1,60 @@
+Znaleziono towar : 80950791 (Sprawdzenie: 80950791)
+Znaleziono towar : 96058304 (Sprawdzenie: 96058304)
+Znaleziono towar : 84238373 (Sprawdzenie: 84238373)
+Znaleziono towar : 96048367 (Sprawdzenie: 96048367)
+Znaleziono towar : 84238372 (Sprawdzenie: 84238372)
+Znaleziono towar : 96008303 (Sprawdzenie: 96008303)
+Znaleziono towar : 96018330 (Sprawdzenie: 96018330)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80950791
+Nazwa czesci w systemie Hofsoft: ................                    Akum. 74Ah/680A S4          L+
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            236.97
+Numer producenta: ...............................                                       BOS1 S4 009
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96058304
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD1146
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                            120.10
+Numer producenta: ...............................                                BOS2 0 986 479 268
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84238373
+Nazwa czesci w systemie Hofsoft: ................                     Silentblok wahacza przedniego
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             50.83
+Numer producenta: ...............................                                    TRW OP-SB-8780
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96048367
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD1145
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                            125.11
+Numer producenta: ...............................                                BOS2 0 986 479 267
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84238372
+Nazwa czesci w systemie Hofsoft: ................                     Silentblok wahacza przedniego
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             15.36
+Numer producenta: ...............................                                    TRW OP-SB-8779
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96008303
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1122
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            126.99
+Numer producenta: ...............................                                BOSK 0 986 494 250
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96018330
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1123
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             99.00
+Numer producenta: ...............................                                BOSK 0 986 494 251
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,28 @@
+Znaleziono towar : 91928987 (Sprawdzenie: 91928987)
+Znaleziono towar : 91845515 (Sprawdzenie: 91845515)
+Znaleziono towar : 91722120 (Sprawdzenie: 91722120)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91928987
+Nazwa czesci w systemie Hofsoft: ................                         Podk³adka pod wtryskiwacz
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              1.88
+Numer producenta: ...............................                                BOSD F 00V C17 504
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91845515
+Nazwa czesci w systemie Hofsoft: ................                          Czujnik ciœnienia paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            123.39
+Numer producenta: ...............................                             ORG 9658227880/1920GW
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91722120
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N2046
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            112.20
+Numer producenta: ...............................                                BOS3 F 026 402 046
+
+
+
+************************************************************
+************************************************************

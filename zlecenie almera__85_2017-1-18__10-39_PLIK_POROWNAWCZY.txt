@@ -1,0 +1,28 @@
+Znaleziono towar : 91714140 (Sprawdzenie: 91714140)
+Znaleziono towar : 91703659 (Sprawdzenie: 91703659)
+Znaleziono towar : K0061175 (Sprawdzenie: K0061175)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91714140
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S9051
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.95
+Numer producenta: ...............................                                BOS3 1 987 429 051
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91703659
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7210
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.05
+Numer producenta: ...............................                                BOS3 F 026 407 210
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061175
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.96
+Numer producenta: ...............................                         KRAE KRAFT P£YN DO CH£.5L
+
+
+
+************************************************************
+************************************************************

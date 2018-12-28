@@ -1,0 +1,28 @@
+Znaleziono towar : 96002579 (Sprawdzenie: 96002579)
+Znaleziono towar : 91702790 (Sprawdzenie: 91702790)
+Znaleziono towar : 96042763 (Sprawdzenie: 96042763)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96002579
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1470
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            148.84
+Numer producenta: ...............................                                BOSK 0 986 494 549
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91702790
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7094
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             28.53
+Numer producenta: ...............................                                BOS3 F 026 407 094
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96042763
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD1602
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                            290.69
+Numer producenta: ...............................                                BOS2 0 986 479 772
+
+
+
+************************************************************
+************************************************************

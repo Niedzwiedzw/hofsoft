@@ -1,0 +1,36 @@
+Znaleziono towar : 61123707 (Sprawdzenie: 61123707)
+Znaleziono towar : 01323726 (Sprawdzenie: 01323726)
+Znaleziono towar : 91703810 (Sprawdzenie: 91703810)
+Znaleziono towar : 60058501 (Sprawdzenie: 60058501)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61123707
+Nazwa czesci w systemie Hofsoft: ................                    Komplet Uszczelek dekla zawor.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.62
+Numer producenta: ...............................                                       ELR 457.380
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01323726
+Nazwa czesci w systemie Hofsoft: ................                        Zestaw rozrz¹du ³añcuchowy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            346.90
+Numer producenta: ...............................                                   SKF1 91000 VKML
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91703810
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P2028
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.57
+Numer producenta: ...............................                                BOS3 0 986 452 028
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          60058501
+Nazwa czesci w systemie Hofsoft: ................                         Silikon trwale elastyczny
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.23
+Numer producenta: ...............................                          ELR 036.163   /  036.166
+
+
+
+************************************************************
+************************************************************

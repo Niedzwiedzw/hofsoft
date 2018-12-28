@@ -1,0 +1,28 @@
+Znaleziono towar : 84302080 (Sprawdzenie: 84302080)
+Znaleziono towar : 24312460 (Sprawdzenie: 24312460)
+Znaleziono towar : 24312470 (Sprawdzenie: 24312470)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84302080
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             17.43
+Numer producenta: ...............................                                    TRW FD-LS-0090
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24312460
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.68
+Numer producenta: ...............................                                    SWA 50 71 0040
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24312470
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.68
+Numer producenta: ...............................                                    SWA 50 71 0038
+
+
+
+************************************************************
+************************************************************

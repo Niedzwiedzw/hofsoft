@@ -1,0 +1,28 @@
+Znaleziono towar : 41708516 (Sprawdzenie: 41708516)
+Znaleziono towar : 91718630 (Sprawdzenie: 91718630)
+Znaleziono towar : K0062029 (Sprawdzenie: K0062029)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41708516
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.74
+Numer producenta: ...............................                                      FIL 689/1 OE
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91718630
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S9194
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.70
+Numer producenta: ...............................                                BOS3 1 987 429 194
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0062029
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do spryskiwaczy ZIMA
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.16
+Numer producenta: ...............................                              KRAE KRAFT 5L (-22C)
+
+
+
+************************************************************
+************************************************************

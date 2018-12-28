@@ -1,0 +1,36 @@
+Znaleziono towar : 91700320 (Sprawdzenie: 91700320)
+Znaleziono towar : 91710400 (Sprawdzenie: 91710400)
+Znaleziono towar : 91730301 (Sprawdzenie: 91730301)
+Znaleziono towar : 61720075 (Sprawdzenie: 61720075)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700320
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7183
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.21
+Numer producenta: ...............................                            BOS3 F 026 407 183/116
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91710400
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S9405
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.92
+Numer producenta: ...............................                                BOS3 1 987 429 405
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91730301
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy R2397
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.98
+Numer producenta: ...............................                                BOS3 1 987 432 397
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61720075
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             50.09
+Numer producenta: ...............................                                          MAN WK69
+
+
+
+************************************************************
+************************************************************

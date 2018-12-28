@@ -1,0 +1,20 @@
+Znaleziono towar : 40210012 (Sprawdzenie: 40210012)
+Znaleziono towar : 48232500 (Sprawdzenie: 48232500)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          40210012
+Nazwa czesci w systemie Hofsoft: ................                            Kompresor klimatyzacji
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            704.57
+Numer producenta: ...............................                                         NIS 89020
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48232500
+Nazwa czesci w systemie Hofsoft: ................                          Ko³ek rozporowy zderzaka
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              3.74
+Numer producenta: ...............................                          ROM 605064       10 szt.
+
+
+
+************************************************************
+************************************************************

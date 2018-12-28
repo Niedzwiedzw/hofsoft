@@ -1,0 +1,20 @@
+Znaleziono towar : 54233066 (Sprawdzenie: 54233066)
+Znaleziono towar : 24233039 (Sprawdzenie: 24233039)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54233066
+Nazwa czesci w systemie Hofsoft: ................                    Silentblok wahacza przed.przód
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.38
+Numer producenta: ...............................                                        SID 819635
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24233039
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.87
+Numer producenta: ...............................                                    SWA 70 93 6613
+
+
+
+************************************************************
+************************************************************

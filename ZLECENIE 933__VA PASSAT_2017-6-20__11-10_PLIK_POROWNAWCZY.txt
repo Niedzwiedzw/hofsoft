@@ -1,0 +1,28 @@
+Znaleziono towar : 61740003 (Sprawdzenie: 61740003)
+Znaleziono towar : 91730010 (Sprawdzenie: 91730010)
+Znaleziono towar : 50030211 (Sprawdzenie: 50030211)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61740003
+Nazwa czesci w systemie Hofsoft: ................                          Filtr aut.skrzyni biegów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             79.71
+Numer producenta: ...............................                                      MAN H2826KIT
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91730010
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2012
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.81
+Numer producenta: ...............................                                BOS3 1 987 432 012
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50030211
+Nazwa czesci w systemie Hofsoft: ................                                   Olej przek³adn.
+Ilosc: ..........................................                                                 5
+CENA: ...........................................                                             32.37
+Numer producenta: ...............................                                    CAS TRANSMAX Z
+
+
+
+************************************************************
+************************************************************

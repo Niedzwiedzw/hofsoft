@@ -1,0 +1,28 @@
+Znaleziono towar : K0061170 (Sprawdzenie: K0061170)
+Znaleziono towar : 26073100 (Sprawdzenie: 26073100)
+Znaleziono towar : 96043060 (Sprawdzenie: 96043060)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061170
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.55
+Numer producenta: ...............................                         KRAE KRAFT P£YN DO CH£.1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          26073100
+Nazwa czesci w systemie Hofsoft: ................                          Linka ham.rêczn.L=2632mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.12
+Numer producenta: ...............................                         PER 71424               L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96043060
+Nazwa czesci w systemie Hofsoft: ................                            Tarcza hamulcowa BD282
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             40.27
+Numer producenta: ...............................                                BOS2 0 986 478 342
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,28 @@
+Znaleziono towar : 54400750 (Sprawdzenie: 54400750)
+Znaleziono towar : K4230006 (Sprawdzenie: K4230006)
+Znaleziono towar : K4230007 (Sprawdzenie: K4230007)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54400750
+Nazwa czesci w systemie Hofsoft: ................                     Przegub napêdowy zewn. z os³.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             53.22
+Numer producenta: ...............................                                        GSP 803019
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4230006
+Nazwa czesci w systemie Hofsoft: ................                         Silentblok belki tylnej L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             76.53
+Numer producenta: ...............................                                      KRA4 4230006
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4230007
+Nazwa czesci w systemie Hofsoft: ................                         Silentblok belki tylnej P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             76.53
+Numer producenta: ...............................                                      KRA4 4230007
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,20 @@
+Znaleziono towar : 74005058 (Sprawdzenie: 74005058)
+Znaleziono towar : 54405023 (Sprawdzenie: 54405023)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74005058
+Nazwa czesci w systemie Hofsoft: ................                           Amortyzator przedni (G)
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            133.28
+Numer producenta: ...............................                                        KYB 334831
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54405023
+Nazwa czesci w systemie Hofsoft: ................                    Przegub napêdowy zewn.z   os³.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             52.51
+Numer producenta: ...............................                                        GSP 899213
+
+
+
+************************************************************
+************************************************************

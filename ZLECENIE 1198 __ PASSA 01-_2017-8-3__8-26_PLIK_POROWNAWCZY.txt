@@ -1,0 +1,36 @@
+Znaleziono towar : 50230100 (Sprawdzenie: 50230100)
+Znaleziono towar : 91164175 (Sprawdzenie: 91164175)
+Znaleziono towar : 14126520 (Sprawdzenie: 14126520)
+Znaleziono towar : 21220880 (Sprawdzenie: 21220880)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50230100
+Nazwa czesci w systemie Hofsoft: ................                                          Osuszacz
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             52.25
+Numer producenta: ...............................                              BEH1 8FT 351 197-761
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91164175
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 4x 856
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.34
+Numer producenta: ...............................                                BOS4 1 987 947 896
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          14126520
+Nazwa czesci w systemie Hofsoft: ................                    £o¿ysko klimatyzacji  35x52x22
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             21.04
+Numer producenta: ...............................                                     OPT 0K355222A
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21220880
+Nazwa czesci w systemie Hofsoft: ................                     Rolka napinacza paska micro-V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             53.53
+Numer producenta: ...............................                                     INA 531030910
+
+
+
+************************************************************
+************************************************************

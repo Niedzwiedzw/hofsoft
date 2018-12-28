@@ -1,0 +1,36 @@
+Znaleziono towar : 56012300 (Sprawdzenie: 56012300)
+Znaleziono towar : 54302082 (Sprawdzenie: 54302082)
+Znaleziono towar : 96052200 (Sprawdzenie: 96052200)
+Znaleziono towar : 54102295 (Sprawdzenie: 54102295)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56012300
+Nazwa czesci w systemie Hofsoft: ................                        Klocki hamulcowe     23353
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             48.31
+Numer producenta: ...............................                                       REM 0693 00
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54302082
+Nazwa czesci w systemie Hofsoft: ................                     £¹cznik stabilizatora tylnego
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             18.12
+Numer producenta: ...............................                                          SID 3265
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96052200
+Nazwa czesci w systemie Hofsoft: ................                            Tarcza hamulcowa BD284
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             46.04
+Numer producenta: ...............................                                BOS2 0 986 478 344
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54102295
+Nazwa czesci w systemie Hofsoft: ................                              £o¿ysko ko³a tylnego
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             77.64
+Numer producenta: ...............................                                   FAG 713 6780 30
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,28 @@
+Znaleziono towar : 61124210 (Sprawdzenie: 61124210)
+Znaleziono towar : 61124209 (Sprawdzenie: 61124209)
+Znaleziono towar : K0061175 (Sprawdzenie: K0061175)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61124210
+Nazwa czesci w systemie Hofsoft: ................                           Uszczelka dekla zaworów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.43
+Numer producenta: ...............................                                       ELR 332.542
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61124209
+Nazwa czesci w systemie Hofsoft: ................                           Uszczelka dekla zaworów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              3.65
+Numer producenta: ...............................                                       ELR 560.715
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061175
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.80
+Numer producenta: ...............................                         KRAE KRAFT P£YN DO CH£.5L
+
+
+
+************************************************************
+************************************************************

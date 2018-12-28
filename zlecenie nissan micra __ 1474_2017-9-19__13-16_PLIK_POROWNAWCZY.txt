@@ -1,0 +1,44 @@
+Znaleziono towar : 91185053 (Sprawdzenie: 91185053)
+Znaleziono towar : 01165440 (Sprawdzenie: 01165440)
+Znaleziono towar : 10601214 (Sprawdzenie: 10601214)
+Znaleziono towar : 91705190 (Sprawdzenie: 91705190)
+Znaleziono towar : 91734100 (Sprawdzenie: 91734100)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91185053
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            232.24
+Numer producenta: ...............................                         BOS4 1 987 946 941 /8 525
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01165440
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 5x1200
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.39
+Numer producenta: ...............................                         GAT 5PK1200             5
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10601214
+Nazwa czesci w systemie Hofsoft: ................                     Dywaniki gum.2szt        810c
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.65
+Numer producenta: ...............................                         AKC 810C                5
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91705190
+Nazwa czesci w systemie Hofsoft: ................                                  Filtr oleju P336
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.96
+Numer producenta: ...............................                                BOS3 0 451 103 336
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91734100
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2120
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             21.23
+Numer producenta: ...............................                                BOS3 1 987 432 120
+
+
+
+************************************************************
+************************************************************

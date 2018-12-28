@@ -1,0 +1,44 @@
+Znaleziono towar : 41711400 (Sprawdzenie: 41711400)
+Znaleziono towar : 41721140 (Sprawdzenie: 41721140)
+Znaleziono towar : 56011040 (Sprawdzenie: 56011040)
+Znaleziono towar : 41731050 (Sprawdzenie: 41731050)
+Znaleziono towar : 91701122 (Sprawdzenie: 91701122)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41711400
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             32.03
+Numer producenta: ...............................                                     FIL 035/2  AP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41721140
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            140.89
+Numer producenta: ...............................                                     FIL 947/1  PP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56011040
+Nazwa czesci w systemie Hofsoft: ................                        Klocki hamulcowe     21919
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             40.87
+Numer producenta: ...............................                                       REM 0678 00
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41731050
+Nazwa czesci w systemie Hofsoft: ................                             Filtr wlotu powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.52
+Numer producenta: ...............................                                      FIL 1106   K
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701122
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.73
+Numer producenta: ...............................                                BOS3 1 457 429 122
+
+
+
+************************************************************
+************************************************************

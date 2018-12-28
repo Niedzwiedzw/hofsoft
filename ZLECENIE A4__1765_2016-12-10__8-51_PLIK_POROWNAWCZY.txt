@@ -1,0 +1,84 @@
+Znaleziono towar : 06100951 (Sprawdzenie: 06100951)
+Znaleziono towar : 48120321 (Sprawdzenie: 48120321)
+Znaleziono towar : 16030695 (Sprawdzenie: 16030695)
+Znaleziono towar : 96010040 (Sprawdzenie: 96010040)
+Znaleziono towar : 54100271 (Sprawdzenie: 54100271)
+Znaleziono towar : 96040130 (Sprawdzenie: 96040130)
+Znaleziono towar : 16030755 (Sprawdzenie: 16030755)
+Znaleziono towar : 96000076 (Sprawdzenie: 96000076)
+Znaleziono towar : 54300345 (Sprawdzenie: 54300345)
+Znaleziono towar : 16030665 (Sprawdzenie: 16030665)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          06100951
+Nazwa czesci w systemie Hofsoft: ................                    Sprê¿yna mocuj¹ca klocków ham.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.13
+Numer producenta: ...............................                                ATE 11.8116-0143.1
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48120321
+Nazwa czesci w systemie Hofsoft: ................                    Zestaw monta¿owy os³ony silni.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.61
+Numer producenta: ...............................                                         ROM 90200
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16030695
+Nazwa czesci w systemie Hofsoft: ................                    Reperaturka zac.ham.przed."57"
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             12.93
+Numer producenta: ...............................                                         AFN D4134
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96010040
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP617
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             60.16
+Numer producenta: ...............................                         BOSK 0 986 494 596/461769
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54100271
+Nazwa czesci w systemie Hofsoft: ................                        Zestaw ³o¿ysk ko³a tylnego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             70.77
+Numer producenta: ...............................                         FAG 713 8026 10    2 SZT9
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96040130
+Nazwa czesci w systemie Hofsoft: ................                            Tarcza hamulcowa BD468
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             99.29
+Numer producenta: ...............................                                BOS2 0 986 478 546
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16030755
+Nazwa czesci w systemie Hofsoft: ................                              T³oczek zacisku ham.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             16.41
+Numer producenta: ...............................                                        AFN D02559
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96000076
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP250
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             91.65
+Numer producenta: ...............................                                BOSK 0 986 424 482
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54300345
+Nazwa czesci w systemie Hofsoft: ................                                Dr¹¿ek kierowniczy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.62
+Numer producenta: ...............................                                         SID 37610
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16030665
+Nazwa czesci w systemie Hofsoft: ................                     Reperaturka zac.ham.tyl. "38"
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             16.30
+Numer producenta: ...............................                                         AFN D4083
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,92 @@
+Znaleziono towar : P1733525 (Sprawdzenie: P1733525)
+Znaleziono towar : 20558530 (Sprawdzenie: 20558530)
+Znaleziono towar : J0062006 (Sprawdzenie: J0062006)
+Znaleziono towar : 84232329 (Sprawdzenie: 84232329)
+Znaleziono towar : 40223509 (Sprawdzenie: 40223509)
+Znaleziono towar : 61713525 (Sprawdzenie: 61713525)
+Znaleziono towar : 48230013 (Sprawdzenie: 48230013)
+Znaleziono towar : 41556305 (Sprawdzenie: 41556305)
+Znaleziono towar : 00080071 (Sprawdzenie: 00080071)
+Znaleziono towar : 91702120 (Sprawdzenie: 91702120)
+Znaleziono towar : 20061004 (Sprawdzenie: 20061004)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          P1733525
+Nazwa czesci w systemie Hofsoft: ................                             Filtr wlotu powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             26.35
+Numer producenta: ...............................                                      JPN3 FAA-MA8
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20558530
+Nazwa czesci w systemie Hofsoft: ................                                    Obejma M8/54mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.53
+Numer producenta: ...............................                                 FIS 911-954/01120
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          J0062006
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do spryskiwaczy ZIMA
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.70
+Numer producenta: ...............................                                  JPPE JPP 5L(-22)
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84232329
+Nazwa czesci w systemie Hofsoft: ................                     Silentblok wahacza przedniego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             45.41
+Numer producenta: ...............................                                    TRW VV-SB-3648
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          40223509
+Nazwa czesci w systemie Hofsoft: ................                                         Skraplacz
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            245.85
+Numer producenta: ...............................                                         NIS 94902
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61713525
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             39.46
+Numer producenta: ...............................                                         MAN C2841
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48230013
+Nazwa czesci w systemie Hofsoft: ................                    Blaszka mont. mocow. os³on kó³
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.55
+Numer producenta: ...............................                          ROM 16308        10 szt.
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41556305
+Nazwa czesci w systemie Hofsoft: ................                                         Ch³odnica
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            161.50
+Numer producenta: ...............................                                        NIS 62017A
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080071
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  25- 40mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.23
+Numer producenta: ...............................                                       NOR 101-040
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91702120
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P3363
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.24
+Numer producenta: ...............................                                BOS3 0 451 103 363
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20061004
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                             23.85
+Numer producenta: ...............................                                   SWAE 99 90 2374
+
+
+
+************************************************************
+************************************************************

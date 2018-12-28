@@ -1,0 +1,44 @@
+Znaleziono towar : K0061009 (Sprawdzenie: K0061009)
+Znaleziono towar : 90805250 (Sprawdzenie: 90805250)
+Znaleziono towar : 96051666 (Sprawdzenie: 96051666)
+Znaleziono towar : 96010902 (Sprawdzenie: 96010902)
+Znaleziono towar : 41705200 (Sprawdzenie: 41705200)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061009
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.04
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90805250
+Nazwa czesci w systemie Hofsoft: ................                    ¯arówka H4 60/55W 12VPureLight
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              5.89
+Numer producenta: ...............................                                BOS8 1 987 302 041
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96051666
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD1120
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                            224.76
+Numer producenta: ...............................                                BOS2 0 986 479 271
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96010902
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP378
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             83.77
+Numer producenta: ...............................                                BOSK 0 986 494 040
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41705200
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             21.45
+Numer producenta: ...............................                                     FIL 666/2  OE
+
+
+
+************************************************************
+************************************************************

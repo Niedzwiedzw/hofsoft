@@ -1,0 +1,28 @@
+Znaleziono towar : K0061009 (Sprawdzenie: K0061009)
+Znaleziono towar : 41703070 (Sprawdzenie: 41703070)
+Znaleziono towar : 90060010 (Sprawdzenie: 90060010)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061009
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.08
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41703070
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.74
+Numer producenta: ...............................                                     FIL 682/2  OE
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90060010
+Nazwa czesci w systemie Hofsoft: ................                        P³yn hamulcowy DOT 4 BF032
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.99
+Numer producenta: ...............................                            BOSE 1 987 479 105/001
+
+
+
+************************************************************
+************************************************************

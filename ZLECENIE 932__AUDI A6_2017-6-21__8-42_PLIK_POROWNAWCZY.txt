@@ -1,0 +1,19 @@
+Znaleziono towar : 21630045 (Sprawdzenie: 21630045)
+Znaleziono towar : 01610282 (Sprawdzenie: 01610282)
+Znaleziono towar : 19810130 (Sprawdzenie: 19810130)
+Znaleziono towar : 11660231 (Sprawdzenie: 11660231)
+Znaleziono towar : 91730045 (Sprawdzenie: 91730045)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21630045
+Nazwa czesci w systemie Hofsoft: ................                          £o¿ysko oporowe sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            148.82
+Numer producenta: ...............................                                   LUK 500 1199 10
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01610282
+Nazwa czesci w systemie Hofsoft: ................                          Ko³o zamachowe dwumasowe
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                          1,274.75
+Numer producenta: ...............................                                  LUK1 415 0721 08
+

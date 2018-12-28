@@ -1,0 +1,52 @@
+Znaleziono towar : 80942022 (Sprawdzenie: 80942022)
+Znaleziono towar : N8251003 (Sprawdzenie: N8251003)
+Znaleziono towar : E9036815 (Sprawdzenie: E9036815)
+Znaleziono towar : 48856814 (Sprawdzenie: 48856814)
+Znaleziono towar : 89103025 (Sprawdzenie: 89103025)
+Znaleziono towar : N8250799 (Sprawdzenie: N8250799)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80942022
+Nazwa czesci w systemie Hofsoft: ................                           Klej do gwintów, trwa³y
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             46.81
+Numer producenta: ...............................                                CRC 10977/30697-AD
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251003
+Nazwa czesci w systemie Hofsoft: ................                      Z³¹cze 2-styk. z uszczelkami
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.62
+Numer producenta: ...............................                                     NAG 123 /123T
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          E9036815
+Nazwa czesci w systemie Hofsoft: ................                            W³¹cznik œwiate³ stopu
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             21.05
+Numer producenta: ...............................                                        ERA 330517
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48856814
+Nazwa czesci w systemie Hofsoft: ................                               Konwerter ciœnienia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            215.72
+Numer producenta: ...............................                                  PIE 7.02256.03.0
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          89103025
+Nazwa czesci w systemie Hofsoft: ................                              Œwieca ¿arowa GLP205
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                             41.65
+Numer producenta: ...............................                                BOSC F 002 G50 048
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8250799
+Nazwa czesci w systemie Hofsoft: ................                     Zestaw os³on termokurczliwych
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              2.28
+Numer producenta: ...............................                                           NAG 047
+
+
+
+************************************************************
+************************************************************

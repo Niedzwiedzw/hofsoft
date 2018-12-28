@@ -1,0 +1,52 @@
+Znaleziono towar : 50900026 (Sprawdzenie: 50900026)
+Znaleziono towar : 99040070 (Sprawdzenie: 99040070)
+Znaleziono towar : K4236503 (Sprawdzenie: K4236503)
+Znaleziono towar : 80950529 (Sprawdzenie: 80950529)
+Znaleziono towar : 84306502 (Sprawdzenie: 84306502)
+Znaleziono towar : 90700634 (Sprawdzenie: 90700634)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50900026
+Nazwa czesci w systemie Hofsoft: ................                    ZFR5P-G           Œwieca zap³.
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                             11.04
+Numer producenta: ...............................                          NGK ZFR5P-G         6893
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          99040070
+Nazwa czesci w systemie Hofsoft: ................                               Cewka zap³onowa 12V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             80.80
+Numer producenta: ...............................                                 BOS 0 986 221 023
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4236503
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              2.26
+Numer producenta: ...............................                                      KRA4 4236503
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80950529
+Nazwa czesci w systemie Hofsoft: ................                    Akum. 63Ah/610A S5          L-
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            247.84
+Numer producenta: ...............................                                       BOS1 S5 005
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84306502
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             23.70
+Numer producenta: ...............................                                    TRW VO-LS-0494
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90700634
+Nazwa czesci w systemie Hofsoft: ................                       AM460S Pióro wycier.530/450
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             61.57
+Numer producenta: ...............................                                BOS5 3 397 007 460
+
+
+
+************************************************************
+************************************************************

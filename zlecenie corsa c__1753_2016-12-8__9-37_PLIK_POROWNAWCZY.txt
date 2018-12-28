@@ -1,0 +1,36 @@
+Znaleziono towar : 20558520 (Sprawdzenie: 20558520)
+Znaleziono towar : 04221552 (Sprawdzenie: 04221552)
+Znaleziono towar : 14411800 (Sprawdzenie: 14411800)
+Znaleziono towar : 02521852 (Sprawdzenie: 02521852)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20558520
+Nazwa czesci w systemie Hofsoft: ................                                    Obejma M8/50mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.47
+Numer producenta: ...............................                                 FIS 911-950/01100
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04221552
+Nazwa czesci w systemie Hofsoft: ................                               Sworzeñ wahacza L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.98
+Numer producenta: ...............................                              LEM 2650102 /0352803
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          14411800
+Nazwa czesci w systemie Hofsoft: ................                         Os³ona przegubu 22/127/72
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.15
+Numer producenta: ...............................                                      LOB1 303-891
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          02521852
+Nazwa czesci w systemie Hofsoft: ................                                    T³umik przedni
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             81.06
+Numer producenta: ...............................                                         ASM 05153
+
+
+
+************************************************************
+************************************************************

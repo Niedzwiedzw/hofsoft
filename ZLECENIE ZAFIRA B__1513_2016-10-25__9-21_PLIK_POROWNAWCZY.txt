@@ -1,0 +1,36 @@
+Znaleziono towar : 04231900 (Sprawdzenie: 04231900)
+Znaleziono towar : 96001650 (Sprawdzenie: 96001650)
+Znaleziono towar : 84301554 (Sprawdzenie: 84301554)
+Znaleziono towar : 84231536 (Sprawdzenie: 84231536)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04231900
+Nazwa czesci w systemie Hofsoft: ................                     Silentblok mocow.tylnej belki
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             90.25
+Numer producenta: ...............................                                       LEM 3593601
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96001650
+Nazwa czesci w systemie Hofsoft: ................                    Klocki hamulcowe 23654/655 ty³
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             66.21
+Numer producenta: ...............................                         BOSK 0 986 494 654/424646
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84301554
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             26.89
+Numer producenta: ...............................                         TRW OP-LS-4850          6
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84231536
+Nazwa czesci w systemie Hofsoft: ................                    Silentblok wahacza przed.tylny
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             38.92
+Numer producenta: ...............................                         TRW OP-SB-2824          6
+
+
+
+************************************************************
+************************************************************

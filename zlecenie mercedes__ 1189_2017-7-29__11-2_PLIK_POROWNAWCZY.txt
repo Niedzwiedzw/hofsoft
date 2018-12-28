@@ -1,0 +1,44 @@
+Znaleziono towar : 61721250 (Sprawdzenie: 61721250)
+Znaleziono towar : 50011499 (Sprawdzenie: 50011499)
+Znaleziono towar : 91731055 (Sprawdzenie: 91731055)
+Znaleziono towar : 91711015 (Sprawdzenie: 91711015)
+Znaleziono towar : 50011503 (Sprawdzenie: 50011503)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61721250
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             42.71
+Numer producenta: ...............................                                       MAN WK820/1
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50011499
+Nazwa czesci w systemie Hofsoft: ................                             Olej siln. SAE  5W-40
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             25.98
+Numer producenta: ...............................                                     CAS 5W40 EDGE
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91731055
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy R2370
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             44.80
+Numer producenta: ...............................                                BOS3 1 987 432 370
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91711015
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S0024
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             40.89
+Numer producenta: ...............................                                BOS3 F 026 400 024
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50011503
+Nazwa czesci w systemie Hofsoft: ................                             Olej siln. SAE  5W-40
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             96.23
+Numer producenta: ...............................                                     CAS 5W40 EDGE
+
+
+
+************************************************************
+************************************************************

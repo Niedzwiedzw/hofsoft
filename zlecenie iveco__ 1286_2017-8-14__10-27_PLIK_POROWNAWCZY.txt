@@ -1,0 +1,44 @@
+Znaleziono towar : 61719161 (Sprawdzenie: 61719161)
+Znaleziono towar : 41709062 (Sprawdzenie: 41709062)
+Znaleziono towar : 96019010 (Sprawdzenie: 96019010)
+Znaleziono towar : 91729096 (Sprawdzenie: 91729096)
+Znaleziono towar : 61739048 (Sprawdzenie: 61739048)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61719161
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             82.98
+Numer producenta: ...............................                                        MAN C40002
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41709062
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             46.50
+Numer producenta: ...............................                                     FIL 592/9  OP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96019010
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP459
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             92.96
+Numer producenta: ...............................                                BOSK 0 986 424 750
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91729096
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N2155
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             54.46
+Numer producenta: ...............................                                BOS3 F 026 402 155
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61739048
+Nazwa czesci w systemie Hofsoft: ................                             Filtr wlotu powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             27.77
+Numer producenta: ...............................                                       MAN CU22029
+
+
+
+************************************************************
+************************************************************

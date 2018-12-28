@@ -1,0 +1,68 @@
+Znaleziono towar : 91873014 (Sprawdzenie: 91873014)
+Znaleziono towar : 91726860 (Sprawdzenie: 91726860)
+Znaleziono towar : 11153490 (Sprawdzenie: 11153490)
+Znaleziono towar : F1845902 (Sprawdzenie: F1845902)
+Znaleziono towar : 21485501 (Sprawdzenie: 21485501)
+Znaleziono towar : 50020329 (Sprawdzenie: 50020329)
+Znaleziono towar : 91716080 (Sprawdzenie: 91716080)
+Znaleziono towar : 00080006 (Sprawdzenie: 00080006)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91873014
+Nazwa czesci w systemie Hofsoft: ................                           Zawór dozuj¹cy pompy CR
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            281.99
+Numer producenta: ...............................                                BOSD 0 928 400 826
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91726860
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N2076
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            118.29
+Numer producenta: ...............................                                BOS3 F 026 402 076
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11153490
+Nazwa czesci w systemie Hofsoft: ................                     Simering 43x59x10 pó³osi lewa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.52
+Numer producenta: ...............................                                     COR 19089 070
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          F1845902
+Nazwa czesci w systemie Hofsoft: ................                    Czujnik ciœnienia rura wlotowa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             84.39
+Numer producenta: ...............................                                         FAE 16111
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21485501
+Nazwa czesci w systemie Hofsoft: ................                              Poduszka silnika ty³
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             81.65
+Numer producenta: ...............................                                    SWA 62 93 2280
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50020329
+Nazwa czesci w systemie Hofsoft: ................                     Olej przek³adniowy 75W90 GL4+
+Ilosc: ..........................................                                                 5
+CENA: ...........................................                                             22.64
+Numer producenta: ...............................                           CAS 75W90 SYN.TRANSAXLE
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91716080
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S0059
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             49.58
+Numer producenta: ...............................                                BOS3 F 026 400 059
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080006
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   6- 11mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              2.17
+Numer producenta: ...............................                                          NOR 6-11
+
+
+
+************************************************************
+************************************************************

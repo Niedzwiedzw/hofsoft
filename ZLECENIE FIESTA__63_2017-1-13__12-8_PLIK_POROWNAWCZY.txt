@@ -1,0 +1,28 @@
+Znaleziono towar : 90700347 (Sprawdzenie: 90700347)
+Znaleziono towar : 90708572 (Sprawdzenie: 90708572)
+Znaleziono towar : J0062006 (Sprawdzenie: J0062006)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90700347
+Nazwa czesci w systemie Hofsoft: ................                       H304  Pióro wycier.300mm TW
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.07
+Numer producenta: ...............................                                BOS5 3 397 004 990
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90708572
+Nazwa czesci w systemie Hofsoft: ................                    AM466S Pióra wycier.650/380 AE
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             71.51
+Numer producenta: ...............................                                BOS5 3 397 007 466
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          J0062006
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do spryskiwaczy ZIMA
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.70
+Numer producenta: ...............................                                  JPPE JPP 5L(-22)
+
+
+
+************************************************************
+************************************************************

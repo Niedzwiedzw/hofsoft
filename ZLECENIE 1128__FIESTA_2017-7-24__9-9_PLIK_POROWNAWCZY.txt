@@ -1,0 +1,20 @@
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : 49968502 (Sprawdzenie: 49968502)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          49968502
+Nazwa czesci w systemie Hofsoft: ................                      Trójnik uk³adu ch³odz.16,0mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.86
+Numer producenta: ...............................                          ROM C60422        5 SZT.
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,28 @@
+Znaleziono towar : 91721656 (Sprawdzenie: 91721656)
+Znaleziono towar : K0030112 (Sprawdzenie: K0030112)
+Znaleziono towar : 00080006 (Sprawdzenie: 00080006)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91721656
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N1724
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             26.10
+Numer producenta: ...............................                                BOS3 1 457 431 724
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0030112
+Nazwa czesci w systemie Hofsoft: ................                      Olej przek³adn.ATF Dexron II
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.32
+Numer producenta: ...............................                                KRAA ATF DEXRON II
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080006
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   6- 11mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              2.41
+Numer producenta: ...............................                                          NOR 6-11
+
+
+
+************************************************************
+************************************************************

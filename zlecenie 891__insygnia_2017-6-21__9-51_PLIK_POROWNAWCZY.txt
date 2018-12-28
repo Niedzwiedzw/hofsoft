@@ -1,0 +1,17 @@
+Znaleziono towar : 01611615 (Sprawdzenie: 01611615)
+Znaleziono towar : 11611645 (Sprawdzenie: 11611645)
+Znaleziono towar : 10942021 (Sprawdzenie: 10942021)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01611615
+Nazwa czesci w systemie Hofsoft: ................                                   Zestaw sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            796.76
+Numer producenta: ...............................                                   LUK 625 3138 33
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11611645
+Nazwa czesci w systemie Hofsoft: ................                          Ko³o zamachowe dwumasowe
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                          1,091.89
+Numer producenta: ...............................                                 SAC3 2294 001 002
+

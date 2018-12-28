@@ -1,0 +1,28 @@
+Znaleziono towar : 29032000 (Sprawdzenie: 29032000)
+Znaleziono towar : 91702400 (Sprawdzenie: 91702400)
+Znaleziono towar : 74012022 (Sprawdzenie: 74012022)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          29032000
+Nazwa czesci w systemie Hofsoft: ................                            W³¹cznik œwiate³ stopu
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.88
+Numer producenta: ...............................                                        FAC 7.1041
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91702400
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9239
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.35
+Numer producenta: ...............................                                BOS3 1 457 429 239
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74012022
+Nazwa czesci w systemie Hofsoft: ................                             Amortyzator tylny (G)
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                            109.48
+Numer producenta: ...............................                                        KYB 343393
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,35 @@
+Znaleziono towar : N8251511 (Sprawdzenie: N8251511)
+Znaleziono towar : 00080111 (Sprawdzenie: 00080111) <---Poprawiono?Znaleziono towar : 91721601 (Sprawdzenie: 91721601)
+Znaleziono towar : 00942031 (Sprawdzenie: 00942031)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251511
+Nazwa czesci w systemie Hofsoft: ................                        Taœma izolacyjna p³ócienna
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.37
+Numer producenta: ...............................                                           NAG 268
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080111
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  60- 80mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.69
+Numer producenta: ...............................                           NOR 101-080  60-80/9 C7
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91721601
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N9656
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             18.71
+Numer producenta: ...............................                                BOS3 1 457 429 656
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00942031
+Nazwa czesci w systemie Hofsoft: ................                       Silikon wysokotemperaturowy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              3.41
+Numer producenta: ...............................                            TEK 907 - 20 ML CZARNY
+
+
+
+************************************************************
+************************************************************

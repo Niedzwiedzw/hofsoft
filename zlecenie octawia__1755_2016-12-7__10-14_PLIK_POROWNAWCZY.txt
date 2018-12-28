@@ -1,0 +1,28 @@
+Znaleziono towar : E9010346 (Sprawdzenie: E9010346)
+Znaleziono towar : 20020345 (Sprawdzenie: 20020345)
+Znaleziono towar : 80071116 (Sprawdzenie: 80071116)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          E9010346
+Nazwa czesci w systemie Hofsoft: ................                    Czujnik temp.silnika   zielony
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.18
+Numer producenta: ...............................                                        ERA 330496
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20020345
+Nazwa czesci w systemie Hofsoft: ................                        Olej przek³adniowy 75W GL4
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             34.73
+Numer producenta: ...............................                                   SWAE 10 92 1829
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80071116
+Nazwa czesci w systemie Hofsoft: ................                    Prepar.czyszcz.przep³ywomierze
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.58
+Numer producenta: ...............................                                 CRC 10433 / 30498
+
+
+
+************************************************************
+************************************************************

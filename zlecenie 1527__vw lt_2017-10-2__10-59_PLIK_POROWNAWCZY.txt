@@ -1,0 +1,36 @@
+Znaleziono towar : 24231293 (Sprawdzenie: 24231293)
+Znaleziono towar : K4001350 (Sprawdzenie: K4001350)
+Znaleziono towar : 04301267 (Sprawdzenie: 04301267)
+Znaleziono towar : 24230912 (Sprawdzenie: 24230912)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24231293
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              7.25
+Numer producenta: ...............................                                    SWA 10 79 0062
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4001350
+Nazwa czesci w systemie Hofsoft: ................                           Amortyzator przedni (G)
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             81.04
+Numer producenta: ...............................                                      KRAM 4001350
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04301267
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             11.77
+Numer producenta: ...............................                           LEM 2580201 /9013200089
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24230912
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              3.62
+Numer producenta: ...............................                                    SWA 10 91 8874
+
+
+
+************************************************************
+************************************************************

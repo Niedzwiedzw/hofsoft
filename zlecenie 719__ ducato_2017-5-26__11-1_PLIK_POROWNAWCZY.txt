@@ -1,0 +1,76 @@
+Znaleziono towar : 00080021 (Sprawdzenie: 00080021)
+Znaleziono towar : 00080031 (Sprawdzenie: 00080031)
+Znaleziono towar : 00080061 (Sprawdzenie: 00080061)
+Znaleziono towar : 00080106 (Sprawdzenie: 00080106)
+Znaleziono towar : 91735925 (Sprawdzenie: 91735925)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : 91703397 (Sprawdzenie: 91703397)
+Znaleziono towar : 00080041 (Sprawdzenie: 00080041)
+Znaleziono towar : 00080091 (Sprawdzenie: 00080091)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080021
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  10- 16mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.04
+Numer producenta: ...............................                                       NOR 101-016
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080031
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  12- 22mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.11
+Numer producenta: ...............................                                       NOR 101-022
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080061
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  20- 32mm
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                              1.13
+Numer producenta: ...............................                                       NOR 101-032
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080106
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  50- 70mm
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              1.55
+Numer producenta: ...............................                                       NOR 101-070
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91735925
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2065
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.02
+Numer producenta: ...............................                                BOS3 1 987 432 065
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91703397
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7083
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             42.62
+Numer producenta: ...............................                                BOS3 F 026 407 083
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080041
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  16- 27mm
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              1.13
+Numer producenta: ...............................                                       NOR 101-027
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080091
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  35- 50mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.36
+Numer producenta: ...............................                                       NOR 101-050
+
+
+
+************************************************************
+************************************************************

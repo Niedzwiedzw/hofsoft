@@ -1,0 +1,36 @@
+Znaleziono towar : 29824000 (Sprawdzenie: 29824000)
+Znaleziono towar : 91703659 (Sprawdzenie: 91703659)
+Znaleziono towar : 10010210 (Sprawdzenie: 10010210)
+Znaleziono towar : 91714140 (Sprawdzenie: 91714140)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          29824000
+Nazwa czesci w systemie Hofsoft: ................                                 Nakrêtka M12x1,25
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              4.66
+Numer producenta: ...............................                                    SWA 82 91 1938
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91703659
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7210
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.06
+Numer producenta: ...............................                                BOS3 F 026 407 210
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10010210
+Nazwa czesci w systemie Hofsoft: ................                             Olej siln. SAE 10W-40
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             69.35
+Numer producenta: ...............................                           MOB 10W40 SUPER 2000 X1
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91714140
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S9051
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.86
+Numer producenta: ...............................                                BOS3 1 987 429 051
+
+
+
+************************************************************
+************************************************************

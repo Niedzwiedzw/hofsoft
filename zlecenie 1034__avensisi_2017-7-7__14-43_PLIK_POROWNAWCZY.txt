@@ -1,0 +1,28 @@
+Znaleziono towar : B1713923 (Sprawdzenie: B1713923)
+Znaleziono towar : 04103970 (Sprawdzenie: 04103970)
+Znaleziono towar : 20020297 (Sprawdzenie: 20020297)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          B1713923
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.02
+Numer producenta: ...............................                                     BLP3 ADT32293
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04103970
+Nazwa czesci w systemie Hofsoft: ................                           £o¿ysko ko³a przedniego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             82.48
+Numer producenta: ...............................                                     SKF 6831 VKBA
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20020297
+Nazwa czesci w systemie Hofsoft: ................                     Olej przek³adniowy 75W80W GL5
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.10
+Numer producenta: ...............................                                   SWAE 30 94 0580
+
+
+
+************************************************************
+************************************************************

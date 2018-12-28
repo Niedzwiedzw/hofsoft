@@ -1,0 +1,28 @@
+Znaleziono towar : 66016730 (Sprawdzenie: 66016730)
+Znaleziono towar : 80700652 (Sprawdzenie: 80700652)
+Znaleziono towar : 80700635 (Sprawdzenie: 80700635)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          66016730
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP479
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             81.91
+Numer producenta: ...............................                                BOSK 0 986 424 775
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80700652
+Nazwa czesci w systemie Hofsoft: ................                    AP575U Pióro wycier.575     AE
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             35.40
+Numer producenta: ...............................                                BOS5 3 397 006 950
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80700635
+Nazwa czesci w systemie Hofsoft: ................                    AP450U Pióro wycier.450     AE
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.55
+Numer producenta: ...............................                                BOS5 3 397 006 945
+
+
+
+************************************************************
+************************************************************

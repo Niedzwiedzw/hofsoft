@@ -1,0 +1,84 @@
+Znaleziono towar : 91185053 (Sprawdzenie: 91185053)
+Znaleziono towar : 96004137 (Sprawdzenie: 96004137)
+Znaleziono towar : 91705190 (Sprawdzenie: 91705190)
+Znaleziono towar : 10068510 (Sprawdzenie: 10068510)
+Znaleziono towar : 20061004 (Sprawdzenie: 20061004)
+Znaleziono towar : 96044065 (Sprawdzenie: 96044065)
+Znaleziono towar : 10601214 (Sprawdzenie: 10601214)
+Znaleziono towar : 91734100 (Sprawdzenie: 91734100)
+Znaleziono towar : 91725060 (Sprawdzenie: 91725060)
+Znaleziono towar : 01165440 (Sprawdzenie: 01165440)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91185053
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            232.24
+Numer producenta: ...............................                         BOS4 1 987 946 941 /8 525
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96004137
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP936
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             74.69
+Numer producenta: ...............................                                BOSK 0 986 494 592
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91705190
+Nazwa czesci w systemie Hofsoft: ................                                  Filtr oleju P336
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.96
+Numer producenta: ...............................                                BOS3 0 451 103 336
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10068510
+Nazwa czesci w systemie Hofsoft: ................                             Woda demineralizowana
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.30
+Numer producenta: ...............................                          PLK WODA DEMINERALIZOWAN
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20061004
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             23.17
+Numer producenta: ...............................                                   SWAE 99 90 2374
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96044065
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD2074
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             86.06
+Numer producenta: ...............................                            BOS2 0 986 479 B73/103
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10601214
+Nazwa czesci w systemie Hofsoft: ................                     Dywaniki gum.2szt        810c
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.65
+Numer producenta: ...............................                                          AKC 810C
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91734100
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2120
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             21.23
+Numer producenta: ...............................                                BOS3 1 987 432 120
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91725060
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N7013
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             53.06
+Numer producenta: ...............................                                BOS3 0 450 907 013
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01165440
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 5x1200
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.39
+Numer producenta: ...............................                                       GAT 5PK1200
+
+
+
+************************************************************
+************************************************************

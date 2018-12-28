@@ -1,0 +1,36 @@
+Znaleziono towar : N8250715 (Sprawdzenie: N8250715)
+Znaleziono towar : 90804799 (Sprawdzenie: 90804799)
+Znaleziono towar : N8250799 (Sprawdzenie: N8250799)
+Znaleziono towar : N8251215 (Sprawdzenie: N8251215)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8250715
+Nazwa czesci w systemie Hofsoft: ................                    Nasadka J6,3/2,5mm2 z zaczepem
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.44
+Numer producenta: ...............................                                           NAG 011
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90804799
+Nazwa czesci w systemie Hofsoft: ................                      ¯arówka H1 55W 12V PureLight
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.82
+Numer producenta: ...............................                                BOS8 1 987 302 011
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8250799
+Nazwa czesci w systemie Hofsoft: ................                     Zestaw os³on termokurczliwych
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              2.28
+Numer producenta: ...............................                                           NAG 047
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251215
+Nazwa czesci w systemie Hofsoft: ................                     Oprawka  ¿arówki kier. boczn.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              3.12
+Numer producenta: ...............................                                           NAG 223
+
+
+
+************************************************************
+************************************************************

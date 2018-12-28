@@ -1,0 +1,36 @@
+Znaleziono towar : K1221980 (Sprawdzenie: K1221980)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : 90803460 (Sprawdzenie: 90803460)
+Znaleziono towar : 00080101 (Sprawdzenie: 00080101)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K1221980
+Nazwa czesci w systemie Hofsoft: ................                     Rolka napinacza paska micro-V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             26.23
+Numer producenta: ...............................                                      KRA2 1221980
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90803460
+Nazwa czesci w systemie Hofsoft: ................                       ¯arówka W 21W 12V PureLight
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.08
+Numer producenta: ...............................                                BOS8 1 987 302 251
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080101
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  40- 60mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.42
+Numer producenta: ...............................                                       NOR 101-060
+
+
+
+************************************************************
+************************************************************

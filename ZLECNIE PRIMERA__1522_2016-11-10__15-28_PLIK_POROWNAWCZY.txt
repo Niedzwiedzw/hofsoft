@@ -1,0 +1,52 @@
+Znaleziono towar : C4314190 (Sprawdzenie: C4314190)
+Znaleziono towar : 91725040 (Sprawdzenie: 91725040)
+Znaleziono towar : K0030112 (Sprawdzenie: K0030112)
+Znaleziono towar : 91845018 (Sprawdzenie: 91845018)
+Znaleziono towar : 50030112 (Sprawdzenie: 50030112)
+Znaleziono towar : 10942296 (Sprawdzenie: 10942296)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          C4314190
+Nazwa czesci w systemie Hofsoft: ................                             Koñcówka dr¹¿ka kier.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             23.59
+Numer producenta: ...............................                                        CTR CEN-47
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91725040
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.83
+Numer producenta: ...............................                                BOS3 1 457 431 705
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0030112
+Nazwa czesci w systemie Hofsoft: ................                      Olej przek³adn.ATF Dexron II
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.99
+Numer producenta: ...............................                                KRAA ATF DEXRON II
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91845018
+Nazwa czesci w systemie Hofsoft: ................                    Czujnik ciœnienia(Common Rail)
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            237.41
+Numer producenta: ...............................                                BOSD 0 281 002 867
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50030112
+Nazwa czesci w systemie Hofsoft: ................                     Olej przek³adn.ATF DEXRON IID
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.66
+Numer producenta: ...............................                          CAS ATF Dex II Multivehi
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10942296
+Nazwa czesci w systemie Hofsoft: ................                       Pasta monterska do t³umików
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.78
+Numer producenta: ...............................                             BSL 258503 / 258004/3
+
+
+
+************************************************************
+************************************************************

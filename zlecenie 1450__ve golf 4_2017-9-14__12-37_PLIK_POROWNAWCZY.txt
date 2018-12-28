@@ -1,0 +1,28 @@
+Znaleziono towar : 20558520 (Sprawdzenie: 20558520)
+Znaleziono towar : 02500610 (Sprawdzenie: 02500610)
+Znaleziono towar : 42520300 (Sprawdzenie: 42520300)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20558520
+Nazwa czesci w systemie Hofsoft: ................                                    Obejma M8/50mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.53
+Numer producenta: ...............................                         FIS 911-950/01100       8
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          02500610
+Nazwa czesci w systemie Hofsoft: ................                                      T³umik tylny
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             97.12
+Numer producenta: ...............................                         ASM 03067               8
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          42520300
+Nazwa czesci w systemie Hofsoft: ................                                   T³umik œrodkowy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             49.95
+Numer producenta: ...............................                         WLK 21575               8
+
+
+
+************************************************************
+************************************************************

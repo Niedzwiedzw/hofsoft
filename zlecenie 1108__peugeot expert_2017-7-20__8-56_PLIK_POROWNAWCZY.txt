@@ -1,0 +1,44 @@
+Znaleziono towar : 04105944 (Sprawdzenie: 04105944)
+Znaleziono towar : 96045671 (Sprawdzenie: 96045671)
+Znaleziono towar : 96015672 (Sprawdzenie: 96015672)
+Znaleziono towar : 54213405 (Sprawdzenie: 54213405)
+Znaleziono towar : 96005671 (Sprawdzenie: 96005671)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04105944
+Nazwa czesci w systemie Hofsoft: ................                                £o¿ysko ko³a przód
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                            195.73
+Numer producenta: ...............................                         SKF 6575 VKBA           1
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96045671
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD1247
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                            138.92
+Numer producenta: ...............................                            BOS2 0 986 479 C53/380
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96015672
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1102
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            118.41
+Numer producenta: ...............................                                BOSK 0 986 494 192
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54213405
+Nazwa czesci w systemie Hofsoft: ................                                      Wahacz prawy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            244.94
+Numer producenta: ...............................                                         SID 53277
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96005671
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1074
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            143.86
+Numer producenta: ...............................                                BOSK 0 986 494 163
+
+
+
+************************************************************
+************************************************************

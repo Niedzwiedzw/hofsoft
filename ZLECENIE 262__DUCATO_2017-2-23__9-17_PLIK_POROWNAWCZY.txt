@@ -1,0 +1,28 @@
+Znaleziono towar : 91873014 (Sprawdzenie: 91873014)
+Znaleziono towar : F1845902 (Sprawdzenie: F1845902)
+Znaleziono towar : 00080006 (Sprawdzenie: 00080006)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91873014
+Nazwa czesci w systemie Hofsoft: ................                           Zawór dozuj¹cy pompy CR
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            359.07
+Numer producenta: ...............................                                BOSD 0 928 400 826
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          F1845902
+Nazwa czesci w systemie Hofsoft: ................                    Czujnik ciœnienia rura wlotowa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            137.15
+Numer producenta: ...............................                                         FAE 16111
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080006
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   6- 11mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              2.51
+Numer producenta: ...............................                                          NOR 6-11
+
+
+
+************************************************************
+************************************************************

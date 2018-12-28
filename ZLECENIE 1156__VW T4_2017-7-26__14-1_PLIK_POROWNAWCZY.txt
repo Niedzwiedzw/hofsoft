@@ -1,0 +1,52 @@
+Znaleziono towar : 94220635 (Sprawdzenie: 94220635)
+Znaleziono towar : 04230459 (Sprawdzenie: 04230459)
+Znaleziono towar : 04230458 (Sprawdzenie: 04230458)
+Znaleziono towar : 84310620 (Sprawdzenie: 84310620)
+Znaleziono towar : 84310625 (Sprawdzenie: 84310625)
+Znaleziono towar : 84300675 (Sprawdzenie: 84300675)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          94220635
+Nazwa czesci w systemie Hofsoft: ................                           Sworzeñ wahacza dolnego
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             34.34
+Numer producenta: ...............................                                    SWA 99 91 8740
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04230459
+Nazwa czesci w systemie Hofsoft: ................                    Silentblok wah.przed.doln.prz.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             23.82
+Numer producenta: ...............................                            LEM 1768101 /7D0407183
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04230458
+Nazwa czesci w systemie Hofsoft: ................                    Silentblok wahacza-pe³na tule.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             19.20
+Numer producenta: ...............................                            LEM 1455503 /7D0407140
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84310620
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.23
+Numer producenta: ...............................                                    TRW VO-ES-0368
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84310625
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.23
+Numer producenta: ...............................                                    TRW VO-ES-0369
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84300675
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             20.54
+Numer producenta: ...............................                                    TRW VO-LS-1087
+
+
+
+************************************************************
+************************************************************

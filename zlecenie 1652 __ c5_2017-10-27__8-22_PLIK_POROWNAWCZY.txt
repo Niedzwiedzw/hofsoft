@@ -1,0 +1,28 @@
+Znaleziono towar : 34225508 (Sprawdzenie: 34225508)
+Znaleziono towar : 54225507 (Sprawdzenie: 54225507)
+Znaleziono towar : 34225509 (Sprawdzenie: 34225509)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          34225508
+Nazwa czesci w systemie Hofsoft: ................                         Sworzeñ wahacza dolny L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            113.25
+Numer producenta: ...............................                                     SKF 13500 VKD
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54225507
+Nazwa czesci w systemie Hofsoft: ................                         Sworzeñ wahacza górny L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             31.93
+Numer producenta: ...............................                                         SID 53081
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          34225509
+Nazwa czesci w systemie Hofsoft: ................                         Sworzeñ wahacza dolny L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            138.51
+Numer producenta: ...............................                                     SKF 13501 VKD
+
+
+
+************************************************************
+************************************************************

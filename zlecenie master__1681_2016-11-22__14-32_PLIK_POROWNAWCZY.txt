@@ -1,0 +1,36 @@
+Znaleziono towar : 54225003 (Sprawdzenie: 54225003)
+Znaleziono towar : 01635050 (Sprawdzenie: 01635050)
+Znaleziono towar : 61785500 (Sprawdzenie: 61785500)
+Znaleziono towar : 54225004 (Sprawdzenie: 54225004)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54225003
+Nazwa czesci w systemie Hofsoft: ................                       Sworzeñ wahacza górnego L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             27.41
+Numer producenta: ...............................                                          SID 6285
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01635050
+Nazwa czesci w systemie Hofsoft: ................                                  £o¿ysko sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            122.05
+Numer producenta: ...............................                                  LUK2 510 0025 11
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61785500
+Nazwa czesci w systemie Hofsoft: ................                                Œruba spustu oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.29
+Numer producenta: ...............................                                      SAS 163 0210
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54225004
+Nazwa czesci w systemie Hofsoft: ................                       Sworzeñ wahacza dolnego L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             28.91
+Numer producenta: ...............................                                          SID 6383
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,28 @@
+Znaleziono towar : 24231588 (Sprawdzenie: 24231588)
+Znaleziono towar : K4231586 (Sprawdzenie: K4231586)
+Znaleziono towar : 54221535 (Sprawdzenie: 54221535)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24231588
+Nazwa czesci w systemie Hofsoft: ................                     Silentblok wahacza przedniego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.80
+Numer producenta: ...............................                         SWA 40 60 0009          L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4231586
+Nazwa czesci w systemie Hofsoft: ................                     Silentblok wahacza przedniego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.49
+Numer producenta: ...............................                                      KRA4 4231586
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54221535
+Nazwa czesci w systemie Hofsoft: ................                               Sworzeñ wahacza L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.63
+Numer producenta: ...............................                                          SID 9785
+
+
+
+************************************************************
+************************************************************

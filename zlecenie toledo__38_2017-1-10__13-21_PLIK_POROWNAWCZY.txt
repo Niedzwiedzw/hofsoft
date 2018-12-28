@@ -1,0 +1,20 @@
+Znaleziono towar : 24230254 (Sprawdzenie: 24230254)
+Znaleziono towar : 24230253 (Sprawdzenie: 24230253)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24230254
+Nazwa czesci w systemie Hofsoft: ................                    Silentblok wahacza przed.tyl/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             60.93
+Numer producenta: ...............................                                    SWA 30 92 7071
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24230253
+Nazwa czesci w systemie Hofsoft: ................                    Silentblok wahacza przed.tyl/L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             60.93
+Numer producenta: ...............................                                    SWA 30 92 7069
+
+
+
+************************************************************
+************************************************************

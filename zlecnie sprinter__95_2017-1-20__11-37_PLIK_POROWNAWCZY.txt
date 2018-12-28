@@ -1,0 +1,52 @@
+Znaleziono towar : 91166412 (Sprawdzenie: 91166412)
+Znaleziono towar : 91166754 (Sprawdzenie: 91166754)
+Znaleziono towar : 21501008 (Sprawdzenie: 21501008)
+Znaleziono towar : K0061170 (Sprawdzenie: K0061170)
+Znaleziono towar : 21221024 (Sprawdzenie: 21221024)
+Znaleziono towar : 91721022 (Sprawdzenie: 91721022)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91166412
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6x1165
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.76
+Numer producenta: ...............................                                BOS4 1 987 947 945
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91166754
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6X2213
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             31.85
+Numer producenta: ...............................                                BOS4 1 987 946 275
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21501008
+Nazwa czesci w systemie Hofsoft: ................                           Pompa uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            209.35
+Numer producenta: ...............................                                    SWA 10 94 8412
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061170
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                              4.55
+Numer producenta: ...............................                         KRAE KRAFT P£YN DO CH£.1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21221024
+Nazwa czesci w systemie Hofsoft: ................                    Rolka prowadz¹ca pasek micro-V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.76
+Numer producenta: ...............................                         INA 532057010           L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91721022
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N2104
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             92.94
+Numer producenta: ...............................                                BOS3 F 026 402 104
+
+
+
+************************************************************
+************************************************************

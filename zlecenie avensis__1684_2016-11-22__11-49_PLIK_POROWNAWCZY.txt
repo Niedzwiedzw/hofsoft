@@ -1,0 +1,36 @@
+Znaleziono towar : 29043735 (Sprawdzenie: 29043735)
+Znaleziono towar : 80903705 (Sprawdzenie: 80903705)
+Znaleziono towar : 91733750 (Sprawdzenie: 91733750)
+Znaleziono towar : 80950529 (Sprawdzenie: 80950529)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          29043735
+Nazwa czesci w systemie Hofsoft: ................                                   Cewka zap³onowa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             96.46
+Numer producenta: ...............................                                        FAC 9.6361
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80903705
+Nazwa czesci w systemie Hofsoft: ................                    +43 FR8KC+        Œwieca zap³.
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              5.86
+Numer producenta: ...............................                              BOSB S 43 0242229798
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91733750
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2088
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.34
+Numer producenta: ...............................                                BOS3 1 987 432 088
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80950529
+Nazwa czesci w systemie Hofsoft: ................                    Akum. 63Ah/610A S5          L-
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            230.30
+Numer producenta: ...............................                                       BOS1 S5 005
+
+
+
+************************************************************
+************************************************************

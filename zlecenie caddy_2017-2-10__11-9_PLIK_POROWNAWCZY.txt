@@ -1,0 +1,36 @@
+Znaleziono towar : 01660370 (Sprawdzenie: 01660370)
+Znaleziono towar : 11660290 (Sprawdzenie: 11660290)
+Znaleziono towar : 11630025 (Sprawdzenie: 11630025)
+Znaleziono towar : 01610107 (Sprawdzenie: 01610107)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01660370
+Nazwa czesci w systemie Hofsoft: ................                                 Si³ownik sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            107.86
+Numer producenta: ...............................                                  LUK2 512 0010 10
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11660290
+Nazwa czesci w systemie Hofsoft: ................                                    Pompa sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            109.23
+Numer producenta: ...............................                                  SAC 6284 000 056
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11630025
+Nazwa czesci w systemie Hofsoft: ................                      Tuleja prowadz¹ca - sprzêg³o
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.00
+Numer producenta: ...............................                           HPR 100 353 /02A141180A
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01610107
+Nazwa czesci w systemie Hofsoft: ................                                   Zestaw sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            619.63
+Numer producenta: ...............................                                   LUK 623 3239 00
+
+
+
+************************************************************
+************************************************************

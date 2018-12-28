@@ -1,0 +1,44 @@
+Znaleziono towar : K4091553 (Sprawdzenie: K4091553)
+Znaleziono towar : 54231707 (Sprawdzenie: 54231707)
+Znaleziono towar : 96001720 (Sprawdzenie: 96001720)
+Znaleziono towar : K4211525 (Sprawdzenie: K4211525)
+Znaleziono towar : K4301565 (Sprawdzenie: K4301565)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4091553
+Nazwa czesci w systemie Hofsoft: ................                      Mocowanie amortyzatora przód
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             59.39
+Numer producenta: ...............................                                      KRA4 4091553
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54231707
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              5.18
+Numer producenta: ...............................                                        SID 809803
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96001720
+Nazwa czesci w systemie Hofsoft: ................                    Klocki hamulcowe     23402/403
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            101.74
+Numer producenta: ...............................                                BOSK 0 986 494 044
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4211525
+Nazwa czesci w systemie Hofsoft: ................                       Wahacz L/P tylny poprzeczny
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             72.95
+Numer producenta: ...............................                                      KRA4 4211525
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4301565
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             13.85
+Numer producenta: ...............................                                      KRA4 4301565
+
+
+
+************************************************************
+************************************************************

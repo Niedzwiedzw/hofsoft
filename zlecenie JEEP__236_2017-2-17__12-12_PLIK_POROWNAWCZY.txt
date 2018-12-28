@@ -1,0 +1,28 @@
+Znaleziono towar : 30061001 (Sprawdzenie: 30061001)
+Znaleziono towar : 81511155 (Sprawdzenie: 81511155)
+Znaleziono towar : 00072302 (Sprawdzenie: 00072302)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          30061001
+Nazwa czesci w systemie Hofsoft: ................                     P³yn do uk³adu ch³odzenia G12
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                             20.67
+Numer producenta: ...............................                                   SWAE 99 90 1381
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          81511155
+Nazwa czesci w systemie Hofsoft: ................                                    Termostat 87°C
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            111.94
+Numer producenta: ...............................                                     WAH1 4630.87D
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00072302
+Nazwa czesci w systemie Hofsoft: ................                    Dodat.do uk.ch³odze.czyszcz¹cy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.05
+Numer producenta: ...............................                                         WYN 45944
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,52 @@
+Znaleziono towar : 90709733 (Sprawdzenie: 90709733)
+Znaleziono towar : 90707218 (Sprawdzenie: 90707218)
+Znaleziono towar : 91732008 (Sprawdzenie: 91732008)
+Znaleziono towar : 81712350 (Sprawdzenie: 81712350)
+Znaleziono towar : 61722330 (Sprawdzenie: 61722330)
+Znaleziono towar : 91702100 (Sprawdzenie: 91702100)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90709733
+Nazwa czesci w systemie Hofsoft: ................                    65C    Pióro wycier.650    ECO
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.73
+Numer producenta: ...............................                                BOS5 3 397 011 402
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90707218
+Nazwa czesci w systemie Hofsoft: ................                    55C    Pióro wycier.550    ECO
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.65
+Numer producenta: ...............................                                BOS5 3 397 004 672
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91732008
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2274
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             31.31
+Numer producenta: ...............................                                BOS3 1 987 432 274
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          81712350
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S0106
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.31
+Numer producenta: ...............................                                BOS3 F 026 400 106
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61722330
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             53.79
+Numer producenta: ...............................                                        MAN WK8105
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91702100
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9249
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.15
+Numer producenta: ...............................                                BOS3 1 457 429 249
+
+
+
+************************************************************
+************************************************************

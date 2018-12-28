@@ -1,0 +1,36 @@
+Znaleziono towar : 74092145 (Sprawdzenie: 74092145)
+Znaleziono towar : 54302319 (Sprawdzenie: 54302319)
+Znaleziono towar : 74026322 (Sprawdzenie: 74026322)
+Znaleziono towar : 84316383 (Sprawdzenie: 84316383)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74092145
+Nazwa czesci w systemie Hofsoft: ................                      Mocowanie amortyzatora przód
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             51.52
+Numer producenta: ...............................                                       KYB2 SM5589
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54302319
+Nazwa czesci w systemie Hofsoft: ................                                      Dr¹¿ek kier.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             28.85
+Numer producenta: ...............................                                          SID 3410
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74026322
+Nazwa czesci w systemie Hofsoft: ................                        Sprê¿yna przed.zawieszenia
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             96.23
+Numer producenta: ...............................                                       KYB1 RC3461
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84316383
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.43
+Numer producenta: ...............................                                    TRW FD-ES-3665
+
+
+
+************************************************************
+************************************************************

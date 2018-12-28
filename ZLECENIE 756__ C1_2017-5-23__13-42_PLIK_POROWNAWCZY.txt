@@ -1,0 +1,28 @@
+Znaleziono towar : 10942295 (Sprawdzenie: 10942295)
+Znaleziono towar : 20533705 (Sprawdzenie: 20533705)
+Znaleziono towar : 20558592 (Sprawdzenie: 20558592)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10942295
+Nazwa czesci w systemie Hofsoft: ................                       Pasta monterska do t³umików
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.73
+Numer producenta: ...............................                                BSL 258502 /258002
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20533705
+Nazwa czesci w systemie Hofsoft: ................                          Pierœcieñ uszczelniaj¹cy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              3.05
+Numer producenta: ...............................                                       FIS 771-938
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20558592
+Nazwa czesci w systemie Hofsoft: ................                                      Obejma 49 mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              3.05
+Numer producenta: ...............................                                       FIS 932-949
+
+
+
+************************************************************
+************************************************************

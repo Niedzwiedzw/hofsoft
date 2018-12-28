@@ -1,0 +1,28 @@
+Znaleziono towar : 11153160 (Sprawdzenie: 11153160)
+Znaleziono towar : 11153150 (Sprawdzenie: 11153150)
+Znaleziono towar : 50020569 (Sprawdzenie: 50020569)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11153160
+Nazwa czesci w systemie Hofsoft: ................                    Simering 36x56x10/13.5 s.b.wyj
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.23
+Numer producenta: ...............................                                     COR 15267 120
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11153150
+Nazwa czesci w systemie Hofsoft: ................                    Simering 36x54x10/13.5 s.b.wyj
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.27
+Numer producenta: ...............................                          COR 36825 120 /15266 120
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50020569
+Nazwa czesci w systemie Hofsoft: ................                          Olej przek³adn. 80W GL-4
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             13.71
+Numer producenta: ...............................                                 CAS 80W MANUAL EP
+
+
+
+************************************************************
+************************************************************

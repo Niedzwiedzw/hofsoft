@@ -1,0 +1,18 @@
+Znaleziono towar : 24225511 (Sprawdzenie: 24225511)
+Znaleziono towar : 01613079 (Sprawdzenie: 01613079)
+Znaleziono towar : 01685904 (Sprawdzenie: 01685904)
+Znaleziono towar : 20020345 (Sprawdzenie: 20020345) <---Poprawiono?Znaleziono towar : 01615987 (Sprawdzenie: 01615987)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24225511
+Nazwa czesci w systemie Hofsoft: ................                               Sworzeñ wahacza L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             71.22
+Numer producenta: ...............................                                    SWA 62 92 9385
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01613079
+Nazwa czesci w systemie Hofsoft: ................                          Ko³o zamachowe dwumasowe
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                          1,268.19
+Numer producenta: ...............................                                  LUK1 415 0375 10
+

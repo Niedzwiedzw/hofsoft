@@ -1,0 +1,44 @@
+Znaleziono towar : 84315069 (Sprawdzenie: 84315069)
+Znaleziono towar : 91185423 (Sprawdzenie: 91185423)
+Znaleziono towar : 64235025 (Sprawdzenie: 64235025)
+Znaleziono towar : 84315068 (Sprawdzenie: 84315068)
+Znaleziono towar : K0061175 (Sprawdzenie: K0061175)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84315069
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.02
+Numer producenta: ...............................                                    TRW RE-ES-0673
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91185423
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            285.01
+Numer producenta: ...............................                           BOS4 1 987 946 919/8765
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          64235025
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              6.97
+Numer producenta: ...............................                                      SAS 400 1505
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84315068
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.02
+Numer producenta: ...............................                                    TRW RE-ES-0672
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061175
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.96
+Numer producenta: ...............................                         KRAE KRAFT P£YN DO CH£.5L
+
+
+
+************************************************************
+************************************************************

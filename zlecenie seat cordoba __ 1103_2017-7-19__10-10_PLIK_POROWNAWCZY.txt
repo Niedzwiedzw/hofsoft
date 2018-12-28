@@ -1,0 +1,36 @@
+Znaleziono towar : 90900025 (Sprawdzenie: 90900025)
+Znaleziono towar : 90700634 (Sprawdzenie: 90700634)
+Znaleziono towar : K4236503 (Sprawdzenie: K4236503)
+Znaleziono towar : 84306502 (Sprawdzenie: 84306502)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90900025
+Nazwa czesci w systemie Hofsoft: ................                    +51 FR7HC+        Œwieca zap³.
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              8.09
+Numer producenta: ...............................                              BOSB S 51 0242236565
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90700634
+Nazwa czesci w systemie Hofsoft: ................                       AM460S Pióro wycier.530/450
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             61.57
+Numer producenta: ...............................                                BOS5 3 397 007 460
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4236503
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              2.26
+Numer producenta: ...............................                                      KRA4 4236503
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84306502
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             23.70
+Numer producenta: ...............................                                    TRW VO-LS-0494
+
+
+
+************************************************************
+************************************************************

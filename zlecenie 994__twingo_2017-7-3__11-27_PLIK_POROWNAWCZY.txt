@@ -1,0 +1,36 @@
+Znaleziono towar : 84225050 (Sprawdzenie: 84225050)
+Znaleziono towar : 16210045 (Sprawdzenie: 16210045)
+Znaleziono towar : 96005002 (Sprawdzenie: 96005002)
+Znaleziono towar : 10631110 (Sprawdzenie: 10631110)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84225050
+Nazwa czesci w systemie Hofsoft: ................                               Sworzeñ wahacza L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.35
+Numer producenta: ...............................                                    TRW RE-BJ-4264
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16210045
+Nazwa czesci w systemie Hofsoft: ................                          Zestaw napr.zacisku ham.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.10
+Numer producenta: ...............................                             QBR 1301X / 113-1301X
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96005002
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP713
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             46.81
+Numer producenta: ...............................                                BOSK 0 986 467 720
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10631110
+Nazwa czesci w systemie Hofsoft: ................                             Ko³pak ko³o "13" Arte
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              6.58
+Numer producenta: ...............................                          AKC KO£PAK KO£A ARTE  13
+
+
+
+************************************************************
+************************************************************

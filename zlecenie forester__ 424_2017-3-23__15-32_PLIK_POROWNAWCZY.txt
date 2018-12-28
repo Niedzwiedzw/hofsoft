@@ -1,0 +1,28 @@
+Znaleziono towar : 00080031 (Sprawdzenie: 00080031)
+Znaleziono towar : 50030209 (Sprawdzenie: 50030209)
+Znaleziono towar : 00080091 (Sprawdzenie: 00080091)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080031
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  12- 22mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.06
+Numer producenta: ...............................                         NOR 101-022             R
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50030209
+Nazwa czesci w systemie Hofsoft: ................                    Olej przek³adn.ATF samoch.JAP.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             27.42
+Numer producenta: ...............................                         CAS ATF MULTIVEHICLE    R
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080091
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  35- 50mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.30
+Numer producenta: ...............................                         NOR 101-050             R
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,60 @@
+Znaleziono towar : 54401510 (Sprawdzenie: 54401510)
+Znaleziono towar : 01321524 (Sprawdzenie: 01321524)
+Znaleziono towar : 01701522 (Sprawdzenie: 01701522)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : 61121517 (Sprawdzenie: 61121517)
+Znaleziono towar : K1501740 (Sprawdzenie: K1501740)
+Znaleziono towar : 90701512 (Sprawdzenie: 90701512)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54401510
+Nazwa czesci w systemie Hofsoft: ................                     Przegub napêdowy zewn. z os³.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             51.02
+Numer producenta: ...............................                                        GSP 844019
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01321524
+Nazwa czesci w systemie Hofsoft: ................                        Zestaw rozrz¹du ³añcuchowy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            267.91
+Numer producenta: ...............................                                   SKF1 85000 VKML
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01701522
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7015
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.31
+Numer producenta: ...............................                                BOS3 F 026 407 015
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61121517
+Nazwa czesci w systemie Hofsoft: ................                           Uszczelka dekla zaworów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             28.86
+Numer producenta: ...............................                                       ELR 104.110
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K1501740
+Nazwa czesci w systemie Hofsoft: ................                           Pompa uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             69.47
+Numer producenta: ...............................                                      KRA1 1501740
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90701512
+Nazwa czesci w systemie Hofsoft: ................                       H402  Pióro wycier.400mm TW
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.46
+Numer producenta: ...............................                                BOS5 3 397 004 632
+
+
+
+************************************************************
+************************************************************

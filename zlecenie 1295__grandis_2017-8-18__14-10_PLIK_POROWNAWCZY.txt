@@ -1,0 +1,44 @@
+Znaleziono towar : 48237011 (Sprawdzenie: 48237011)
+Znaleziono towar : 91704850 (Sprawdzenie: 91704850)
+Znaleziono towar : 41714370 (Sprawdzenie: 41714370)
+Znaleziono towar : 61130109 (Sprawdzenie: 61130109)
+Znaleziono towar : 99100025 (Sprawdzenie: 99100025)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48237011
+Nazwa czesci w systemie Hofsoft: ................                          Spinka mocowania nadkola
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.68
+Numer producenta: ...............................                           ROM B23143       10 SZT
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91704850
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9192
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.74
+Numer producenta: ...............................                                BOS3 1 457 429 192
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41714370
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.53
+Numer producenta: ...............................                                      FIL 172/4 AP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61130109
+Nazwa czesci w systemie Hofsoft: ................                          Zestaw monta¿owy turbiny
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             71.14
+Numer producenta: ...............................                                       ELR 740.790
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          99100025
+Nazwa czesci w systemie Hofsoft: ................                              Œwieca ¿arowa GLP093
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                             32.27
+Numer producenta: ...............................                                BOSC 0 250 403 002
+
+
+
+************************************************************
+************************************************************

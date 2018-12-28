@@ -1,0 +1,44 @@
+Znaleziono towar : 91700055 (Sprawdzenie: 91700055)
+Znaleziono towar : 96010951 (Sprawdzenie: 96010951)
+Znaleziono towar : 91730065 (Sprawdzenie: 91730065)
+Znaleziono towar : 96000076 (Sprawdzenie: 96000076)
+Znaleziono towar : 41710150 (Sprawdzenie: 41710150)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700055
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7023
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.43
+Numer producenta: ...............................                                BOS3 F 026 407 023
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96010951
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1295
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             60.98
+Numer producenta: ...............................                            BOSK 0 986 494 600/387
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91730065
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2071
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             21.52
+Numer producenta: ...............................                                BOS3 1 987 432 071
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96000076
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP250
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             92.89
+Numer producenta: ...............................                                BOSK 0 986 424 482
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41710150
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             27.40
+Numer producenta: ...............................                                     FIL 179/2  AP
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,36 @@
+Znaleziono towar : 91730020 (Sprawdzenie: 91730020)
+Znaleziono towar : 91711650 (Sprawdzenie: 91711650)
+Znaleziono towar : 91700035 (Sprawdzenie: 91700035)
+Znaleziono towar : 91720090 (Sprawdzenie: 91720090)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91730020
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2017
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.39
+Numer producenta: ...............................                                BOS3 1 987 432 017
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91711650
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S9870
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.39
+Numer producenta: ...............................                                BOS3 1 457 429 870
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700035
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P3346
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.66
+Numer producenta: ...............................                                BOS3 0 451 103 346
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91720090
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N4184
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             38.56
+Numer producenta: ...............................                                BOS3 1 457 434 184
+
+
+
+************************************************************
+************************************************************

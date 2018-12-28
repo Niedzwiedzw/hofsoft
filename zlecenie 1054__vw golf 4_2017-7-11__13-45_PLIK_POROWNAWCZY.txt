@@ -1,0 +1,28 @@
+Znaleziono towar : 00130022 (Sprawdzenie: 00130022)
+Znaleziono towar : 00130040 (Sprawdzenie: 00130040)
+Znaleziono towar : 48850018 (Sprawdzenie: 48850018)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00130022
+Nazwa czesci w systemie Hofsoft: ................                          Przewód paliwowy   3.2mm
+Ilosc: ..........................................                                                 7
+CENA: ...........................................                                              3.27
+Numer producenta: ...............................                                   GAT2 4324-10050
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00130040
+Nazwa czesci w systemie Hofsoft: ................                            Przewód paliwowy   4mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              4.71
+Numer producenta: ...............................                                   GAT2 3225-00051
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48850018
+Nazwa czesci w systemie Hofsoft: ................                               Konwerter ciœnienia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             94.79
+Numer producenta: ...............................                                  PIE 7.02184.01.0
+
+
+
+************************************************************
+************************************************************

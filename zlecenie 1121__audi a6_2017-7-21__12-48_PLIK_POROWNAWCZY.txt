@@ -1,0 +1,20 @@
+Znaleziono towar : K0030112 (Sprawdzenie: K0030112)
+Znaleziono towar : K0061009 (Sprawdzenie: K0061009)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0030112
+Nazwa czesci w systemie Hofsoft: ................                      Olej przek³adn.ATF Dexron II
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.32
+Numer producenta: ...............................                                KRAA ATF DEXRON II
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061009
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.04
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 1L
+
+
+
+************************************************************
+************************************************************

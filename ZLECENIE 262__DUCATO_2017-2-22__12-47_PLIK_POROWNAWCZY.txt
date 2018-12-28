@@ -1,0 +1,20 @@
+Znaleziono towar : 00080006 (Sprawdzenie: 00080006)
+Znaleziono towar : F1845902 (Sprawdzenie: F1845902)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080006
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   6- 11mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              2.17
+Numer producenta: ...............................                                          NOR 6-11
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          F1845902
+Nazwa czesci w systemie Hofsoft: ................                    Czujnik ciœnienia rura wlotowa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             84.39
+Numer producenta: ...............................                                         FAE 16111
+
+
+
+************************************************************
+************************************************************

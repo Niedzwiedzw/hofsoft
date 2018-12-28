@@ -1,0 +1,44 @@
+Znaleziono towar : 91709300 (Sprawdzenie: 91709300)
+Znaleziono towar : 91701820 (Sprawdzenie: 91701820)
+Znaleziono towar : 91729032 (Sprawdzenie: 91729032)
+Znaleziono towar : 21928985 (Sprawdzenie: 21928985)
+Znaleziono towar : 91711123 (Sprawdzenie: 91711123)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91709300
+Nazwa czesci w systemie Hofsoft: ................                    Filtr uk³adu wspomagania P9820
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.09
+Numer producenta: ...............................                                BOS3 1 457 429 820
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701820
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9271
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.09
+Numer producenta: ...............................                                BOS3 1 457 429 271
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91729032
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N2071
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             32.69
+Numer producenta: ...............................                                BOS3 F 026 402 071
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21928985
+Nazwa czesci w systemie Hofsoft: ................                         Podk³adka pod wtryskiwacz
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              1.57
+Numer producenta: ...............................                                    SWA 10 92 9140
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91711123
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S0233
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             43.88
+Numer producenta: ...............................                                BOS3 F 026 400 233
+
+
+
+************************************************************
+************************************************************

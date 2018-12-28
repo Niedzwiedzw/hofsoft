@@ -1,0 +1,20 @@
+Znaleziono towar : 96005002 (Sprawdzenie: 96005002)
+Znaleziono towar : 54105141 (Sprawdzenie: 54105141)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96005002
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP713
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             46.81
+Numer producenta: ...............................                                BOSK 0 986 467 720
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54105141
+Nazwa czesci w systemie Hofsoft: ................                     Zestaw ³o¿ysk ko³a przedniego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             93.29
+Numer producenta: ...............................                          FAG 713 8014 10    2 SZT
+
+
+
+************************************************************
+************************************************************

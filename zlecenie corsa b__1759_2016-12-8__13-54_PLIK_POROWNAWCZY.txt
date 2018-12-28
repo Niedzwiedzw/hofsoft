@@ -1,0 +1,36 @@
+Znaleziono towar : K6041500 (Sprawdzenie: K6041500)
+Znaleziono towar : 90805250 (Sprawdzenie: 90805250)
+Znaleziono towar : 54101510 (Sprawdzenie: 54101510)
+Znaleziono towar : 96001551 (Sprawdzenie: 96001551)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6041500
+Nazwa czesci w systemie Hofsoft: ................                    Tarcza hamulcowa 236x12,7x41x4
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             28.37
+Numer producenta: ...............................                                      KRA5 6041500
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90805250
+Nazwa czesci w systemie Hofsoft: ................                    ¯arówka H4 60/55W 12VPureLight
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.87
+Numer producenta: ...............................                                BOS8 1 987 302 041
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54101510
+Nazwa czesci w systemie Hofsoft: ................                              £o¿ysko ko³a tylnego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             18.59
+Numer producenta: ...............................                                   FAG 713 6445 10
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96001551
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP508
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             55.01
+Numer producenta: ...............................                                BOSK 0 986 460 938
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,28 @@
+Znaleziono towar : K4300217 (Sprawdzenie: K4300217)
+Znaleziono towar : 84300215 (Sprawdzenie: 84300215)
+Znaleziono towar : 84300675 (Sprawdzenie: 84300675)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4300217
+Nazwa czesci w systemie Hofsoft: ................                    £¹cznik stabilizatora L/P ty³.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             20.77
+Numer producenta: ...............................                                      KRA4 4300217
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84300215
+Nazwa czesci w systemie Hofsoft: ................                    £¹cznik stabilizatora L/P prz.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             25.26
+Numer producenta: ...............................                                    TRW VO-LS-1870
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84300675
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             20.54
+Numer producenta: ...............................                                    TRW VO-LS-1087
+
+
+
+************************************************************
+************************************************************

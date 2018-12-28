@@ -1,0 +1,36 @@
+Znaleziono towar : K0061009 (Sprawdzenie: K0061009)
+Znaleziono towar : 91166270 (Sprawdzenie: 91166270)
+Znaleziono towar : 91186188 (Sprawdzenie: 91186188)
+Znaleziono towar : 91705650 (Sprawdzenie: 91705650)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061009
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.04
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91166270
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6x 975
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.54
+Numer producenta: ...............................                                BOS4 1 987 948 486
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91186188
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            270.26
+Numer producenta: ...............................                                BOS4 1 987 948 721
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91705650
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9238
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             18.95
+Numer producenta: ...............................                                BOS3 1 457 429 238
+
+
+
+************************************************************
+************************************************************

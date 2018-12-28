@@ -1,0 +1,28 @@
+Znaleziono towar : 54303663 (Sprawdzenie: 54303663)
+Znaleziono towar : 91723870 (Sprawdzenie: 91723870)
+Znaleziono towar : S4303656 (Sprawdzenie: S4303656)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54303663
+Nazwa czesci w systemie Hofsoft: ................                     £¹cznik stabilizatora L/P ty³
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             23.02
+Numer producenta: ...............................                                         SID 51066
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91723870
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N4440
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             32.35
+Numer producenta: ...............................                                BOS3 1 457 434 440
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          S4303656
+Nazwa czesci w systemie Hofsoft: ................                    £¹cznik stabilizatora L/P prze
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             18.51
+Numer producenta: ...............................                                  SAK4 430-30-3656
+
+
+
+************************************************************
+************************************************************

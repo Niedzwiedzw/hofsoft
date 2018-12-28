@@ -1,0 +1,60 @@
+Znaleziono towar : 96008030 (Sprawdzenie: 96008030)
+Znaleziono towar : 56026665 (Sprawdzenie: 56026665)
+Znaleziono towar : 74236692 (Sprawdzenie: 74236692)
+Znaleziono towar : 16090050 (Sprawdzenie: 16090050)
+Znaleziono towar : 16108012 (Sprawdzenie: 16108012)
+Znaleziono towar : 41708001 (Sprawdzenie: 41708001)
+Znaleziono towar : 96046670 (Sprawdzenie: 96046670)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96008030
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP097
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             79.67
+Numer producenta: ...............................                                BOSK 0 986 424 214
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56026665
+Nazwa czesci w systemie Hofsoft: ................                          Szczêki hamulcowe 200x38
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             56.41
+Numer producenta: ...............................                                      REM1 4400 00
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74236692
+Nazwa czesci w systemie Hofsoft: ................                    Silentblok waha.tyln.wzd³.80.3
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             16.80
+Numer producenta: ...............................                                      TED 00261947
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16090050
+Nazwa czesci w systemie Hofsoft: ................                    Przewód hamulc.metal. L=250 mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              4.64
+Numer producenta: ...............................                                            WP 006
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16108012
+Nazwa czesci w systemie Hofsoft: ................                    Zestaw naprawczy szczêk hamul.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.99
+Numer producenta: ...............................                               QBR 0764 / 105-0764
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41708001
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.40
+Numer producenta: ...............................                                     FIL 580/7  OP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96046670
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD2024
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             75.93
+Numer producenta: ...............................                         BOS2 0 986 479 B23/478174
+
+
+
+************************************************************
+************************************************************

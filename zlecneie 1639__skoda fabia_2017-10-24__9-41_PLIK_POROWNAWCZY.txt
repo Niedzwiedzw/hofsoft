@@ -1,0 +1,52 @@
+Znaleziono towar : 90708332 (Sprawdzenie: 90708332)
+Znaleziono towar : K0062029 (Sprawdzenie: K0062029)
+Znaleziono towar : 81720152 (Sprawdzenie: 81720152)
+Znaleziono towar : 91700055 (Sprawdzenie: 91700055)
+Znaleziono towar : 90700452 (Sprawdzenie: 90700452)
+Znaleziono towar : 91736512 (Sprawdzenie: 91736512)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90708332
+Nazwa czesci w systemie Hofsoft: ................                    A400H  Pióro wycier.400 TY£ AE
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.79
+Numer producenta: ...............................                                BOS5 3 397 008 009
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0062029
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do spryskiwaczy ZIMA
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.39
+Numer producenta: ...............................                              KRAE KRAFT 5L (-22C)
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          81720152
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N6500
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             50.72
+Numer producenta: ...............................                                BOS3 0 450 906 500
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700055
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7023
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.43
+Numer producenta: ...............................                                BOS3 F 026 407 023
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90700452
+Nazwa czesci w systemie Hofsoft: ................                    A051S  Pióro wycier.530/530 AE
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             57.99
+Numer producenta: ...............................                                BOS5 3 397 009 051
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91736512
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy R2357
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             34.17
+Numer producenta: ...............................                                BOS3 1 987 432 357
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,28 @@
+Znaleziono towar : E0011545 (Sprawdzenie: E0011545)
+Znaleziono towar : 91715241 (Sprawdzenie: 91715241)
+Znaleziono towar : 91704050 (Sprawdzenie: 91704050)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          E0011545
+Nazwa czesci w systemie Hofsoft: ................                             Olej siln. SAE 10W-40
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             43.03
+Numer producenta: ...............................                              ELF 10W40 EVO700 STI
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91715241
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3531
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.66
+Numer producenta: ...............................                                BOS3 1 457 433 531
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91704050
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7022
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.35
+Numer producenta: ...............................                                BOS3 F 026 407 022
+
+
+
+************************************************************
+************************************************************

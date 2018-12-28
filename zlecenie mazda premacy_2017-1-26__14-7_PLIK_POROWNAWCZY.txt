@@ -1,0 +1,76 @@
+Znaleziono towar : 21183520 (Sprawdzenie: 21183520)
+Znaleziono towar : S1503518 (Sprawdzenie: S1503518)
+Znaleziono towar : 91713585 (Sprawdzenie: 91713585)
+Znaleziono towar : 91723870 (Sprawdzenie: 91723870)
+Znaleziono towar : 00130120 (Sprawdzenie: 00130120)
+Znaleziono towar : 01223632 (Sprawdzenie: 01223632)
+Znaleziono towar : 91733500 (Sprawdzenie: 91733500)
+Znaleziono towar : 00080031 (Sprawdzenie: 00080031)
+Znaleziono towar : 91703630 (Sprawdzenie: 91703630)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21183520
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z napinaczem
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            373.08
+Numer producenta: ...............................                                     INA 530028610
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          S1503518
+Nazwa czesci w systemie Hofsoft: ................                           Pompa uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             55.14
+Numer producenta: ...............................                                  SAK1 150-30-3518
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91713585
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3066
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             27.76
+Numer producenta: ...............................                                BOS3 1 457 433 066
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91723870
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N4440
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             32.24
+Numer producenta: ...............................                                BOS3 1 457 434 440
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00130120
+Nazwa czesci w systemie Hofsoft: ................                            Przewód paliwowy  12mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.09
+Numer producenta: ...............................                                   GAT2 3225-10015
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01223632
+Nazwa czesci w systemie Hofsoft: ................                           Napinacz paska rozrz¹du
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            107.69
+Numer producenta: ...............................                                    SKF1 74616 VKM
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91733500
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2117
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             45.26
+Numer producenta: ...............................                                BOS3 1 987 432 117
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080031
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  12- 22mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.04
+Numer producenta: ...............................                                       NOR 101-022
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91703630
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P2036
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.15
+Numer producenta: ...............................                                BOS3 0 986 452 036
+
+
+
+************************************************************
+************************************************************

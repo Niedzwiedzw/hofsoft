@@ -1,0 +1,28 @@
+Znaleziono towar : 80902185 (Sprawdzenie: 80902185)
+Znaleziono towar : 99118570 (Sprawdzenie: 99118570)
+Znaleziono towar : 41712200 (Sprawdzenie: 41712200)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80902185
+Nazwa czesci w systemie Hofsoft: ................                    +46 HR7DCX+       Œwieca zap³.
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              5.36
+Numer producenta: ...............................                              BOSB S 46 0242236560
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          99118570
+Nazwa czesci w systemie Hofsoft: ................                        Sonda Lambda (uniwersalna)
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            141.84
+Numer producenta: ...............................                                BOS6 0 258 986 507
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41712200
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.73
+Numer producenta: ...............................                                     FIL 151    AP
+
+
+
+************************************************************
+************************************************************

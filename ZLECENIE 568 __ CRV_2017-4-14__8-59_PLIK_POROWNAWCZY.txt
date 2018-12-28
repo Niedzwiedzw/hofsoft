@@ -1,0 +1,28 @@
+Znaleziono towar : 96046644 (Sprawdzenie: 96046644)
+Znaleziono towar : 96056614 (Sprawdzenie: 96056614)
+Znaleziono towar : 16036669 (Sprawdzenie: 16036669)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96046644
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD1759
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             94.92
+Numer producenta: ...............................                                BOS2 0 986 479 R24
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96056614
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD1266
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             79.47
+Numer producenta: ...............................                                BOS2 0 986 479 449
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16036669
+Nazwa czesci w systemie Hofsoft: ................                              Reperaturka zac.ham.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              9.45
+Numer producenta: ...............................                                         AFN D4448
+
+
+
+************************************************************
+************************************************************

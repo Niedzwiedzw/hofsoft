@@ -1,0 +1,28 @@
+Znaleziono towar : 91928985 (Sprawdzenie: 91928985)
+Znaleziono towar : 91791017 (Sprawdzenie: 91791017)
+Znaleziono towar : 91721022 (Sprawdzenie: 91721022)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91928985
+Nazwa czesci w systemie Hofsoft: ................                         Podk³adka pod wtryskiwacz
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              1.73
+Numer producenta: ...............................                                BOSD F 00V C17 503
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91791017
+Nazwa czesci w systemie Hofsoft: ................                                 Zespó³ zasilaj¹cy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            330.93
+Numer producenta: ...............................                                 BOS 0 580 203 006
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91721022
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N2104
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             93.94
+Numer producenta: ...............................                                BOS3 F 026 402 104
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,20 @@
+Znaleziono towar : 84238531 (Sprawdzenie: 84238531)
+Znaleziono towar : 84238530 (Sprawdzenie: 84238530)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84238531
+Nazwa czesci w systemie Hofsoft: ................                              Silentblok wahacza P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             27.11
+Numer producenta: ...............................                                    TRW CH-SB-2453
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84238530
+Nazwa czesci w systemie Hofsoft: ................                              Silentblok wahacza L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             27.11
+Numer producenta: ...............................                                    TRW CH-SB-2452
+
+
+
+************************************************************
+************************************************************

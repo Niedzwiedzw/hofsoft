@@ -1,0 +1,44 @@
+Znaleziono towar : K6053000 (Sprawdzenie: K6053000)
+Znaleziono towar : K6003322 (Sprawdzenie: K6003322)
+Znaleziono towar : K0072404 (Sprawdzenie: K0072404)
+Znaleziono towar : K6003325 (Sprawdzenie: K6003325)
+Znaleziono towar : 16036192 (Sprawdzenie: 16036192)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6053000
+Nazwa czesci w systemie Hofsoft: ................                    Tarcza ham. 251x10x51        T
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             36.01
+Numer producenta: ...............................                                      KRA5 6053000
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6003322
+Nazwa czesci w systemie Hofsoft: ................                        Klocki hamulcowe     23708
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             38.45
+Numer producenta: ...............................                                      KRAK 6003322
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0072404
+Nazwa czesci w systemie Hofsoft: ................                     Smar penetruj¹co-konserwuj¹cy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.68
+Numer producenta: ...............................                              KRWC PENETRATING OIL
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6003325
+Nazwa czesci w systemie Hofsoft: ................                        Klocki hamulcowe     23714
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             38.78
+Numer producenta: ...............................                                      KRAK 6003325
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16036192
+Nazwa czesci w systemie Hofsoft: ................                    Reperaturka zac.ham.przed."54"
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.94
+Numer producenta: ...............................                                         AFN D4617
+
+
+
+************************************************************
+************************************************************

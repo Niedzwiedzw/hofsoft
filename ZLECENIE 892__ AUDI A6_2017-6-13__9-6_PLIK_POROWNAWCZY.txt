@@ -1,0 +1,36 @@
+Znaleziono towar : 54400720 (Sprawdzenie: 54400720)
+Znaleziono towar : 54300255 (Sprawdzenie: 54300255)
+Znaleziono towar : 24310150 (Sprawdzenie: 24310150)
+Znaleziono towar : 24230600 (Sprawdzenie: 24230600)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54400720
+Nazwa czesci w systemie Hofsoft: ................                     Przegub napêdowy zewn. z os³.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             56.87
+Numer producenta: ...............................                                        GSP 803017
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54300255
+Nazwa czesci w systemie Hofsoft: ................                     £¹cznik stabilizatora tylnego
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             26.42
+Numer producenta: ...............................                                         SID 37262
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24310150
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.41
+Numer producenta: ...............................                                    SWA 32 71 0007
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24230600
+Nazwa czesci w systemie Hofsoft: ................                        Silentblok dr.reak.tylnego
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             21.20
+Numer producenta: ...............................                                    SWA 30 79 0020
+
+
+
+************************************************************
+************************************************************

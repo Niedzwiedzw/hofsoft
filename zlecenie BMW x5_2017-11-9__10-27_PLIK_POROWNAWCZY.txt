@@ -1,0 +1,20 @@
+Znaleziono towar : 11512555 (Sprawdzenie: 11512555)
+Znaleziono towar : K0061175 (Sprawdzenie: K0061175)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11512555
+Nazwa czesci w systemie Hofsoft: ................                                    Termostat 88°C
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            112.54
+Numer producenta: ...............................                                    GAT1 TH35488G1
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061175
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.72
+Numer producenta: ...............................                         KRAE KRAFT P£YN DO CH£.5L
+
+
+
+************************************************************
+************************************************************

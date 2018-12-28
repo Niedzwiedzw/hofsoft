@@ -1,0 +1,60 @@
+Znaleziono towar : 20061004 (Sprawdzenie: 20061004)
+Znaleziono towar : 61152503 (Sprawdzenie: 61152503)
+Znaleziono towar : 91702100 (Sprawdzenie: 91702100)
+Znaleziono towar : 00080111 (Sprawdzenie: 00080111)
+Znaleziono towar : 61135963 (Sprawdzenie: 61135963)
+Znaleziono towar : 48234000 (Sprawdzenie: 48234000)
+Znaleziono towar : 61135561 (Sprawdzenie: 61135561)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20061004
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             23.85
+Numer producenta: ...............................                                   SWAE 99 90 2374
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61152503
+Nazwa czesci w systemie Hofsoft: ................                    Simering 61x75x8 przód wa³ kor
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             35.55
+Numer producenta: ...............................                                      ELR1 004.450
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91702100
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9249
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.15
+Numer producenta: ...............................                                BOS3 1 457 429 249
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080111
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  60- 80mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.60
+Numer producenta: ...............................                           NOR 101-080  60-80/9 C7
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61135963
+Nazwa czesci w systemie Hofsoft: ................                    Zestaw uszczelek kolektora ss.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.66
+Numer producenta: ...............................                                       ELR 893.650
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48234000
+Nazwa czesci w systemie Hofsoft: ................                    Ko³ek rozp. mocowania b³otnika
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.90
+Numer producenta: ...............................                          ROM B22088       10 szt.
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61135561
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora wydech.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             34.09
+Numer producenta: ...............................                                       ELR 354.802
+
+
+
+************************************************************
+************************************************************

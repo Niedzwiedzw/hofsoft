@@ -1,0 +1,28 @@
+Znaleziono towar : 20558531 (Sprawdzenie: 20558531)
+Znaleziono towar : 01612955 (Sprawdzenie: 01612955)
+Znaleziono towar : 01612960 (Sprawdzenie: 01612960)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20558531
+Nazwa czesci w systemie Hofsoft: ................                                    Obejma M8/65mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              2.08
+Numer producenta: ...............................                                       FIS 911-965
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01612955
+Nazwa czesci w systemie Hofsoft: ................                          Ko³o zamachowe dwumasowe
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            921.08
+Numer producenta: ...............................                                  LUK1 415 0401 10
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01612960
+Nazwa czesci w systemie Hofsoft: ................                                   Zestaw sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            507.05
+Numer producenta: ...............................                                   LUK 624 3158 10
+
+
+
+************************************************************
+************************************************************

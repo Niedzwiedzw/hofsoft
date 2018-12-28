@@ -1,0 +1,36 @@
+Znaleziono towar : 04100410 (Sprawdzenie: 04100410)
+Znaleziono towar : 24210058 (Sprawdzenie: 24210058)
+Znaleziono towar : 90803150 (Sprawdzenie: 90803150)
+Znaleziono towar : 96010040 (Sprawdzenie: 96010040)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04100410
+Nazwa czesci w systemie Hofsoft: ................                              £o¿ysko ko³a tylnego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            146.18
+Numer producenta: ...............................                                     SKF 3656 VKBA
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24210058
+Nazwa czesci w systemie Hofsoft: ................                                    Wahacz ty³ L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             54.81
+Numer producenta: ...............................                                    SWA 30 93 6047
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90803150
+Nazwa czesci w systemie Hofsoft: ................                       ¯arówka P 21W 12V PureLight
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              0.93
+Numer producenta: ...............................                                BOS8 1 987 302 201
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96010040
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP617
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             52.35
+Numer producenta: ...............................                                BOSK 0 986 494 596
+
+
+
+************************************************************
+************************************************************

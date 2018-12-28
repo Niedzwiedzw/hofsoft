@@ -1,0 +1,28 @@
+Znaleziono towar : K4222506 (Sprawdzenie: K4222506)
+Znaleziono towar : 00080141 (Sprawdzenie: 00080141)
+Znaleziono towar : 04412554 (Sprawdzenie: 04412554)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4222506
+Nazwa czesci w systemie Hofsoft: ................                       Sworzeñ wahacza górnego L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.08
+Numer producenta: ...............................                                      KRA4 4222506
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080141
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  90-110mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              2.09
+Numer producenta: ...............................                                       NOR 101-110
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04412554
+Nazwa czesci w systemie Hofsoft: ................                        Os³ona przegubu wewnêtrzna
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             41.29
+Numer producenta: ...............................                                      LOB1 304-206
+
+
+
+************************************************************
+************************************************************

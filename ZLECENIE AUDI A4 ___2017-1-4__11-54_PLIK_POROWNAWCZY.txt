@@ -1,0 +1,44 @@
+Znaleziono towar : 00080011 (Sprawdzenie: 00080011)
+Znaleziono towar : 48230015 (Sprawdzenie: 48230015)
+Znaleziono towar : 48233773 (Sprawdzenie: 48233773)
+Znaleziono towar : 51130240 (Sprawdzenie: 51130240)
+Znaleziono towar : 00130040 (Sprawdzenie: 00130040)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080011
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   8- 12mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              0.97
+Numer producenta: ...............................                                       NOR 101-012
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48230015
+Nazwa czesci w systemie Hofsoft: ................                               Blaszka mont. uniw.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.44
+Numer producenta: ...............................                          ROM 16307        10 SZT.
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48233773
+Nazwa czesci w systemie Hofsoft: ................                          Wkrêt monta¿owy 6,3 x 19
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.73
+Numer producenta: ...............................                          ROM C60610        10 SZT
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          51130240
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora ss¹cego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.60
+Numer producenta: ...............................                                         GLA 57659
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00130040
+Nazwa czesci w systemie Hofsoft: ................                            Przewód paliwowy   4mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              4.54
+Numer producenta: ...............................                                   GAT2 3225-00051
+
+
+
+************************************************************
+************************************************************

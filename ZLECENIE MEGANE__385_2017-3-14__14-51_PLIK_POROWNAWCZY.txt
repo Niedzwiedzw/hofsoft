@@ -1,0 +1,28 @@
+Znaleziono towar : 64235040 (Sprawdzenie: 64235040)
+Znaleziono towar : K6045105 (Sprawdzenie: K6045105)
+Znaleziono towar : 56005090 (Sprawdzenie: 56005090)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          64235040
+Nazwa czesci w systemie Hofsoft: ................                                Silentblok wahacza
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              7.92
+Numer producenta: ...............................                                      SAS 400 1413
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6045105
+Nazwa czesci w systemie Hofsoft: ................                     Tarcza hamulcowa 280x24x44 w.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             57.94
+Numer producenta: ...............................                                      KRA5 6045105
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56005090
+Nazwa czesci w systemie Hofsoft: ................                        Klocki hamulcowe     21388
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             76.14
+Numer producenta: ...............................                                       REM 0208 12
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,52 @@
+Znaleziono towar : J0062006 (Sprawdzenie: J0062006)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : K1226512 (Sprawdzenie: K1226512)
+Znaleziono towar : K1220075 (Sprawdzenie: K1220075)
+Znaleziono towar : 91700070 (Sprawdzenie: 91700070)
+Znaleziono towar : 91180263 (Sprawdzenie: 91180263)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          J0062006
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do spryskiwaczy ZIMA
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.70
+Numer producenta: ...............................                                  JPPE JPP 5L(-22)
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K1226512
+Nazwa czesci w systemie Hofsoft: ................                     Rolka napinacza paska micro-V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             34.83
+Numer producenta: ...............................                                      KRA2 1226512
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K1220075
+Nazwa czesci w systemie Hofsoft: ................                            Rolka prowadz¹ca pasek
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.66
+Numer producenta: ...............................                                      KRA2 1220075
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700070
+Nazwa czesci w systemie Hofsoft: ................                                 filtr oleju P9619
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.44
+Numer producenta: ...............................                                BOS3 1 457 429 619
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91180263
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            376.66
+Numer producenta: ...............................                           BOS4 1 987 946 471 /426
+
+
+
+************************************************************
+************************************************************

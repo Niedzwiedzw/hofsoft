@@ -1,0 +1,44 @@
+Znaleziono towar : H6159316 (Sprawdzenie: H6159316)
+Znaleziono towar : 84213054 (Sprawdzenie: 84213054)
+Znaleziono towar : 84213052 (Sprawdzenie: 84213052)
+Znaleziono towar : 84213056 (Sprawdzenie: 84213056)
+Znaleziono towar : 84213058 (Sprawdzenie: 84213058)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          H6159316
+Nazwa czesci w systemie Hofsoft: ................                         Zacisk ham. AC8884 ty³ pr
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            309.16
+Numer producenta: ...............................                              HPG4 8AC 355 388-841
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84213054
+Nazwa czesci w systemie Hofsoft: ................                                      Wahacz prawy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            152.76
+Numer producenta: ...............................                                    TRW FI-WP-4967
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84213052
+Nazwa czesci w systemie Hofsoft: ................                                       Wahacz lewy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            152.76
+Numer producenta: ...............................                                    TRW FI-WP-4966
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84213056
+Nazwa czesci w systemie Hofsoft: ................                                  Wahacz przedni L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            238.18
+Numer producenta: ...............................                                    TRW FI-WP-4968
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84213058
+Nazwa czesci w systemie Hofsoft: ................                                  Wahacz przedni P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            238.18
+Numer producenta: ...............................                                    TRW FI-WP-4969
+
+
+
+************************************************************
+************************************************************

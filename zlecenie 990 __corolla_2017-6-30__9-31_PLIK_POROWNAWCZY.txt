@@ -1,0 +1,60 @@
+Znaleziono towar : 91703751 (Sprawdzenie: 91703751)
+Znaleziono towar : 90707108 (Sprawdzenie: 90707108)
+Znaleziono towar : 90709737 (Sprawdzenie: 90709737)
+Znaleziono towar : 81713958 (Sprawdzenie: 81713958)
+Znaleziono towar : 90707218 (Sprawdzenie: 90707218)
+Znaleziono towar : 91723870 (Sprawdzenie: 91723870)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91703751
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P2044
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.25
+Numer producenta: ...............................                                BOS3 0 986 452 044
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90707108
+Nazwa czesci w systemie Hofsoft: ................                    45C    Pióro wycier.450    ECO
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.86
+Numer producenta: ...............................                                BOS5 3 397 004 668
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90709737
+Nazwa czesci w systemie Hofsoft: ................                     H352 Pióro wycier.tylna 350mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.23
+Numer producenta: ...............................                                BOS5 3 397 011 430
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          81713958
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S9183
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             29.58
+Numer producenta: ...............................                                BOS3 1 987 429 183
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90707218
+Nazwa czesci w systemie Hofsoft: ................                    55C    Pióro wycier.550    ECO
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.65
+Numer producenta: ...............................                                BOS5 3 397 004 672
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91723870
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N4440
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             32.35
+Numer producenta: ...............................                                BOS3 1 457 434 440
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+
+************************************************************
+************************************************************

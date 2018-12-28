@@ -1,0 +1,36 @@
+Znaleziono towar : 90121990 (Sprawdzenie: 90121990)
+Znaleziono towar : K4100750 (Sprawdzenie: K4100750)
+Znaleziono towar : K0061009 (Sprawdzenie: K0061009)
+Znaleziono towar : 90060010 (Sprawdzenie: 90060010)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90121990
+Nazwa czesci w systemie Hofsoft: ................                           Pasek klinowy 11.5x 790
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.92
+Numer producenta: ...............................                                BOS4 1 987 947 782
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4100750
+Nazwa czesci w systemie Hofsoft: ................                           £o¿ysko ko³a przedniego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             43.53
+Numer producenta: ...............................                                      KRAN 4100750
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061009
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.04
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90060010
+Nazwa czesci w systemie Hofsoft: ................                        P³yn hamulcowy DOT 4 BF032
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.22
+Numer producenta: ...............................                            BOSE 1 987 479 105/001
+
+
+
+************************************************************
+************************************************************

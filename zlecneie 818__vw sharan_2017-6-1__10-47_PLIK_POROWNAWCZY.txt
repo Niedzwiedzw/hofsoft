@@ -1,0 +1,36 @@
+Znaleziono towar : 54300780 (Sprawdzenie: 54300780)
+Znaleziono towar : 04230500 (Sprawdzenie: 04230500)
+Znaleziono towar : 24310660 (Sprawdzenie: 24310660)
+Znaleziono towar : 24310650 (Sprawdzenie: 24310650)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54300780
+Nazwa czesci w systemie Hofsoft: ................                         Dr¹¿ek kier. bez koñcówki
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             26.63
+Numer producenta: ...............................                                          SID 3310
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04230500
+Nazwa czesci w systemie Hofsoft: ................                     Silentblok wahacza przedniego
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             22.11
+Numer producenta: ...............................                           LEM 1768301 /7M0407181A
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24310660
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.49
+Numer producenta: ...............................                                    SWA 50 71 0028
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24310650
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.49
+Numer producenta: ...............................                                    SWA 50 71 0029
+
+
+
+************************************************************
+************************************************************

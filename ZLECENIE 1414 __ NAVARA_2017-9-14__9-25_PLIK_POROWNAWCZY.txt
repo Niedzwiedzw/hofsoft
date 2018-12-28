@@ -1,0 +1,116 @@
+Znaleziono towar : N8251617 (Sprawdzenie: N8251617)
+Znaleziono towar : N8251653 (Sprawdzenie: N8251653)
+Znaleziono towar : N8251351 (Sprawdzenie: N8251351)
+Znaleziono towar : N8251631 (Sprawdzenie: N8251631)
+Znaleziono towar : G1795051 (Sprawdzenie: G1795051)
+Znaleziono towar : 00080011 (Sprawdzenie: 00080011)
+Znaleziono towar : 10930060 (Sprawdzenie: 10930060)
+Znaleziono towar : N8250799 (Sprawdzenie: N8250799)
+Znaleziono towar : 41724000 (Sprawdzenie: 41724000)
+Znaleziono towar : 00080031 (Sprawdzenie: 00080031)
+Znaleziono towar : N8250711 (Sprawdzenie: N8250711)
+Znaleziono towar : 10930005 (Sprawdzenie: 10930005)
+Znaleziono towar : N8251755 (Sprawdzenie: N8251755)
+Znaleziono towar : 10930030 (Sprawdzenie: 10930030)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251617
+Nazwa czesci w systemie Hofsoft: ................                      Przek. zwierno-rozwierny 541
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.57
+Numer producenta: ...............................                                           NAG 308
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251653
+Nazwa czesci w systemie Hofsoft: ................                       Obudowa bezp.UNIVAL MTA 30A
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              4.97
+Numer producenta: ...............................                                         NAG 322/2
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251351
+Nazwa czesci w systemie Hofsoft: ................                     Bezpiecznik kostkowy PAL ma³y
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.17
+Numer producenta: ...............................                                     NAG 252/1/30A
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251631
+Nazwa czesci w systemie Hofsoft: ................                    Wy³¹cznik du¿y 2-poz 3-stykowy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.29
+Numer producenta: ...............................                                           NAG 315
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          G1795051
+Nazwa czesci w systemie Hofsoft: ................                              Pompa paliwa elektr.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            124.44
+Numer producenta: ...............................                                       ERA 770009A
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080011
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   8- 12mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.04
+Numer producenta: ...............................                                       NOR 101-012
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10930060
+Nazwa czesci w systemie Hofsoft: ................                           Bezpiecznik  30A p³aski
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              0.24
+Numer producenta: ...............................                               NAR BEZPIECZNIK 30A
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8250799
+Nazwa czesci w systemie Hofsoft: ................                     Zestaw os³on termokurczliwych
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              2.28
+Numer producenta: ...............................                                           NAG 047
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41724000
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             28.04
+Numer producenta: ...............................                                     FIL 857    PP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080031
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  12- 22mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.11
+Numer producenta: ...............................                                       NOR 101-022
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8250711
+Nazwa czesci w systemie Hofsoft: ................                    Podstawa przekaŸnika 5-stykowa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.41
+Numer producenta: ...............................                                         NAG 009/1
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10930005
+Nazwa czesci w systemie Hofsoft: ................                           Bezpiecznik   5A p³aski
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              0.24
+Numer producenta: ...............................                                NAR BEZPIECZNIK 5A
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251755
+Nazwa czesci w systemie Hofsoft: ................                    Obudowa bezpiecznika p³askiego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              2.56
+Numer producenta: ...............................                                           NAG 423
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10930030
+Nazwa czesci w systemie Hofsoft: ................                           Bezpiecznik  15A p³aski
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              0.24
+Numer producenta: ...............................                               NAR BEZPIECZNIK 15A
+
+
+
+************************************************************
+************************************************************

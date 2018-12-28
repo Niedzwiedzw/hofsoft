@@ -1,0 +1,44 @@
+Znaleziono towar : 11733250 (Sprawdzenie: 11733250)
+Znaleziono towar : 91713035 (Sprawdzenie: 91713035)
+Znaleziono towar : 70950395 (Sprawdzenie: 70950395)
+Znaleziono towar : K0061009 (Sprawdzenie: K0061009)
+Znaleziono towar : 91703610 (Sprawdzenie: 91703610)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11733250
+Nazwa czesci w systemie Hofsoft: ................                        Filtr wlotu powiet. CP1131
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.48
+Numer producenta: ...............................                                     COR3 21653026
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91713035
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3316
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.53
+Numer producenta: ...............................                                BOS3 1 457 433 316
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          70950395
+Nazwa czesci w systemie Hofsoft: ................                    Akum. 44Ah/420A S4          L-
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            158.73
+Numer producenta: ...............................                                       BOS1 S4 000
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061009
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.11
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91703610
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P2041
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.43
+Numer producenta: ...............................                                BOS3 0 986 452 041
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,28 @@
+Znaleziono towar : 16030449 (Sprawdzenie: 16030449)
+Znaleziono towar : 96000076 (Sprawdzenie: 96000076)
+Znaleziono towar : 56040340 (Sprawdzenie: 56040340)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16030449
+Nazwa czesci w systemie Hofsoft: ................                     Reperaturka zac.ham.z t³okiem
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             29.24
+Numer producenta: ...............................                                       AFN D41074C
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96000076
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP250
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             95.71
+Numer producenta: ...............................                                BOSK 0 986 424 482
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56040340
+Nazwa czesci w systemie Hofsoft: ................                      Tarcza hamulcowa       314mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                            155.10
+Numer producenta: ...............................                                 BRM 09.9540.11/14
+
+
+
+************************************************************
+************************************************************

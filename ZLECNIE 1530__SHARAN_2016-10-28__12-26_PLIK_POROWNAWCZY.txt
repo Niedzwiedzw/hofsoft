@@ -1,0 +1,44 @@
+Znaleziono towar : 24230500 (Sprawdzenie: 24230500)
+Znaleziono towar : 84300750 (Sprawdzenie: 84300750)
+Znaleziono towar : 24230505 (Sprawdzenie: 24230505)
+Znaleziono towar : 84230503 (Sprawdzenie: 84230503)
+Znaleziono towar : 24236507 (Sprawdzenie: 24236507)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24230500
+Nazwa czesci w systemie Hofsoft: ................                     Silentblok wahacza przedniego
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             14.19
+Numer producenta: ...............................                                    SWA 30 60 0033
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84300750
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             24.02
+Numer producenta: ...............................                                    TRW VO-LS-0318
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24230505
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              5.69
+Numer producenta: ...............................                                    SWA 30 92 7330
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84230503
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              8.17
+Numer producenta: ...............................                                    TRW FD-SB-6767
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24236507
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              6.36
+Numer producenta: ...............................                                    SWA 30 92 7640
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,28 @@
+Znaleziono towar : 00080111 (Sprawdzenie: 00080111)
+Znaleziono towar : E8852006 (Sprawdzenie: E8852006)
+Znaleziono towar : 00080031 (Sprawdzenie: 00080031)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080111
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  60- 80mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.69
+Numer producenta: ...............................                           NOR 101-080  60-80/9 C7
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          E8852006
+Nazwa czesci w systemie Hofsoft: ................                                         Zawór EGR
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            719.69
+Numer producenta: ...............................                                        ERA 555290
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080031
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  12- 22mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.11
+Numer producenta: ...............................                                       NOR 101-022
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,36 @@
+Znaleziono towar : 06122506 (Sprawdzenie: 06122506)
+Znaleziono towar : 06122502 (Sprawdzenie: 06122502)
+Znaleziono towar : 96012620 (Sprawdzenie: 96012620)
+Znaleziono towar : 96002514 (Sprawdzenie: 96002514)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          06122506
+Nazwa czesci w systemie Hofsoft: ................                        Czujnik klocka ham. 620268
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.95
+Numer producenta: ...............................                           ATE 24.8190-0268.2/0252
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          06122502
+Nazwa czesci w systemie Hofsoft: ................                        Czujnik klocka ham. 620269
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             31.55
+Numer producenta: ...............................                           ATE 24.8190-0269.2/0253
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96012620
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1206
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            122.01
+Numer producenta: ...............................                         BOSK 0 986 494 294/424698
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96002514
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1109
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            189.78
+Numer producenta: ...............................                                BOSK 0 986 494 191
+
+
+
+************************************************************
+************************************************************

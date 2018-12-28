@@ -1,0 +1,44 @@
+Znaleziono towar : 19810130 (Sprawdzenie: 19810130)
+Znaleziono towar : K0062030 (Sprawdzenie: K0062030)
+Znaleziono towar : 91701515 (Sprawdzenie: 91701515)
+Znaleziono towar : 91731545 (Sprawdzenie: 91731545)
+Znaleziono towar : 96001672 (Sprawdzenie: 96001672)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          19810130
+Nazwa czesci w systemie Hofsoft: ................                         Pompka spryskiwacza szyby
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.58
+Numer producenta: ...............................                            HPR 107 819 /1J6955651
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0062030
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do spryskiwaczy LATO
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.06
+Numer producenta: ...............................                         KRAE KRAFT 5L LETNI Z LEJ
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701515
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7095
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             35.67
+Numer producenta: ...............................                                BOS3 F 026 407 095
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91731545
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy R2304
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             46.10
+Numer producenta: ...............................                                BOS3 1 987 432 304
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96001672
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1187
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            120.62
+Numer producenta: ...............................                                BOSK 0 986 494 609
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,20 @@
+Znaleziono towar : 24225511 (Sprawdzenie: 24225511)
+Znaleziono towar : 24233415 (Sprawdzenie: 24233415)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24225511
+Nazwa czesci w systemie Hofsoft: ................                               Sworzeñ wahacza L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             40.06
+Numer producenta: ...............................                                    SWA 62 92 9385
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24233415
+Nazwa czesci w systemie Hofsoft: ................                     Silentblok wahacza przedniego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             40.01
+Numer producenta: ...............................                                    SWA 70 93 1091
+
+
+
+************************************************************
+************************************************************

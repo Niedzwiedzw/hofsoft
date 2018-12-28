@@ -1,0 +1,36 @@
+Znaleziono towar : 80950531 (Sprawdzenie: 80950531)
+Znaleziono towar : K1220823 (Sprawdzenie: K1220823)
+Znaleziono towar : 90805250 (Sprawdzenie: 90805250)
+Znaleziono towar : 31166340 (Sprawdzenie: 31166340)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80950531
+Nazwa czesci w systemie Hofsoft: ................                    Akum. 61Ah/600A S5          L-
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            216.03
+Numer producenta: ...............................                                       BOS1 S5 004
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K1220823
+Nazwa czesci w systemie Hofsoft: ................                     Rolka napinacza paska micro-V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             29.32
+Numer producenta: ...............................                                      KRA2 1220823
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90805250
+Nazwa czesci w systemie Hofsoft: ................                    ¯arówka H4 60/55W 12VPureLight
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.87
+Numer producenta: ...............................                                BOS8 1 987 302 041
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          31166340
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6X1070
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.64
+Numer producenta: ...............................                                       CNT 6PK1070
+
+
+
+************************************************************
+************************************************************

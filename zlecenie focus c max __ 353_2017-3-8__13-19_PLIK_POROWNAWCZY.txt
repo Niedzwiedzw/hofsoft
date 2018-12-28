@@ -1,0 +1,20 @@
+Znaleziono towar : 50020569 (Sprawdzenie: 50020569)
+Znaleziono towar : 21152300 (Sprawdzenie: 21152300)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50020569
+Nazwa czesci w systemie Hofsoft: ................                          Olej przek³adn. 80W GL-4
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             15.80
+Numer producenta: ...............................                                 CAS 80W MANUAL EP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21152300
+Nazwa czesci w systemie Hofsoft: ................                    Simering 40x55x8 skrzyni bieg.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.05
+Numer producenta: ...............................                                     COR 19597 120
+
+
+
+************************************************************
+************************************************************

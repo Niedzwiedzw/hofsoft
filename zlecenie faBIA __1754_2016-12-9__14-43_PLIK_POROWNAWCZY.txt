@@ -1,0 +1,20 @@
+Znaleziono towar : U4316502 (Sprawdzenie: U4316502)
+Znaleziono towar : 04236510 (Sprawdzenie: 04236510)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          U4316502
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             18.78
+Numer producenta: ...............................                                   MTO 19814 (FEB)
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04236510
+Nazwa czesci w systemie Hofsoft: ................                          Silentblok wahacza tylny
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             12.27
+Numer producenta: ...............................                           LEM 2971001 /6Q0407183A
+
+
+
+************************************************************
+************************************************************

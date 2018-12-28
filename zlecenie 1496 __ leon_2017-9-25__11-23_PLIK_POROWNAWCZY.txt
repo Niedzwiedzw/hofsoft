@@ -1,0 +1,20 @@
+Znaleziono towar : 84230253 (Sprawdzenie: 84230253)
+Znaleziono towar : 84230254 (Sprawdzenie: 84230254)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84230253
+Nazwa czesci w systemie Hofsoft: ................                    Silentblok wahacza przed.tyl/L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             55.95
+Numer producenta: ...............................                                    TRW VO-SB-0430
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84230254
+Nazwa czesci w systemie Hofsoft: ................                    Silentblok wahacza przed.tyl/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             55.95
+Numer producenta: ...............................                                    TRW VO-SB-2337
+
+
+
+************************************************************
+************************************************************

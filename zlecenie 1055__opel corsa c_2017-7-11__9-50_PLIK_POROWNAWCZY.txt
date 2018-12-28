@@ -1,0 +1,20 @@
+Znaleziono towar : 01321524 (Sprawdzenie: 01321524)
+Znaleziono towar : 54401510 (Sprawdzenie: 54401510)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01321524
+Nazwa czesci w systemie Hofsoft: ................                        Zestaw rozrz¹du ³añcuchowy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            267.91
+Numer producenta: ...............................                                   SKF1 85000 VKML
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54401510
+Nazwa czesci w systemie Hofsoft: ................                     Przegub napêdowy zewn. z os³.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             51.02
+Numer producenta: ...............................                                        GSP 844019
+
+
+
+************************************************************
+************************************************************

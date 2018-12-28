@@ -1,0 +1,27 @@
+Znaleziono towar : 41731504 (Sprawdzenie: 41731504)
+Znaleziono towar : 61711575 (Sprawdzenie: 61711575) <---Poprawiono?Znaleziono towar : 91703300 (Sprawdzenie: 91703300)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41731504
+Nazwa czesci w systemie Hofsoft: ................                             Filtr wlotu powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             37.31
+Numer producenta: ...............................                                     FIL 1014A   K
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61711575
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.26
+Numer producenta: ...............................                                        MAN C30130
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91703300
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9256
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.91
+Numer producenta: ...............................                                BOS3 1 457 429 256
+
+
+
+************************************************************
+************************************************************

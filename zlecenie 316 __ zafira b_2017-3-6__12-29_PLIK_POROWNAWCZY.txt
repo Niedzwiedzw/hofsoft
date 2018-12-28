@@ -1,0 +1,28 @@
+Znaleziono towar : 91723002 (Sprawdzenie: 91723002)
+Znaleziono towar : 61126816 (Sprawdzenie: 61126816)
+Znaleziono towar : 91928987 (Sprawdzenie: 91928987)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91723002
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N0001
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             42.32
+Numer producenta: ...............................                                BOS3 1 457 070 001
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61126816
+Nazwa czesci w systemie Hofsoft: ................                           Uszczelka dekla zaworów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             35.11
+Numer producenta: ...............................                                       ELR 430.400
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91928987
+Nazwa czesci w systemie Hofsoft: ................                         Podk³adka pod wtryskiwacz
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              1.88
+Numer producenta: ...............................                                BOSD F 00V C17 504
+
+
+
+************************************************************
+************************************************************

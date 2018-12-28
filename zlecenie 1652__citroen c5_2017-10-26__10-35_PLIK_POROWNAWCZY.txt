@@ -1,0 +1,44 @@
+Znaleziono towar : 84316110 (Sprawdzenie: 84316110)
+Znaleziono towar : 64235912 (Sprawdzenie: 64235912)
+Znaleziono towar : 24305918 (Sprawdzenie: 24305918)
+Znaleziono towar : 04235913 (Sprawdzenie: 04235913)
+Znaleziono towar : 84316111 (Sprawdzenie: 84316111)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84316110
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.44
+Numer producenta: ...............................                                    TRW CI-ES-0930
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          64235912
+Nazwa czesci w systemie Hofsoft: ................                    Silentblok wahacza L/P przedni
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             12.78
+Numer producenta: ...............................                                      SAS 523 3843
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24305918
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             33.30
+Numer producenta: ...............................                                    SWA 62 91 9225
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04235913
+Nazwa czesci w systemie Hofsoft: ................                      Silentblok wahacza L/P tylny
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             36.93
+Numer producenta: ...............................                              LEM 2889601 /3820301
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84316111
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.44
+Numer producenta: ...............................                                    TRW CI-ES-0931
+
+
+
+************************************************************
+************************************************************

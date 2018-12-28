@@ -1,0 +1,28 @@
+Znaleziono towar : 91710400 (Sprawdzenie: 91710400)
+Znaleziono towar : 91706350 (Sprawdzenie: 91706350)
+Znaleziono towar : 91730300 (Sprawdzenie: 91730300)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91710400
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S9405
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.92
+Numer producenta: ...............................                                BOS3 1 987 429 405
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91706350
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9243
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.61
+Numer producenta: ...............................                                BOS3 1 457 429 243
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91730300
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2097
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.06
+Numer producenta: ...............................                                BOS3 1 987 432 097
+
+
+
+************************************************************
+************************************************************

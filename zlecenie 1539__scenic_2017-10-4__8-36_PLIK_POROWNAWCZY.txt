@@ -1,0 +1,36 @@
+Znaleziono towar : 20061004 (Sprawdzenie: 20061004)
+Znaleziono towar : 91185053 (Sprawdzenie: 91185053)
+Znaleziono towar : 10068510 (Sprawdzenie: 10068510)
+Znaleziono towar : 91704050 (Sprawdzenie: 91704050)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20061004
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             23.17
+Numer producenta: ...............................                                   SWAE 99 90 2374
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91185053
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            232.24
+Numer producenta: ...............................                         BOS4 1 987 946 941 /8 525
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10068510
+Nazwa czesci w systemie Hofsoft: ................                             Woda demineralizowana
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.30
+Numer producenta: ...............................                         PLK WODA DEMINERALIZOWAN5
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91704050
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7022
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.08
+Numer producenta: ...............................                                BOS3 F 026 407 022
+
+
+
+************************************************************
+************************************************************

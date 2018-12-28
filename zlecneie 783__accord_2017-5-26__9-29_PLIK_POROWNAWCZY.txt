@@ -1,0 +1,28 @@
+Znaleziono towar : 41726665 (Sprawdzenie: 41726665)
+Znaleziono towar : 50010992 (Sprawdzenie: 50010992)
+Znaleziono towar : 50010994 (Sprawdzenie: 50010994)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41726665
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.85
+Numer producenta: ...............................                                     FIL 683    OE
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50010992
+Nazwa czesci w systemie Hofsoft: ................                         Olej silnikowy SAE  5W-30
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             28.50
+Numer producenta: ...............................                          CAS 5W30 EDGE LL TITANI.
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50010994
+Nazwa czesci w systemie Hofsoft: ................                         Olej silnikowy SAE  5W-30
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            128.01
+Numer producenta: ...............................                          CAS 5W30 EDGE LL TITANI.
+
+
+
+************************************************************
+************************************************************

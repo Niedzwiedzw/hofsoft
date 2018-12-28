@@ -1,0 +1,28 @@
+Znaleziono towar : 91725060 (Sprawdzenie: 91725060)
+Znaleziono towar : 91705190 (Sprawdzenie: 91705190)
+Znaleziono towar : 91185053 (Sprawdzenie: 91185053)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91725060
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N7013
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             53.06
+Numer producenta: ...............................                                BOS3 0 450 907 013
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91705190
+Nazwa czesci w systemie Hofsoft: ................                                  Filtr oleju P336
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.31
+Numer producenta: ...............................                                BOS3 0 451 103 336
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91185053
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            213.78
+Numer producenta: ...............................                         BOS4 1 987 946 941 /8 525
+
+
+
+************************************************************
+************************************************************

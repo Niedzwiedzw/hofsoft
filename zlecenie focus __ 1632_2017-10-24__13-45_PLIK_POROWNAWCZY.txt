@@ -1,0 +1,52 @@
+Znaleziono towar : 11612022 (Sprawdzenie: 11612022)
+Znaleziono towar : E9032015 (Sprawdzenie: E9032015)
+Znaleziono towar : 90060010 (Sprawdzenie: 90060010)
+Znaleziono towar : K0020331 (Sprawdzenie: K0020331)
+Znaleziono towar : 91152005 (Sprawdzenie: 91152005)
+Znaleziono towar : 01612279 (Sprawdzenie: 01612279)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11612022
+Nazwa czesci w systemie Hofsoft: ................                          Ko³o zamachowe dwumasowe
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            655.13
+Numer producenta: ...............................                                 SAC3 2294 000 660
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          E9032015
+Nazwa czesci w systemie Hofsoft: ................                            W³¹cznik œwiate³ stopu
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             26.30
+Numer producenta: ...............................                                        ERA 330549
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90060010
+Nazwa czesci w systemie Hofsoft: ................                        P³yn hamulcowy DOT 4 BF032
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.27
+Numer producenta: ...............................                            BOSE 1 987 479 105/001
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0020331
+Nazwa czesci w systemie Hofsoft: ................                    Olej przek³adniowy 75W90 GL4/5
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             22.80
+Numer producenta: ...............................                         KRAA 75W90 GEARSYNT GL4/5
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91152005
+Nazwa czesci w systemie Hofsoft: ................                         Simering pó³osi napêdowej
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.79
+Numer producenta: ...............................                         ORG 1543933/1065148     5
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01612279
+Nazwa czesci w systemie Hofsoft: ................                                   Zestaw sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            679.97
+Numer producenta: ...............................                         LUK 624 3378 34         5
+
+
+
+************************************************************
+************************************************************

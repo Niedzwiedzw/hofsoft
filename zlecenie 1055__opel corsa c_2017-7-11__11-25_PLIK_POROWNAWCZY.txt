@@ -1,0 +1,36 @@
+Znaleziono towar : 54401510 (Sprawdzenie: 54401510)
+Znaleziono towar : K1501740 (Sprawdzenie: K1501740)
+Znaleziono towar : 01321524 (Sprawdzenie: 01321524)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54401510
+Nazwa czesci w systemie Hofsoft: ................                     Przegub napêdowy zewn. z os³.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             51.02
+Numer producenta: ...............................                                        GSP 844019
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K1501740
+Nazwa czesci w systemie Hofsoft: ................                           Pompa uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             69.47
+Numer producenta: ...............................                                      KRA1 1501740
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01321524
+Nazwa czesci w systemie Hofsoft: ................                        Zestaw rozrz¹du ³añcuchowy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            267.91
+Numer producenta: ...............................                                   SKF1 85000 VKML
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+
+************************************************************
+************************************************************

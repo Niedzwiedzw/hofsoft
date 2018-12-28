@@ -1,0 +1,20 @@
+Znaleziono towar : 84311700 (Sprawdzenie: 84311700)
+Znaleziono towar : 74021690 (Sprawdzenie: 74021690)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84311700
+Nazwa czesci w systemie Hofsoft: ................                             Koñcówka dr¹¿ka kier.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             21.63
+Numer producenta: ...............................                                    TRW OP-ES-0514
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74021690
+Nazwa czesci w systemie Hofsoft: ................                        Sprê¿yna przed.zawieszenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             56.47
+Numer producenta: ...............................                                       KYB1 RH1156
+
+
+
+************************************************************
+************************************************************

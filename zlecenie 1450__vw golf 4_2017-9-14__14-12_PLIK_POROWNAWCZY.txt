@@ -1,0 +1,60 @@
+Znaleziono towar : 42520300 (Sprawdzenie: 42520300)
+Znaleziono towar : 20558520 (Sprawdzenie: 20558520)
+Znaleziono towar : 20570010 (Sprawdzenie: 20570010)
+Znaleziono towar : 02500610 (Sprawdzenie: 02500610)
+Znaleziono towar : N8250799 (Sprawdzenie: N8250799)
+Znaleziono towar : 10930040 (Sprawdzenie: 10930040)
+Znaleziono towar : 10942296 (Sprawdzenie: 10942296)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          42520300
+Nazwa czesci w systemie Hofsoft: ................                                   T³umik œrodkowy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             49.95
+Numer producenta: ...............................                                         WLK 21575
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20558520
+Nazwa czesci w systemie Hofsoft: ................                                    Obejma M8/50mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.53
+Numer producenta: ...............................                                 FIS 911-950/01100
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20570010
+Nazwa czesci w systemie Hofsoft: ................                                           £¹cznik
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.57
+Numer producenta: ...............................                                       FIS 114-950
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          02500610
+Nazwa czesci w systemie Hofsoft: ................                                      T³umik tylny
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             97.12
+Numer producenta: ...............................                                         ASM 03067
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8250799
+Nazwa czesci w systemie Hofsoft: ................                     Zestaw os³on termokurczliwych
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              2.28
+Numer producenta: ...............................                                           NAG 047
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10930040
+Nazwa czesci w systemie Hofsoft: ................                           Bezpiecznik  20A p³aski
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              0.24
+Numer producenta: ...............................                               NAR BEZPIECZNIK 20A
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10942296
+Nazwa czesci w systemie Hofsoft: ................                       Pasta monterska do t³umików
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.99
+Numer producenta: ...............................                                        BSL 258503
+
+
+
+************************************************************
+************************************************************

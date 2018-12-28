@@ -1,0 +1,92 @@
+Znaleziono towar : 56001672 (Sprawdzenie: 56001672)
+Znaleziono towar : 91701515 (Sprawdzenie: 91701515)
+Znaleziono towar : 10942296 (Sprawdzenie: 10942296)
+Znaleziono towar : 91711536 (Sprawdzenie: 91711536)
+Znaleziono towar : 91181568 (Sprawdzenie: 91181568)
+Znaleziono towar : 20580257 (Sprawdzenie: 20580257)
+Znaleziono towar : 91731540 (Sprawdzenie: 91731540)
+Znaleziono towar : 60058501 (Sprawdzenie: 60058501)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : 21221557 (Sprawdzenie: 21221557)
+Znaleziono towar : 91721520 (Sprawdzenie: 91721520)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56001672
+Nazwa czesci w systemie Hofsoft: ................                        Klocki hamulcowe     24412
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             78.66
+Numer producenta: ...............................                                       REM 1375 12
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701515
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7095
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             35.28
+Numer producenta: ...............................                                BOS3 F 026 407 095
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10942296
+Nazwa czesci w systemie Hofsoft: ................                       Pasta monterska do t³umików
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.78
+Numer producenta: ...............................                             BSL 258503 / 258004/3
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91711536
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S0244
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             35.68
+Numer producenta: ...............................                                BOS3 F 026 400 244
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91181568
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            283.01
+Numer producenta: ...............................                                BOS4 1 987 946 457
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20580257
+Nazwa czesci w systemie Hofsoft: ................                           Z³¹cze elastyczne55x200
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.23
+Numer producenta: ...............................                                       ASM1 55X200
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91731540
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2004
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.89
+Numer producenta: ...............................                                BOS3 1 987 432 004
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          60058501
+Nazwa czesci w systemie Hofsoft: ................                         Silikon trwale elastyczny
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.90
+Numer producenta: ...............................                          ELR 036.163   /  036.166
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21221557
+Nazwa czesci w systemie Hofsoft: ................                    Rolka prowadz¹ca pasek micro-V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             31.46
+Numer producenta: ...............................                                     INA 532062110
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91721520
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N2062
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             49.80
+Numer producenta: ...............................                                BOS3 F 026 402 062
+
+
+
+************************************************************
+************************************************************

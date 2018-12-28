@@ -1,0 +1,44 @@
+Znaleziono towar : 11630100 (Sprawdzenie: 11630100)
+Znaleziono towar : 00080091 (Sprawdzenie: 00080091)
+Znaleziono towar : 99600080 (Sprawdzenie: 99600080)
+Znaleziono towar : 51610170 (Sprawdzenie: 51610170)
+Znaleziono towar : 00080041 (Sprawdzenie: 00080041)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11630100
+Nazwa czesci w systemie Hofsoft: ................                      Tuleja prow.lo¿ysko sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.30
+Numer producenta: ...............................                         HPR 101 774 /085141181  1
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080091
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  35- 50mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.29
+Numer producenta: ...............................                         NOR 101-050             1
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          99600080
+Nazwa czesci w systemie Hofsoft: ................                               Tulejka rozrusznika
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.45
+Numer producenta: ...............................                                BOSA 2 000 301 036
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          51610170
+Nazwa czesci w systemie Hofsoft: ................                                   Zestaw sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            156.27
+Numer producenta: ...............................                                        MEC MK9488
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080041
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  16- 27mm
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                              1.07
+Numer producenta: ...............................                                       NOR 101-027
+
+
+
+************************************************************
+************************************************************

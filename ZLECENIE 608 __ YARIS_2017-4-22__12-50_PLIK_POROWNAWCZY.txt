@@ -1,0 +1,28 @@
+Znaleziono towar : 00080012 (Sprawdzenie: 00080012)
+Znaleziono towar : D1166657 (Sprawdzenie: D1166657)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080012
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   8- 16mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.51
+Numer producenta: ...............................                                       NOR 100-16W
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          D1166657
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6x1775
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.01
+Numer producenta: ...............................                                      DRB1 6PK1775
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+
+************************************************************
+************************************************************

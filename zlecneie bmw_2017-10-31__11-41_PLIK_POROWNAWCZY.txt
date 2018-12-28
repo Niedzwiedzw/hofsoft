@@ -1,0 +1,44 @@
+Znaleziono towar : 61132605 (Sprawdzenie: 61132605)
+Znaleziono towar : 91928985 (Sprawdzenie: 91928985)
+Znaleziono towar : 61132604 (Sprawdzenie: 61132604)
+Znaleziono towar : 01122513 (Sprawdzenie: 01122513)
+Znaleziono towar : 00130040 (Sprawdzenie: 00130040)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61132605
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora ss¹cego
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              4.41
+Numer producenta: ...............................                                       ELR 215.120
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91928985
+Nazwa czesci w systemie Hofsoft: ................                         Podk³adka pod wtryskiwacz
+Ilosc: ..........................................                                                 5
+CENA: ...........................................                                              1.72
+Numer producenta: ...............................                                BOSD F 00V C17 503
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61132604
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora ss¹cego
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              6.77
+Numer producenta: ...............................                                       ELR 074.990
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01122513
+Nazwa czesci w systemie Hofsoft: ................                           Uszczelka dekla zaworów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             39.04
+Numer producenta: ...............................                                  GOE 50-029148-00
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00130040
+Nazwa czesci w systemie Hofsoft: ................                            Przewód paliwowy   4mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              4.76
+Numer producenta: ...............................                                   GAT2 3225-00051
+
+
+
+************************************************************
+************************************************************

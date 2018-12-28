@@ -1,0 +1,68 @@
+Znaleziono towar : 14092566 (Sprawdzenie: 14092566)
+Znaleziono towar : 48231652 (Sprawdzenie: 48231652)
+Znaleziono towar : 96122504 (Sprawdzenie: 96122504)
+Znaleziono towar : 14012554 (Sprawdzenie: 14012554)
+Znaleziono towar : X4082507 (Sprawdzenie: X4082507)
+Znaleziono towar : 54092605 (Sprawdzenie: 54092605)
+Znaleziono towar : 74082500 (Sprawdzenie: 74082500)
+Znaleziono towar : 96012545 (Sprawdzenie: 96012545)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          14092566
+Nazwa czesci w systemie Hofsoft: ................                        Mocowanie amortyzatora ty³
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.86
+Numer producenta: ...............................                                     SAC2 802  549
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48231652
+Nazwa czesci w systemie Hofsoft: ................                      Nakrêtka nadkoli i obiæ wew.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.50
+Numer producenta: ...............................                          ROM C10031       10 szt.
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96122504
+Nazwa czesci w systemie Hofsoft: ................                         Czujnik klocka ham. AP341
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.76
+Numer producenta: ...............................                                BOSI 1 987 473 069
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          14012554
+Nazwa czesci w systemie Hofsoft: ................                             Amortyzator tylny (G)
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                            168.97
+Numer producenta: ...............................                                     SAC1 311  410
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          X4082507
+Nazwa czesci w systemie Hofsoft: ................                     Os³ona amort. tyln. z odb. x2
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             32.98
+Numer producenta: ...............................                                        MON2 PK167
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54092605
+Nazwa czesci w systemie Hofsoft: ................                      Mocowanie amortyzatora przód
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             57.85
+Numer producenta: ...............................                                       KYB2 SM1003
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74082500
+Nazwa czesci w systemie Hofsoft: ................                     Os³ona amort.przed.z odb. x 2
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             31.56
+Numer producenta: ...............................                                       KYB2 910084
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96012545
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1184
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            110.11
+Numer producenta: ...............................                         BOSK 0 986 494 272/424821
+
+
+
+************************************************************
+************************************************************

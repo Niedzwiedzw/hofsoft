@@ -1,0 +1,28 @@
+Znaleziono towar : 61132604 (Sprawdzenie: 61132604)
+Znaleziono towar : 89101505 (Sprawdzenie: 89101505)
+Znaleziono towar : 61132605 (Sprawdzenie: 61132605)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61132604
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora ss¹cego
+Ilosc: ..........................................                                                 6
+CENA: ...........................................                                              6.77
+Numer producenta: ...............................                                       ELR 074.990
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          89101505
+Nazwa czesci w systemie Hofsoft: ................                              Œwieca ¿arowa GLP228
+Ilosc: ..........................................                                                 6
+CENA: ...........................................                                             29.05
+Numer producenta: ...............................                                BOSC 0 250 212 013
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61132605
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora ss¹cego
+Ilosc: ..........................................                                                 6
+CENA: ...........................................                                              5.28
+Numer producenta: ...............................                                       ELR 215.120
+
+
+
+************************************************************
+************************************************************

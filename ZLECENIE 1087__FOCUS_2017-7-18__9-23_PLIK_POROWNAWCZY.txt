@@ -1,0 +1,20 @@
+Znaleziono towar : 50020339 (Sprawdzenie: 50020339)
+Znaleziono towar : 91702320 (Sprawdzenie: 91702320)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50020339
+Nazwa czesci w systemie Hofsoft: ................                        Olej przek³adniowy 75W GL4
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                             36.03
+Numer producenta: ...............................                               CAS 75W SYNTRANS FE
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91702320
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P3252
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.91
+Numer producenta: ...............................                                BOS3 0 451 103 252
+
+
+
+************************************************************
+************************************************************

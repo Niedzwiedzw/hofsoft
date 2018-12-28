@@ -1,0 +1,28 @@
+Znaleziono towar : 84310190 (Sprawdzenie: 84310190)
+Znaleziono towar : 54300345 (Sprawdzenie: 54300345)
+Znaleziono towar : 14340140 (Sprawdzenie: 14340140)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84310190
+Nazwa czesci w systemie Hofsoft: ................                             Koñcówka dr¹¿ka kier.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             50.42
+Numer producenta: ...............................                                    TRW VO-ES-8227
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54300345
+Nazwa czesci w systemie Hofsoft: ................                                Dr¹¿ek kierowniczy
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             22.84
+Numer producenta: ...............................                                         SID 37610
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          14340140
+Nazwa czesci w systemie Hofsoft: ................                                 Os³ona maglownicy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.66
+Numer producenta: ...............................                           HPR 104 427 /8D0419831J
+
+
+
+************************************************************
+************************************************************

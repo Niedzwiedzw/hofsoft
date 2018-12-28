@@ -1,0 +1,84 @@
+Znaleziono towar : 84305533 (Sprawdzenie: 84305533)
+Znaleziono towar : 91715695 (Sprawdzenie: 91715695)
+Znaleziono towar : 20061004 (Sprawdzenie: 20061004)
+Znaleziono towar : 91735970 (Sprawdzenie: 91735970)
+Znaleziono towar : 84235505 (Sprawdzenie: 84235505)
+Znaleziono towar : 91186194 (Sprawdzenie: 91186194)
+Znaleziono towar : 91716165 (Sprawdzenie: 91716165)
+Znaleziono towar : 54315601 (Sprawdzenie: 54315601)
+Znaleziono towar : 54315600 (Sprawdzenie: 54315600)
+Znaleziono towar : 91702100 (Sprawdzenie: 91702100)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84305533
+Nazwa czesci w systemie Hofsoft: ................                           £¹cznik stabilizatora L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             45.23
+Numer producenta: ...............................                                    TRW PE-LS-3324
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91715695
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N1723
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             32.61
+Numer producenta: ...............................                                BOS3 1 457 431 723
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20061004
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             23.85
+Numer producenta: ...............................                                   SWAE 99 90 2374
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91735970
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy R2311
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             38.62
+Numer producenta: ...............................                                BOS3 1 987 432 311
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84235505
+Nazwa czesci w systemie Hofsoft: ................                     Silentblok wahacza przedniego
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             20.26
+Numer producenta: ...............................                                    TRW PE-SB-3492
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91186194
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            209.58
+Numer producenta: ...............................                                BOS4 1 987 948 727
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91716165
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3596
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             28.36
+Numer producenta: ...............................                                BOS3 1 457 433 596
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54315601
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             40.77
+Numer producenta: ...............................                                         SID 53339
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54315600
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             40.77
+Numer producenta: ...............................                                         SID 53338
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91702100
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9249
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.92
+Numer producenta: ...............................                                BOS3 1 457 429 249
+
+
+
+************************************************************
+************************************************************

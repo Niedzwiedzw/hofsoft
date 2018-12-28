@@ -1,0 +1,44 @@
+Znaleziono towar : 11151017 (Sprawdzenie: 11151017)
+Znaleziono towar : 10942296 (Sprawdzenie: 10942296)
+Znaleziono towar : 20522510 (Sprawdzenie: 20522510)
+Znaleziono towar : 99412529 (Sprawdzenie: 99412529)
+Znaleziono towar : K0072409 (Sprawdzenie: K0072409)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11151017
+Nazwa czesci w systemie Hofsoft: ................                      Simering 40x55x8 skrz.biegów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.04
+Numer producenta: ...............................                                     COR 27959 010
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10942296
+Nazwa czesci w systemie Hofsoft: ................                       Pasta monterska do t³umików
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.78
+Numer producenta: ...............................                             BSL 258503 / 258004/3
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20522510
+Nazwa czesci w systemie Hofsoft: ................                               Uszczelka kolektora
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.73
+Numer producenta: ...............................                                       FIS 100-909
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          99412529
+Nazwa czesci w systemie Hofsoft: ................                                 Czujnik ABS WS015
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             92.55
+Numer producenta: ...............................                                BOSI 0 986 594 015
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0072409
+Nazwa czesci w systemie Hofsoft: ................                    Œrodek odt³.do sprzêg.i hamul.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.98
+Numer producenta: ...............................                         KRWC BRAKE&CLUTCH CLEANER
+
+
+
+************************************************************
+************************************************************

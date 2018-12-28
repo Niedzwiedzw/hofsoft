@@ -1,0 +1,28 @@
+Znaleziono towar : 91701525 (Sprawdzenie: 91701525)
+Znaleziono towar : 84238344 (Sprawdzenie: 84238344)
+Znaleziono towar : S4218302 (Sprawdzenie: S4218302)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701525
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P3370
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.53
+Numer producenta: ...............................                                BOS3 0 451 103 370
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84238344
+Nazwa czesci w systemie Hofsoft: ................                     Silentblok wahacza przedniego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.56
+Numer producenta: ...............................                                    TRW DE-SB-4849
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          S4218302
+Nazwa czesci w systemie Hofsoft: ................                              Wahacz prawy przedni
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             61.31
+Numer producenta: ...............................                                  SAK4 421-00-8302
+
+
+
+************************************************************
+************************************************************

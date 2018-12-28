@@ -1,0 +1,44 @@
+Znaleziono towar : 96082380 (Sprawdzenie: 96082380)
+Znaleziono towar : 02502370 (Sprawdzenie: 02502370)
+Znaleziono towar : 02602060 (Sprawdzenie: 02602060)
+Znaleziono towar : 20558531 (Sprawdzenie: 20558531)
+Znaleziono towar : 02612020 (Sprawdzenie: 02612020)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96082380
+Nazwa czesci w systemie Hofsoft: ................                           Przewód hamulcowy BH527
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             33.08
+Numer producenta: ...............................                                BOSP 1 987 476 883
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          02502370
+Nazwa czesci w systemie Hofsoft: ................                                      T³umik tylny
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            101.64
+Numer producenta: ...............................                                         ASM 07204
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          02602060
+Nazwa czesci w systemie Hofsoft: ................                                     Rura przednia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             68.89
+Numer producenta: ...............................                                         ASM 07205
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20558531
+Nazwa czesci w systemie Hofsoft: ................                                    Obejma M8/65mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              2.08
+Numer producenta: ...............................                                       FIS 911-965
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          02612020
+Nazwa czesci w systemie Hofsoft: ................                                     Rura œrodkowa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             21.45
+Numer producenta: ...............................                                         ASM 07201
+
+
+
+************************************************************
+************************************************************

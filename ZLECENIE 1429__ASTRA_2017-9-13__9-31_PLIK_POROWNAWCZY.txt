@@ -1,0 +1,60 @@
+Znaleziono towar : 91731500 (Sprawdzenie: 91731500)
+Znaleziono towar : 90800250 (Sprawdzenie: 90800250)
+Znaleziono towar : 48231515 (Sprawdzenie: 48231515)
+Znaleziono towar : 91711570 (Sprawdzenie: 91711570)
+Znaleziono towar : 10010160 (Sprawdzenie: 10010160)
+Znaleziono towar : 91723010 (Sprawdzenie: 91723010)
+Znaleziono towar : 61121520 (Sprawdzenie: 61121520)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91731500
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2010
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.14
+Numer producenta: ...............................                                BOS3 1 987 432 010
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90800250
+Nazwa czesci w systemie Hofsoft: ................                    ¯arówka W 1.2W 12V       B8,5d
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.65
+Numer producenta: ...............................                                BOS8 1 987 302 219
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48231515
+Nazwa czesci w systemie Hofsoft: ................                            Spinka os³ony lusterka
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.24
+Numer producenta: ...............................                           ROM C60369       10 SZT
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91711570
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3007
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.79
+Numer producenta: ...............................                                BOS3 1 457 433 007
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10010160
+Nazwa czesci w systemie Hofsoft: ................                             Olej siln. SAE 15W-40
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             62.07
+Numer producenta: ...............................                           MOB 15W40 SUPER 1000 X1
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91723010
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa GH002
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.38
+Numer producenta: ...............................                                BOS3 0 450 905 002
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61121520
+Nazwa czesci w systemie Hofsoft: ................                           Uszczelka dekla zaworów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.71
+Numer producenta: ...............................                                       ELR 919.497
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,60 @@
+Znaleziono towar : 91731515 (Sprawdzenie: 91731515)
+Znaleziono towar : 41711810 (Sprawdzenie: 41711810)
+Znaleziono towar : 00080061 (Sprawdzenie: 00080061)
+Znaleziono towar : 00080006 (Sprawdzenie: 00080006)
+Znaleziono towar : 91711810 (Sprawdzenie: 91711810)
+Znaleziono towar : 21781537 (Sprawdzenie: 21781537)
+Znaleziono towar : 96011532 (Sprawdzenie: 96011532)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91731515
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2076
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             18.83
+Numer producenta: ...............................                                BOS3 1 987 432 076
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41711810
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.67
+Numer producenta: ...............................                                     FIL 152/2  AP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080061
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  20- 32mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.13
+Numer producenta: ...............................                                       NOR 101-032
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080006
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   6- 11mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              2.41
+Numer producenta: ...............................                                          NOR 6-11
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91711810
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3579
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             25.09
+Numer producenta: ...............................                                BOS3 1 457 433 579
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21781537
+Nazwa czesci w systemie Hofsoft: ................                                Œruba spustu oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              3.67
+Numer producenta: ...............................                                    SWA 40 90 4572
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96011532
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1037
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             72.48
+Numer producenta: ...............................                                BOSK 0 986 494 127
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,44 @@
+Znaleziono towar : 48233775 (Sprawdzenie: 48233775)
+Znaleziono towar : 00179930 (Sprawdzenie: 00179930)
+Znaleziono towar : 01132990 (Sprawdzenie: 01132990)
+Znaleziono towar : 91700015 (Sprawdzenie: 91700015)
+Znaleziono towar : 48235122 (Sprawdzenie: 48235122)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48233775
+Nazwa czesci w systemie Hofsoft: ................                          Wkrêt monta¿owy 6,3 x 19
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.26
+Numer producenta: ...............................                          ROM C60611        10 SZT
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00179930
+Nazwa czesci w systemie Hofsoft: ................                    Przewód uk³.ogrzewania œr.19mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.24
+Numer producenta: ...............................                              GAT2 3230-12191 / 90
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01132990
+Nazwa czesci w systemie Hofsoft: ................                         Silikon trwale elastyczny
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.02
+Numer producenta: ...............................                          GOE 34-000420-00 /410-00
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700015
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P3314
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.65
+Numer producenta: ...............................                                BOS3 0 451 103 314
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48235122
+Nazwa czesci w systemie Hofsoft: ................                                            Spinka
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.80
+Numer producenta: ...............................                          ROM A60953       10 szt.
+
+
+
+************************************************************
+************************************************************

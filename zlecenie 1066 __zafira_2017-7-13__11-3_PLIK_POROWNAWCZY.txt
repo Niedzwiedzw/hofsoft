@@ -1,0 +1,20 @@
+Znaleziono towar : D1165450 (Sprawdzenie: D1165450)
+Znaleziono towar : 84231727 (Sprawdzenie: 84231727)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          D1165450
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 5x1213
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.43
+Numer producenta: ...............................                                      DRB1 5PK1213
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84231727
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              6.04
+Numer producenta: ...............................                                    TRW OP-SB-8963
+
+
+
+************************************************************
+************************************************************

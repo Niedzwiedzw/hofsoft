@@ -1,0 +1,28 @@
+Znaleziono towar : 96015960 (Sprawdzenie: 96015960)
+Znaleziono towar : 54225510 (Sprawdzenie: 54225510)
+Znaleziono towar : 91702100 (Sprawdzenie: 91702100)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96015960
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP326
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             66.95
+Numer producenta: ...............................                                BOSK 0 986 424 580
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54225510
+Nazwa czesci w systemie Hofsoft: ................                               Sworzeñ wahacza L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.64
+Numer producenta: ...............................                                          SID 7989
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91702100
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9249
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.15
+Numer producenta: ...............................                                BOS3 1 457 429 249
+
+
+
+************************************************************
+************************************************************

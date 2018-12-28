@@ -1,0 +1,52 @@
+Znaleziono towar : K0061009 (Sprawdzenie: K0061009)
+Znaleziono towar : 91704850 (Sprawdzenie: 91704850)
+Znaleziono towar : 91710410 (Sprawdzenie: 91710410)
+Znaleziono towar : 11130085 (Sprawdzenie: 11130085)
+Znaleziono towar : 11130041 (Sprawdzenie: 11130041)
+Znaleziono towar : 21130087 (Sprawdzenie: 21130087)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061009
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.94
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91704850
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.52
+Numer producenta: ...............................                                BOS3 1 457 429 192
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91710410
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.83
+Numer producenta: ...............................                                BOS3 1 987 429 404
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11130085
+Nazwa czesci w systemie Hofsoft: ................                             Uszczelka zaworu EGR.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              2.95
+Numer producenta: ...............................                           HPR 110 376 /069131547D
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11130041
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora wydech.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.65
+Numer producenta: ...............................                            HPR 111 927 /03G253039
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21130087
+Nazwa czesci w systemie Hofsoft: ................                              Uszczelka zaworu EGR
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              2.97
+Numer producenta: ...............................                                       FIS 411-506
+
+
+
+************************************************************
+************************************************************

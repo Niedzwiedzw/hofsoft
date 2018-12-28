@@ -1,0 +1,60 @@
+Znaleziono towar : C4228325 (Sprawdzenie: C4228325)
+Znaleziono towar : 01174398 (Sprawdzenie: 01174398)
+Znaleziono towar : 91164060 (Sprawdzenie: 91164060)
+Znaleziono towar : 61157030 (Sprawdzenie: 61157030)
+Znaleziono towar : 01228320 (Sprawdzenie: 01228320)
+Znaleziono towar : K1508330 (Sprawdzenie: K1508330)
+Znaleziono towar : D1618327 (Sprawdzenie: D1618327)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          C4228325
+Nazwa czesci w systemie Hofsoft: ................                       Sworzeñ wahacza dolnego L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.56
+Numer producenta: ...............................                                       CTR CBKD-10
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01174398
+Nazwa czesci w systemie Hofsoft: ................                      Pasek rozrz¹du  77109x25 HSN
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             39.16
+Numer producenta: ...............................                                        GAT 5535XS
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91164060
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 4X 706
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.28
+Numer producenta: ...............................                                BOS4 1 987 947 962
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61157030
+Nazwa czesci w systemie Hofsoft: ................                    Simering 60x80x8 ty³ wa³ korb.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.02
+Numer producenta: ...............................                                      ELR1 166.180
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01228320
+Nazwa czesci w systemie Hofsoft: ................                            Rolka napinaj¹ca pasek
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.21
+Numer producenta: ...............................                                    SKF1 76102 VKM
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K1508330
+Nazwa czesci w systemie Hofsoft: ................                           Pompa uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             38.75
+Numer producenta: ...............................                                      KRA1 1508330
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          D1618327
+Nazwa czesci w systemie Hofsoft: ................                                   Zestaw sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            221.25
+Numer producenta: ...............................                               ASN KO-030 / KO-025
+
+
+
+************************************************************
+************************************************************

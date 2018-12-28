@@ -1,0 +1,28 @@
+Znaleziono towar : 24220091 (Sprawdzenie: 24220091)
+Znaleziono towar : 56000140 (Sprawdzenie: 56000140)
+Znaleziono towar : 91166341 (Sprawdzenie: 91166341)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24220091
+Nazwa czesci w systemie Hofsoft: ................                         Sworzeñ wahacza L/P Ý19mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             39.40
+Numer producenta: ...............................                                    SWA 30 78 0017
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56000140
+Nazwa czesci w systemie Hofsoft: ................                        Klocki hamulcowe     20887
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             51.36
+Numer producenta: ...............................                                       REM 0171 10
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91166341
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6x1070
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.82
+Numer producenta: ...............................                                BOS4 1 987 946 062
+
+
+
+************************************************************
+************************************************************

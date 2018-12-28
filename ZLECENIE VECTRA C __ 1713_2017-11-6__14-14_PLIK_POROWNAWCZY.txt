@@ -1,0 +1,36 @@
+Znaleziono towar : 16300500 (Sprawdzenie: 16300500)
+Znaleziono towar : 16090271 (Sprawdzenie: 16090271)
+Znaleziono towar : 16090243 (Sprawdzenie: 16090243)
+Znaleziono towar : 16090240 (Sprawdzenie: 16090240)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16300500
+Nazwa czesci w systemie Hofsoft: ................                                 £¹cznik 10/1-10/1
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              3.93
+Numer producenta: ...............................                                          WP 121/Z
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16090271
+Nazwa czesci w systemie Hofsoft: ................                    Przewód hamulc.metal. L=1800mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.05
+Numer producenta: ...............................                                            WP 023
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16090243
+Nazwa czesci w systemie Hofsoft: ................                    Przewód hamulc.metal. L=3500mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.74
+Numer producenta: ...............................                                            WP 046
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16090240
+Nazwa czesci w systemie Hofsoft: ................                    Przewód hamulc.metal. L=2500mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.25
+Numer producenta: ...............................                                            WP 048
+
+
+
+************************************************************
+************************************************************

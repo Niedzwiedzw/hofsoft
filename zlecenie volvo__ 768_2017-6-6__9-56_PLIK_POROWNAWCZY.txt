@@ -1,0 +1,52 @@
+Znaleziono towar : 91706351 (Sprawdzenie: 91706351)
+Znaleziono towar : 61116309 (Sprawdzenie: 61116309)
+Znaleziono towar : 61126312 (Sprawdzenie: 61126312)
+Znaleziono towar : 61136313 (Sprawdzenie: 61136313)
+Znaleziono towar : 61476302 (Sprawdzenie: 61476302)
+Znaleziono towar : 40115228 (Sprawdzenie: 40115228)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91706351
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9244
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.22
+Numer producenta: ...............................                                BOS3 1 457 429 244
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61116309
+Nazwa czesci w systemie Hofsoft: ................                    Uszczelka pod g³owicê 1.17 4k.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            125.32
+Numer producenta: ...............................                                       ELR 131.212
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61126312
+Nazwa czesci w systemie Hofsoft: ................                    Komplet uszczelek dekla zawor.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             93.03
+Numer producenta: ...............................                                       ELR 076.790
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61136313
+Nazwa czesci w systemie Hofsoft: ................                        Uszczelka kolektora wydech
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.81
+Numer producenta: ...............................                                       ELR 295.140
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61476302
+Nazwa czesci w systemie Hofsoft: ................                        Œruba g³owicy M12x1.75x171
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             75.86
+Numer producenta: ...............................                                       ELR 270.130
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          40115228
+Nazwa czesci w systemie Hofsoft: ................                         Nasadka 1/2" bit Torx T30
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.03
+Numer producenta: ...............................                                      DIYN YT-0442
+
+
+
+************************************************************
+************************************************************

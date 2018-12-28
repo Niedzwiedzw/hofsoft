@@ -1,0 +1,20 @@
+Znaleziono towar : 00080111 (Sprawdzenie: 00080111)
+Znaleziono towar : N8251863 (Sprawdzenie: N8251863)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080111
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  60- 80mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.69
+Numer producenta: ...............................                           NOR 101-080  60-80/9 C7
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251863
+Nazwa czesci w systemie Hofsoft: ................                    Gniazdo przejœciowe 13-7 styk.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.02
+Numer producenta: ...............................                                           NAG 507
+
+
+
+************************************************************
+************************************************************

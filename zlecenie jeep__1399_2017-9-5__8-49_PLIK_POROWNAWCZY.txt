@@ -1,0 +1,44 @@
+Znaleziono towar : 90818535 (Sprawdzenie: 90818535)
+Znaleziono towar : 61738517 (Sprawdzenie: 61738517)
+Znaleziono towar : 61703015 (Sprawdzenie: 61703015)
+Znaleziono towar : 41718536 (Sprawdzenie: 41718536)
+Znaleziono towar : 61721515 (Sprawdzenie: 61721515)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90818535
+Nazwa czesci w systemie Hofsoft: ................                             ¯arówka ksenonowa D3S
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            184.93
+Numer producenta: ...............................                                BOS8 1 987 302 907
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61738517
+Nazwa czesci w systemie Hofsoft: ................                             Filtr wlotu powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             44.67
+Numer producenta: ...............................                                       MAN CU27008
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61703015
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             86.50
+Numer producenta: ...............................                                       MAN HU7018Z
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41718536
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             43.62
+Numer producenta: ...............................                                     FIL 003/10 AP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61721515
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            113.34
+Numer producenta: ...............................                                        MAN PU7006
+
+
+
+************************************************************
+************************************************************

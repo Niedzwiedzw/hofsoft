@@ -1,0 +1,44 @@
+Znaleziono towar : 24305918 (Sprawdzenie: 24305918)
+Znaleziono towar : K4005700 (Sprawdzenie: K4005700)
+Znaleziono towar : K4005701 (Sprawdzenie: K4005701)
+Znaleziono towar : 74085506 (Sprawdzenie: 74085506)
+Znaleziono towar : K4095580 (Sprawdzenie: K4095580)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24305918
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.13
+Numer producenta: ...............................                                    SWA 62 91 9225
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4005700
+Nazwa czesci w systemie Hofsoft: ................                         Amortyzator przedni L (H)
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             69.68
+Numer producenta: ...............................                                      KRAM 4005700
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4005701
+Nazwa czesci w systemie Hofsoft: ................                         Amortyzator przedni P (H)
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             69.68
+Numer producenta: ...............................                                      KRAM 4005701
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74085506
+Nazwa czesci w systemie Hofsoft: ................                     Os³ona amort.przed.z odb. x 2
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             38.64
+Numer producenta: ...............................                                       KYB2 915909
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4095580
+Nazwa czesci w systemie Hofsoft: ................                    Poduszka amortyzatora prze.L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             56.52
+Numer producenta: ...............................                                      KRA4 4095580
+
+
+
+************************************************************
+************************************************************

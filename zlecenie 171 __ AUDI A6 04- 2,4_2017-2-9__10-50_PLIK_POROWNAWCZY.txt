@@ -1,0 +1,76 @@
+Znaleziono towar : 20570010 (Sprawdzenie: 20570010)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : 00080011 (Sprawdzenie: 00080011)
+Znaleziono towar : 91700160 (Sprawdzenie: 91700160)
+Znaleziono towar : 20042510 (Sprawdzenie: 20042510)
+Znaleziono towar : 00072403 (Sprawdzenie: 00072403)
+Znaleziono towar : 61120058 (Sprawdzenie: 61120058)
+Znaleziono towar : 61120059 (Sprawdzenie: 61120059)
+Znaleziono towar : 61155044 (Sprawdzenie: 61155044)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20570010
+Nazwa czesci w systemie Hofsoft: ................                                           £¹cznik
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              9.14
+Numer producenta: ...............................                                       FIS 114-950
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080011
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   8- 12mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              0.97
+Numer producenta: ...............................                                       NOR 101-012
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700160
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9268
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.73
+Numer producenta: ...............................                                BOS3 1 457 429 268
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20042510
+Nazwa czesci w systemie Hofsoft: ................                    Olej hydrauliczny   -mineralny
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.62
+Numer producenta: ...............................                                   SWAE 99 90 6162
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00072403
+Nazwa czesci w systemie Hofsoft: ................                    Œrod.czysz.uk.dolotowy gaŸnika
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.22
+Numer producenta: ...............................                                   WYN 54179/54181
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61120058
+Nazwa czesci w systemie Hofsoft: ................                           Uszczelka dekla zaworów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             40.54
+Numer producenta: ...............................                                       ELR 725.860
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61120059
+Nazwa czesci w systemie Hofsoft: ................                           Uszczelka dekla zaworów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             40.54
+Numer producenta: ...............................                                       ELR 725.870
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61155044
+Nazwa czesci w systemie Hofsoft: ................                    Simering 85x105x8 ty³ wa³ kor.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.14
+Numer producenta: ...............................                                      ELR1 508.462
+
+
+
+************************************************************
+************************************************************

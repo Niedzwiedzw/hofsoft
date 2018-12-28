@@ -1,0 +1,44 @@
+Znaleziono towar : 61120440 (Sprawdzenie: 61120440)
+Znaleziono towar : 91958980 (Sprawdzenie: 91958980)
+Znaleziono towar : 61130069 (Sprawdzenie: 61130069)
+Znaleziono towar : 91470290 (Sprawdzenie: 91470290)
+Znaleziono towar : K0062004 (Sprawdzenie: K0062004)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61120440
+Nazwa czesci w systemie Hofsoft: ................                           Uszczelka dekla zaworów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.50
+Numer producenta: ...............................                                       ELR 266.060
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91958980
+Nazwa czesci w systemie Hofsoft: ................                     Zestaw naprawczy pompowtrysk.
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                             22.16
+Numer producenta: ...............................                                BOSD 1 417 010 997
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61130069
+Nazwa czesci w systemie Hofsoft: ................                          Zestaw monta¿owy turbiny
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.96
+Numer producenta: ...............................                                       ELR 703.980
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91470290
+Nazwa czesci w systemie Hofsoft: ................                           Œruba pompowtryskiwacza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.65
+Numer producenta: ...............................                                    ORG 038103385A
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0062004
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do spryskiwaczy ZIMA
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.12
+Numer producenta: ...............................                              KRAE KRAFT 2L (-22C)
+
+
+
+************************************************************
+************************************************************

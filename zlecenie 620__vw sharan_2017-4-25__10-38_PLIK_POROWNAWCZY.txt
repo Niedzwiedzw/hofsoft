@@ -1,0 +1,68 @@
+Znaleziono towar : 91720030 (Sprawdzenie: 91720030)
+Znaleziono towar : 40071400 (Sprawdzenie: 40071400)
+Znaleziono towar : 91166405 (Sprawdzenie: 91166405)
+Znaleziono towar : 91180539 (Sprawdzenie: 91180539)
+Znaleziono towar : 14090285 (Sprawdzenie: 14090285)
+Znaleziono towar : 61150010 (Sprawdzenie: 61150010)
+Znaleziono towar : 91712230 (Sprawdzenie: 91712230)
+Znaleziono towar : 91700070 (Sprawdzenie: 91700070)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91720030
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N6174
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             29.93
+Numer producenta: ...............................                                BOS3 0 450 906 174
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          40071400
+Nazwa czesci w systemie Hofsoft: ................                             P³yn do mycia silnika
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.92
+Numer producenta: ...............................                                           K2 K177
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91166405
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6x1145
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.11
+Numer producenta: ...............................                                BOS4 1 987 947 943
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91180539
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z napinaczem
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            176.35
+Numer producenta: ...............................                                BOS4 1 987 948 255
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          14090285
+Nazwa czesci w systemie Hofsoft: ................                    Poduszka amortyzatora z ³o¿ys.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             17.00
+Numer producenta: ...............................                          HPR 108 557 /357412331AS
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61150010
+Nazwa czesci w systemie Hofsoft: ................                    Simering 32x47x10 wa³ kor/roz.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.60
+Numer producenta: ...............................                                      ELR1 325.155
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91712230
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3742
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             34.37
+Numer producenta: ...............................                                BOS3 1 457 433 742
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700070
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9619
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.60
+Numer producenta: ...............................                                BOS3 1 457 429 619
+
+
+
+************************************************************
+************************************************************

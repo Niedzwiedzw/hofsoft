@@ -1,0 +1,76 @@
+Znaleziono towar : 39960965 (Sprawdzenie: 39960965)
+Znaleziono towar : 00080011 (Sprawdzenie: 00080011)
+Znaleziono towar : 00080012 (Sprawdzenie: 00080012)
+Znaleziono towar : F9014006 (Sprawdzenie: F9014006)
+Znaleziono towar : 00130080 (Sprawdzenie: 00130080)
+Znaleziono towar : E8802113 (Sprawdzenie: E8802113)
+Znaleziono towar : 91722111 (Sprawdzenie: 91722111)
+Znaleziono towar : 61152090 (Sprawdzenie: 61152090)
+Znaleziono towar : 80950352 (Sprawdzenie: 80950352)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          39960965
+Nazwa czesci w systemie Hofsoft: ................                              Zawór zwrotny paliwa
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             26.34
+Numer producenta: ...............................                                  PIE 7.20235.02.0
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080011
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   8- 12mm
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              0.97
+Numer producenta: ...............................                                       NOR 101-012
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080012
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   8- 16mm
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              1.38
+Numer producenta: ...............................                                       NOR 100-16W
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          F9014006
+Nazwa czesci w systemie Hofsoft: ................                        Czujnik temp.p³ynu ch³odz.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             32.95
+Numer producenta: ...............................                                         FAE 33695
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00130080
+Nazwa czesci w systemie Hofsoft: ................                            Przewód paliwowy   8mm
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              4.73
+Numer producenta: ...............................                                   GAT2 3225-00053
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          E8802113
+Nazwa czesci w systemie Hofsoft: ................                    Czujnik pozycji wa³ka rozrz¹du
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             70.28
+Numer producenta: ...............................                                        ERA 550220
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91722111
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             54.06
+Numer producenta: ...............................                                BOS3 0 450 906 508
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61152090
+Nazwa czesci w systemie Hofsoft: ................                    Simering 80x130x5 pompy wtrysk
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             57.57
+Numer producenta: ...............................                                      ELR1 527.410
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80950352
+Nazwa czesci w systemie Hofsoft: ................                    Akum. 72Ah/680A S4          L-
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            227.13
+Numer producenta: ...............................                                       BOS1 S4 007
+
+
+
+************************************************************
+************************************************************

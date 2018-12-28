@@ -1,0 +1,28 @@
+Znaleziono towar : 50020329 (Sprawdzenie: 50020329)
+Znaleziono towar : 00080142 (Sprawdzenie: 00080142)
+Znaleziono towar : 00080061 (Sprawdzenie: 00080061)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50020329
+Nazwa czesci w systemie Hofsoft: ................                     Olej przek³adniowy 75W90 GL4+
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                             22.64
+Numer producenta: ...............................                           CAS 75W90 SYN.TRANSAXLE
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080142
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  80-100mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.76
+Numer producenta: ...............................                                       NOR 101-100
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080061
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  20- 32mm
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                              1.07
+Numer producenta: ...............................                                       NOR 101-032
+
+
+
+************************************************************
+************************************************************

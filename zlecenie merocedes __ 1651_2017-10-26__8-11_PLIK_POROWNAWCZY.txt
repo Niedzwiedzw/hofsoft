@@ -1,0 +1,28 @@
+Znaleziono towar : 66071036 (Sprawdzenie: 66071036)
+Znaleziono towar : 96021010 (Sprawdzenie: 96021010)
+Znaleziono towar : 26071122 (Sprawdzenie: 26071122)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          66071036
+Nazwa czesci w systemie Hofsoft: ................                                  Linka ham.rêczn.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.76
+Numer producenta: ...............................                                      LIN 27.01.45
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96021010
+Nazwa czesci w systemie Hofsoft: ................                    Szczêki hamulcowe 180x42 BS811
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             65.89
+Numer producenta: ...............................                                BOSS 0 986 487 565
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          26071122
+Nazwa czesci w systemie Hofsoft: ................                     Linka ham.rêczn.         lewa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             18.14
+Numer producenta: ...............................                                         PER 76255
+
+
+
+************************************************************
+************************************************************

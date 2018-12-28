@@ -1,0 +1,18 @@
+Znaleziono towar : 90060020 (Sprawdzenie: 90060020)
+Znaleziono towar : 01610199 (Sprawdzenie: 01610199)
+Znaleziono towar : 80950529 (Sprawdzenie: 80950529)
+Znaleziono towar : 01660370 (Sprawdzenie: 01660370)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90060020
+Nazwa czesci w systemie Hofsoft: ................                        P³yn hamulcowy DOT 4 BF034
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.89
+Numer producenta: ...............................                            BOSE 1 987 479 107/002
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01610199
+Nazwa czesci w systemie Hofsoft: ................                             Zestaw sprzêg³a z DKZ
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                          1,518.40
+Numer producenta: ...............................                                  LUK1 600 0146 00
+

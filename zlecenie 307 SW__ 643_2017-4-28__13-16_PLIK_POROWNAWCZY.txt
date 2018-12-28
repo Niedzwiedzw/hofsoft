@@ -1,0 +1,36 @@
+Znaleziono towar : 96010020 (Sprawdzenie: 96010020)
+Znaleziono towar : 96005720 (Sprawdzenie: 96005720)
+Znaleziono towar : 41736001 (Sprawdzenie: 41736001)
+Znaleziono towar : 96046000 (Sprawdzenie: 96046000)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96010020
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP689
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             52.93
+Numer producenta: ...............................                         BOSK 0 986 494 597/466683
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96005720
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP375
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             88.53
+Numer producenta: ...............................                            BOSK 0 986 494 602/038
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41736001
+Nazwa czesci w systemie Hofsoft: ................                             Filtr wlotu powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             31.69
+Numer producenta: ...............................                                     FIL 1093A   K
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96046000
+Nazwa czesci w systemie Hofsoft: ................                            Tarcza hamulcowa BD876
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             93.65
+Numer producenta: ...............................                                BOS2 0 986 478 979
+
+
+
+************************************************************
+************************************************************

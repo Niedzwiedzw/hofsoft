@@ -1,0 +1,28 @@
+Znaleziono towar : K4001690 (Sprawdzenie: K4001690)
+Znaleziono towar : N8251765 (Sprawdzenie: N8251765)
+Znaleziono towar : 56031560 (Sprawdzenie: 56031560)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4001690
+Nazwa czesci w systemie Hofsoft: ................                           Amortyzator przedni (G)
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             48.25
+Numer producenta: ...............................                                      KRAM 4001690
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251765
+Nazwa czesci w systemie Hofsoft: ................                      Opr. ¿arówki 5W bezc.hermet.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.01
+Numer producenta: ...............................                                           NAG 428
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56031560
+Nazwa czesci w systemie Hofsoft: ................                    Cylinderek ham.        "17,46"
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.60
+Numer producenta: ...............................                                      KRA6 6031560
+
+
+
+************************************************************
+************************************************************

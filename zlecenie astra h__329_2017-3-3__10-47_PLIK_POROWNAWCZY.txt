@@ -1,0 +1,44 @@
+Znaleziono towar : 41711577 (Sprawdzenie: 41711577)
+Znaleziono towar : 91731508 (Sprawdzenie: 91731508)
+Znaleziono towar : 91723002 (Sprawdzenie: 91723002)
+Znaleziono towar : 48121502 (Sprawdzenie: 48121502)
+Znaleziono towar : 91703300 (Sprawdzenie: 91703300)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41711577
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.13
+Numer producenta: ...............................                                     FIL 051/4  AP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91731508
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2040
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.14
+Numer producenta: ...............................                                BOS3 1 987 432 040
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91723002
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N0001
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             42.32
+Numer producenta: ...............................                                BOS3 1 457 070 001
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48121502
+Nazwa czesci w systemie Hofsoft: ................                    Zestaw monta¿owy os³ony silni.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.40
+Numer producenta: ...............................                                         ROM 90201
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91703300
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9256
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.91
+Numer producenta: ...............................                                BOS3 1 457 429 256
+
+
+
+************************************************************
+************************************************************

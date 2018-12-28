@@ -1,0 +1,28 @@
+Znaleziono towar : N8251003 (Sprawdzenie: N8251003)
+Znaleziono towar : 59113022 (Sprawdzenie: 59113022)
+Znaleziono towar : 48856814 (Sprawdzenie: 48856814)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251003
+Nazwa czesci w systemie Hofsoft: ................                      Z³¹cze 2-styk. z uszczelkami
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.62
+Numer producenta: ...............................                                     NAG 123 /123T
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          59113022
+Nazwa czesci w systemie Hofsoft: ................                                      Sonda Lambda
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            220.95
+Numer producenta: ...............................                         NGK3 UAA0002-FA002  96636
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48856814
+Nazwa czesci w systemie Hofsoft: ................                               Konwerter ciœnienia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            215.72
+Numer producenta: ...............................                         PIE 7.02256.03.0        6
+
+
+
+************************************************************
+************************************************************

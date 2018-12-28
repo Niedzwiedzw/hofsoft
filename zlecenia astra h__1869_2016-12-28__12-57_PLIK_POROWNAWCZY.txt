@@ -1,0 +1,28 @@
+Znaleziono towar : 91181625 (Sprawdzenie: 91181625)
+Znaleziono towar : K1221645 (Sprawdzenie: K1221645)
+Znaleziono towar : 91701582 (Sprawdzenie: 91701582)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91181625
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z napinaczem
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            183.87
+Numer producenta: ...............................                                BOS4 1 987 948 198
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K1221645
+Nazwa czesci w systemie Hofsoft: ................                     Rolka napinacza paska micro-V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             34.26
+Numer producenta: ...............................                                      KRA2 1221645
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701582
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9199
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.66
+Numer producenta: ...............................                                BOS3 1 457 429 199
+
+
+
+************************************************************
+************************************************************

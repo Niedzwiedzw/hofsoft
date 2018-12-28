@@ -1,0 +1,52 @@
+Znaleziono towar : 01166659 (Sprawdzenie: 01166659)
+Znaleziono towar : 91181800 (Sprawdzenie: 91181800)
+Znaleziono towar : 91701525 (Sprawdzenie: 91701525)
+Znaleziono towar : 41711570 (Sprawdzenie: 41711570)
+Znaleziono towar : 91723010 (Sprawdzenie: 91723010)
+Znaleziono towar : K1321650 (Sprawdzenie: K1321650)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01166659
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6x1803
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             38.02
+Numer producenta: ...............................                                       GAT 6PK1803
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91181800
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            157.43
+Numer producenta: ...............................                                BOS4 1 987 948 733
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701525
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P3370
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.18
+Numer producenta: ...............................                                BOS3 0 451 103 370
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41711570
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.99
+Numer producenta: ...............................                                     FIL 050    AP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91723010
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa GH002
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.38
+Numer producenta: ...............................                                BOS3 0 450 905 002
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K1321650
+Nazwa czesci w systemie Hofsoft: ................                               Ko³o wa³u korbowego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             42.45
+Numer producenta: ...............................                                      KRA7 1321650
+
+
+
+************************************************************
+************************************************************

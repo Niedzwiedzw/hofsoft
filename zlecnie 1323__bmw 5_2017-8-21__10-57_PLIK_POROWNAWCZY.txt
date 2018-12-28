@@ -1,0 +1,28 @@
+Znaleziono towar : K1712614 (Sprawdzenie: K1712614)
+Znaleziono towar : K4102592 (Sprawdzenie: K4102592)
+Znaleziono towar : 96002583 (Sprawdzenie: 96002583)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K1712614
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             81.00
+Numer producenta: ...............................                                      KRA3 1712614
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4102592
+Nazwa czesci w systemie Hofsoft: ................                           £o¿ysko ko³a przedniego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            156.56
+Numer producenta: ...............................                                      KRAN 4102592
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96002583
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1351
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            215.24
+Numer producenta: ...............................                                BOSK 0 986 494 429
+
+
+
+************************************************************
+************************************************************

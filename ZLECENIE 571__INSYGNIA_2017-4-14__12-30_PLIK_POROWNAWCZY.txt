@@ -1,0 +1,28 @@
+Znaleziono towar : 91701515 (Sprawdzenie: 91701515)
+Znaleziono towar : 96001672 (Sprawdzenie: 96001672)
+Znaleziono towar : 91731545 (Sprawdzenie: 91731545)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701515
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7095
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             35.67
+Numer producenta: ...............................                                BOS3 F 026 407 095
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96001672
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1187
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            120.62
+Numer producenta: ...............................                                BOSK 0 986 494 609
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91731545
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy R2304
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             46.10
+Numer producenta: ...............................                                BOS3 1 987 432 304
+
+
+
+************************************************************
+************************************************************

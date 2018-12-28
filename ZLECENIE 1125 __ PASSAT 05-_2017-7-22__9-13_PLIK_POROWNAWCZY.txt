@@ -1,0 +1,28 @@
+Znaleziono towar : 84230261 (Sprawdzenie: 84230261)
+Znaleziono towar : 84300215 (Sprawdzenie: 84300215)
+Znaleziono towar : 84300675 (Sprawdzenie: 84300675)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84230261
+Nazwa czesci w systemie Hofsoft: ................                     Silentblok wahacza przedniego
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             55.53
+Numer producenta: ...............................                                    TRW VO-SB-5010
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84300215
+Nazwa czesci w systemie Hofsoft: ................                    £¹cznik stabilizatora L/P prz.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             25.26
+Numer producenta: ...............................                                    TRW VO-LS-1870
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84300675
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             20.54
+Numer producenta: ...............................                                    TRW VO-LS-1087
+
+
+
+************************************************************
+************************************************************

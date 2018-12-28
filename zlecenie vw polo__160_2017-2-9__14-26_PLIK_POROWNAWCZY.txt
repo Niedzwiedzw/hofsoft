@@ -1,0 +1,76 @@
+Znaleziono towar : 91706550 (Sprawdzenie: 91706550)
+Znaleziono towar : 61130064 (Sprawdzenie: 61130064)
+Znaleziono towar : 61130066 (Sprawdzenie: 61130066)
+Znaleziono towar : 00080011 (Sprawdzenie: 00080011)
+Znaleziono towar : 91817011 (Sprawdzenie: 91817011)
+Znaleziono towar : 90900025 (Sprawdzenie: 90900025)
+Znaleziono towar : 10942296 (Sprawdzenie: 10942296)
+Znaleziono towar : 51150020 (Sprawdzenie: 51150020)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91706550
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9194
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.45
+Numer producenta: ...............................                                BOS3 1 457 429 194
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61130064
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora ss¹cego
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                              6.56
+Numer producenta: ...............................                                       ELR 538.050
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61130066
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora wydech.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.04
+Numer producenta: ...............................                                       ELR 542.420
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080011
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   8- 12mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              0.97
+Numer producenta: ...............................                                       NOR 101-012
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91817011
+Nazwa czesci w systemie Hofsoft: ................                          Oring wtryskiwacza benz.
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                              4.46
+Numer producenta: ...............................                                 BOS 1 280 210 752
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90900025
+Nazwa czesci w systemie Hofsoft: ................                    +51 FR7HC+        Œwieca zap³.
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                              8.43
+Numer producenta: ...............................                              BOSB S 51 0242236565
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10942296
+Nazwa czesci w systemie Hofsoft: ................                       Pasta monterska do t³umików
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.78
+Numer producenta: ...............................                             BSL 258503 / 258004/3
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          51150020
+Nazwa czesci w systemie Hofsoft: ................                     Simering 85x105x8 tylny siln.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.90
+Numer producenta: ...............................                                    SWA 30 90 1090
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+
+************************************************************
+************************************************************

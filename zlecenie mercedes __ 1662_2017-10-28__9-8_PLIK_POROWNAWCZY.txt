@@ -1,0 +1,60 @@
+Znaleziono towar : 91701150 (Sprawdzenie: 91701150)
+Znaleziono towar : 91711260 (Sprawdzenie: 91711260)
+Znaleziono towar : 61741023 (Sprawdzenie: 61741023)
+Znaleziono towar : 91721010 (Sprawdzenie: 91721010)
+Znaleziono towar : 61741050 (Sprawdzenie: 61741050)
+Znaleziono towar : 91731000 (Sprawdzenie: 91731000)
+Znaleziono towar : 20030100 (Sprawdzenie: 20030100)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701150
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9278
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.05
+Numer producenta: ...............................                                BOS3 1 457 429 278
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91711260
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3699
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.05
+Numer producenta: ...............................                                BOS3 1 457 433 699
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61741023
+Nazwa czesci w systemie Hofsoft: ................                          Filtr aut.skrzyni biegów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.80
+Numer producenta: ...............................                                       MAN H182KIT
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91721010
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N4123
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.91
+Numer producenta: ...............................                                BOS3 1 457 434 123
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61741050
+Nazwa czesci w systemie Hofsoft: ................                          Filtr aut.skrzyni biegów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             57.21
+Numer producenta: ...............................                                        MAN H27001
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91731000
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy M2001
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             27.40
+Numer producenta: ...............................                                BOS3 1 987 432 001
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20030100
+Nazwa czesci w systemie Hofsoft: ................                        Olej przek³adniowy ATF 134
+Ilosc: ..........................................                                                 7
+CENA: ...........................................                                             28.88
+Numer producenta: ...............................                                   SWAE 10 92 9449
+
+
+
+************************************************************
+************************************************************

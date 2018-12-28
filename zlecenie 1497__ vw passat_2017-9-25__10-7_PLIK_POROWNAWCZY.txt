@@ -1,0 +1,36 @@
+Znaleziono towar : 96050110 (Sprawdzenie: 96050110)
+Znaleziono towar : 96010951 (Sprawdzenie: 96010951)
+Znaleziono towar : 06080431 (Sprawdzenie: 06080431)
+Znaleziono towar : 16036193 (Sprawdzenie: 16036193)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96050110
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD2023
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             56.31
+Numer producenta: ...............................                                BOS2 0 986 479 B22
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96010951
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1295
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             66.14
+Numer producenta: ...............................                            BOSK 0 986 494 600/387
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          06080431
+Nazwa czesci w systemie Hofsoft: ................                       Przewód ham.ty³ Lewy 331126
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             61.65
+Numer producenta: ...............................                                ATE 24.1253-0030.3
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16036193
+Nazwa czesci w systemie Hofsoft: ................                     Reperaturka zac.ham.tyl. "38"
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.19
+Numer producenta: ...............................                                         AFN D4468
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,44 @@
+Znaleziono towar : 61124202 (Sprawdzenie: 61124202)
+Znaleziono towar : K6014250 (Sprawdzenie: K6014250)
+Znaleziono towar : 80905800 (Sprawdzenie: 80905800)
+Znaleziono towar : K6004310 (Sprawdzenie: K6004310)
+Znaleziono towar : 91703610 (Sprawdzenie: 91703610)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61124202
+Nazwa czesci w systemie Hofsoft: ................                           Uszczelka dekla zaworów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.45
+Numer producenta: ...............................                                       ELR 125.950
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6014250
+Nazwa czesci w systemie Hofsoft: ................                    Klocki hamulcowe     21861 ty³
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             35.96
+Numer producenta: ...............................                                      KRAK 6014250
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80905800
+Nazwa czesci w systemie Hofsoft: ................                    +11 FR7DCX+       Œwieca zap³.
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              4.47
+Numer producenta: ...............................                              BOSB S 11 0242235667
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6004310
+Nazwa czesci w systemie Hofsoft: ................                        Klocki hamulcowe     21920
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             43.34
+Numer producenta: ...............................                                      KRAK 6004310
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91703610
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P2041
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.43
+Numer producenta: ...............................                                BOS3 0 986 452 041
+
+
+
+************************************************************
+************************************************************

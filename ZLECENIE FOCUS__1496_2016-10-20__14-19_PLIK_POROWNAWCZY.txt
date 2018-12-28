@@ -1,0 +1,100 @@
+Znaleziono towar : 11182110 (Sprawdzenie: 11182110)
+Znaleziono towar : 14342210 (Sprawdzenie: 14342210)
+Znaleziono towar : K4302320 (Sprawdzenie: K4302320)
+Znaleziono towar : 71152184 (Sprawdzenie: 71152184)
+Znaleziono towar : 54302082 (Sprawdzenie: 54302082)
+Znaleziono towar : 91712231 (Sprawdzenie: 91712231)
+Znaleziono towar : K1502240 (Sprawdzenie: K1502240)
+Znaleziono towar : 91722102 (Sprawdzenie: 91722102)
+Znaleziono towar : 91702059 (Sprawdzenie: 91702059)
+Znaleziono towar : 91732040 (Sprawdzenie: 91732040)
+Znaleziono towar : Z1122130 (Sprawdzenie: Z1122130)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11182110
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z napinaczem
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             94.60
+Numer producenta: ...............................                                    GAT4 K025433XS
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          14342210
+Nazwa czesci w systemie Hofsoft: ................                             Os³ona maglownicy L/P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.39
+Numer producenta: ...............................                              HPR 301 892 /6182818
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4302320
+Nazwa czesci w systemie Hofsoft: ................                                      Dr¹¿ek kier.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             21.88
+Numer producenta: ...............................                                      KRA4 4302320
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          71152184
+Nazwa czesci w systemie Hofsoft: ................                    Simering 34x47x5.5 wa³ rozrz¹d
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.69
+Numer producenta: ...............................                                      ELR1 331.530
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54302082
+Nazwa czesci w systemie Hofsoft: ................                     £¹cznik stabilizatora tylnego
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             19.00
+Numer producenta: ...............................                                          SID 3265
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91712231
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.78
+Numer producenta: ...............................                                BOS3 1 457 433 686
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K1502240
+Nazwa czesci w systemie Hofsoft: ................                           Pompa uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             51.24
+Numer producenta: ...............................                                      KRA1 1502240
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91722102
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             27.85
+Numer producenta: ...............................                                BOS3 0 450 905 939
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91702059
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.09
+Numer producenta: ...............................                                BOS3 F 026 407 078
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91732040
+Nazwa czesci w systemie Hofsoft: ................                    Filtr wlotu powiet. A575/M2045
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.08
+Numer producenta: ...............................                                BOS3 1 987 432 045
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          Z1122130
+Nazwa czesci w systemie Hofsoft: ................                           Uszczelka dekla zaworów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.71
+Numer producenta: ...............................                             MTO 71-33846-00 (REI)
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             29.95
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+
+************************************************************
+************************************************************

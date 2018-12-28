@@ -1,0 +1,20 @@
+Znaleziono towar : 54225054 (Sprawdzenie: 54225054)
+Znaleziono towar : 84305024 (Sprawdzenie: 84305024)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54225054
+Nazwa czesci w systemie Hofsoft: ................                         Sworzeñ wahacza L/P Ý18mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             19.74
+Numer producenta: ...............................                                          SID 5288
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84305024
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             26.71
+Numer producenta: ...............................                                    TRW RE-LS-2088
+
+
+
+************************************************************
+************************************************************

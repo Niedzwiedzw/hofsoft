@@ -1,0 +1,76 @@
+Znaleziono towar : 11491206 (Sprawdzenie: 11491206)
+Znaleziono towar : 29801415 (Sprawdzenie: 29801415)
+Znaleziono towar : 96051480 (Sprawdzenie: 96051480)
+Znaleziono towar : 90803500 (Sprawdzenie: 90803500)
+Znaleziono towar : 96011099 (Sprawdzenie: 96011099)
+Znaleziono towar : 11151018 (Sprawdzenie: 11151018)
+Znaleziono towar : 16101140 (Sprawdzenie: 16101140)
+Znaleziono towar : 20020297 (Sprawdzenie: 20020297)
+Znaleziono towar : 89101030 (Sprawdzenie: 89101030)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11491206
+Nazwa czesci w systemie Hofsoft: ................                            Poduszka silnika tylna
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            107.50
+Numer producenta: ...............................                                     COR4 80001463
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          29801415
+Nazwa czesci w systemie Hofsoft: ................                         PrzekaŸnik œwiec ¿arowych
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            299.06
+Numer producenta: ...............................                                    SWA 10 93 0905
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96051480
+Nazwa czesci w systemie Hofsoft: ................                            Tarcza hamulcowa BD976
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             97.63
+Numer producenta: ...............................                                BOS2 0 986 479 138
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90803500
+Nazwa czesci w systemie Hofsoft: ................                     ¯arówka P 21/5W 12V PureLight
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.56
+Numer producenta: ...............................                                BOS8 1 987 302 202
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96011099
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP992
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             97.90
+Numer producenta: ...............................                            BOSK 0 986 494 603/082
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11151018
+Nazwa czesci w systemie Hofsoft: ................                    Simering 40x70x11/18 wa³ atak.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.76
+Numer producenta: ...............................                                     COR 33403 010
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16101140
+Nazwa czesci w systemie Hofsoft: ................                    Zestaw naprawczy szczêk hamul.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.34
+Numer producenta: ...............................                               QBR 0622 / 105-0622
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20020297
+Nazwa czesci w systemie Hofsoft: ................                     Olej przek³adniowy 75W80W GL5
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             32.77
+Numer producenta: ...............................                                   SWAE 30 94 0580
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          89101030
+Nazwa czesci w systemie Hofsoft: ................                              Œwieca ¿arowa GLP008
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             26.67
+Numer producenta: ...............................                                BOSC 0 250 202 142
+
+
+
+************************************************************
+************************************************************

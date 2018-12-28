@@ -1,0 +1,44 @@
+Znaleziono towar : 10068510 (Sprawdzenie: 10068510)
+Znaleziono towar : 91325202 (Sprawdzenie: 91325202)
+Znaleziono towar : 20061004 (Sprawdzenie: 20061004)
+Znaleziono towar : 91185186 (Sprawdzenie: 91185186)
+Znaleziono towar : 91166450 (Sprawdzenie: 91166450)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10068510
+Nazwa czesci w systemie Hofsoft: ................                             Woda demineralizowana
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.30
+Numer producenta: ...............................                          PLK WODA DEMINERALIZOWAN
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91325202
+Nazwa czesci w systemie Hofsoft: ................                               Ko³o wa³ka rozrz¹du
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            250.00
+Numer producenta: ...............................                                    REN 7701478505
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20061004
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             23.17
+Numer producenta: ...............................                                   SWAE 99 90 2374
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91185186
+Nazwa czesci w systemie Hofsoft: ................                          Pasek rozrz.z pomp¹ wody
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            367.39
+Numer producenta: ...............................                           BOS4 1 987 946 918/8766
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91166450
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6X1200
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.43
+Numer producenta: ...............................                                BOS4 1 987 948 435
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,36 @@
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : 90805515 (Sprawdzenie: 90805515)
+Znaleziono towar : 51550001 (Sprawdzenie: 51550001)
+Znaleziono towar : 80700654 (Sprawdzenie: 80700654)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             29.95
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90805515
+Nazwa czesci w systemie Hofsoft: ................                     ¯arówka H7 55W 12V Xenon Blue
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             16.66
+Numer producenta: ...............................                                BOS8 1 987 302 075
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          51550001
+Nazwa czesci w systemie Hofsoft: ................                                         Ch³odnica
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            212.35
+Numer producenta: ...............................                               BEH 8MK 376 700-494
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80700654
+Nazwa czesci w systemie Hofsoft: ................                    AP600U Pióro wycier.600     AE
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             36.92
+Numer producenta: ...............................                                BOS5 3 397 006 951
+
+
+
+************************************************************
+************************************************************

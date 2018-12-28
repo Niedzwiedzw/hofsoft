@@ -1,0 +1,28 @@
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : K0061009 (Sprawdzenie: K0061009)
+Znaleziono towar : 21502242 (Sprawdzenie: 21502242)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P造n do uk豉du ch這dzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE PΧN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061009
+Nazwa czesci w systemie Hofsoft: ................                         P造n do uk豉du ch這dzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.04
+Numer producenta: ...............................                             KRAE PΧN G12/G12+ 1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21502242
+Nazwa czesci w systemie Hofsoft: ................                           Pompa uk豉du ch這dzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            128.35
+Numer producenta: ...............................                                   SKF2 84416 VKPC
+
+
+
+************************************************************
+************************************************************

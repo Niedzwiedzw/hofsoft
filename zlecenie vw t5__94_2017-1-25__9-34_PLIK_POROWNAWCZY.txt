@@ -1,0 +1,92 @@
+Znaleziono towar : 20520119 (Sprawdzenie: 20520119)
+Znaleziono towar : 61130404 (Sprawdzenie: 61130404)
+Znaleziono towar : 61130201 (Sprawdzenie: 61130201)
+Znaleziono towar : 54100860 (Sprawdzenie: 54100860)
+Znaleziono towar : 20550030 (Sprawdzenie: 20550030)
+Znaleziono towar : 99500025 (Sprawdzenie: 99500025)
+Znaleziono towar : 96000193 (Sprawdzenie: 96000193)
+Znaleziono towar : 24230027 (Sprawdzenie: 24230027)
+Znaleziono towar : 04300679 (Sprawdzenie: 04300679)
+Znaleziono towar : 61720690 (Sprawdzenie: 61720690)
+Znaleziono towar : 50030112 (Sprawdzenie: 50030112)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20520119
+Nazwa czesci w systemie Hofsoft: ................                           Uszczelka kolektor/rura
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.96
+Numer producenta: ...............................                                       FIS 110-969
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61130404
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora wydech.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.34
+Numer producenta: ...............................                                       ELR 522.450
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61130201
+Nazwa czesci w systemie Hofsoft: ................                          Uszczelka turbosprê¿arki
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.53
+Numer producenta: ...............................                                       ELR 150.970
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54100860
+Nazwa czesci w systemie Hofsoft: ................                      £o¿ysko ko³a przed.i tylnego
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                            226.17
+Numer producenta: ...............................                                   FAG 713 6107 60
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20550030
+Nazwa czesci w systemie Hofsoft: ................                                            Obejma
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.73
+Numer producenta: ...............................                                       FIS 969-875
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          99500025
+Nazwa czesci w systemie Hofsoft: ................                              Rozrusznik 12V 2,2kW
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            353.80
+Numer producenta: ...............................                                BOSA 0 001 125 605
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96000193
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1017
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            130.81
+Numer producenta: ...............................                                BOSK 0 986 494 107
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24230027
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             11.09
+Numer producenta: ...............................                                    SWA 30 93 1346
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04300679
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             69.08
+Numer producenta: ...............................                           LEM 3096701 /7H5411317A
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61720690
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             72.28
+Numer producenta: ...............................                                        MAN WK8020
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50030112
+Nazwa czesci w systemie Hofsoft: ................                     Olej przek³adn.ATF DEXRON IID
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             15.15
+Numer producenta: ...............................                          CAS ATF Dex II Multivehi
+
+
+
+************************************************************
+************************************************************

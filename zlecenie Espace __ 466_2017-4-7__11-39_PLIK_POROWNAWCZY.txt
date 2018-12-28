@@ -1,0 +1,36 @@
+Znaleziono towar : 10942296 (Sprawdzenie: 10942296)
+Znaleziono towar : 91715300 (Sprawdzenie: 91715300)
+Znaleziono towar : 20558510 (Sprawdzenie: 20558510)
+Znaleziono towar : 20526300 (Sprawdzenie: 20526300)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10942296
+Nazwa czesci w systemie Hofsoft: ................                       Pasta monterska do t³umików
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.01
+Numer producenta: ...............................                             BSL 258503 / 258004/3
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91715300
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S3577
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.91
+Numer producenta: ...............................                                BOS3 1 457 433 577
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20558510
+Nazwa czesci w systemie Hofsoft: ................                                      Obejma Ý66mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              2.94
+Numer producenta: ...............................                                 FIS 931-966/10050
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20526300
+Nazwa czesci w systemie Hofsoft: ................                               Uszczelka kolektora
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.09
+Numer producenta: ...............................                                       FIS 550-926
+
+
+
+************************************************************
+************************************************************

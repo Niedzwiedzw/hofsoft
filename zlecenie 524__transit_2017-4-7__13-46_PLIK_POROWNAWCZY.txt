@@ -1,0 +1,36 @@
+Znaleziono towar : 11782150 (Sprawdzenie: 11782150)
+Znaleziono towar : 80950870 (Sprawdzenie: 80950870)
+Znaleziono towar : 41712340 (Sprawdzenie: 41712340)
+Znaleziono towar : 91702400 (Sprawdzenie: 91702400)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11782150
+Nazwa czesci w systemie Hofsoft: ................                     Œruba spustu oleju M14x1.5x11
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              3.62
+Numer producenta: ...............................                              HPR 301 761 /1013938
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80950870
+Nazwa czesci w systemie Hofsoft: ................                    Akum. 85Ah/800A S5          L-
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            317.85
+Numer producenta: ...............................                                       BOS1 S5 010
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41712340
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             17.13
+Numer producenta: ...............................                                     FIL 023/3  AP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91702400
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9239
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.35
+Numer producenta: ...............................                                BOS3 1 457 429 239
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,36 @@
+Znaleziono towar : 56033150 (Sprawdzenie: 56033150)
+Znaleziono towar : 74083008 (Sprawdzenie: 74083008)
+Znaleziono towar : 74093008 (Sprawdzenie: 74093008)
+Znaleziono towar : K6063000 (Sprawdzenie: K6063000)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56033150
+Nazwa czesci w systemie Hofsoft: ................                    Cylinderek ham.        "20,64"
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.60
+Numer producenta: ...............................                                      KRA6 6033150
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74083008
+Nazwa czesci w systemie Hofsoft: ................                     Os³ona amort.przed.z odb. x 2
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             36.07
+Numer producenta: ...............................                                       KYB2 910014
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74093008
+Nazwa czesci w systemie Hofsoft: ................                      Mocowanie amortyzatora przód
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             52.55
+Numer producenta: ...............................                                       KYB2 SM1810
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6063000
+Nazwa czesci w systemie Hofsoft: ................                            Bêben hamulcowy 180x41
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             30.07
+Numer producenta: ...............................                                      KRA5 6063000
+
+
+
+************************************************************
+************************************************************

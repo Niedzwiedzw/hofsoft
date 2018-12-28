@@ -1,0 +1,44 @@
+Znaleziono towar : 91704850 (Sprawdzenie: 91704850)
+Znaleziono towar : 04100420 (Sprawdzenie: 04100420)
+Znaleziono towar : 91730301 (Sprawdzenie: 91730301)
+Znaleziono towar : 91710410 (Sprawdzenie: 91710410)
+Znaleziono towar : 81726550 (Sprawdzenie: 81726550)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91704850
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9192
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.74
+Numer producenta: ...............................                                BOS3 1 457 429 192
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04100420
+Nazwa czesci w systemie Hofsoft: ................                              £o¿ysko ko³a tylnego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            137.86
+Numer producenta: ...............................                                     SKF 3644 VKBA
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91730301
+Nazwa czesci w systemie Hofsoft: ................                              Filtr kabinowy R2397
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.30
+Numer producenta: ...............................                                BOS3 1 987 432 397
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91710410
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S9404
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.09
+Numer producenta: ...............................                                BOS3 1 987 429 404
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          81726550
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N0008
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             46.10
+Numer producenta: ...............................                                BOS3 1 457 070 008
+
+
+
+************************************************************
+************************************************************

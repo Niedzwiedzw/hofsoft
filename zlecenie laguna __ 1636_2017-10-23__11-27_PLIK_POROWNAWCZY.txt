@@ -1,0 +1,20 @@
+Znaleziono towar : 21814012 (Sprawdzenie: 21814012)
+Znaleziono towar : G1845020 (Sprawdzenie: G1845020)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21814012
+Nazwa czesci w systemie Hofsoft: ................                         Podk³adka pod wtryskiwacz
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              2.57
+Numer producenta: ...............................                                    SWA 60 93 0253
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          G1845020
+Nazwa czesci w systemie Hofsoft: ................                                    Przep³ywomierz
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            323.15
+Numer producenta: ...............................                          ERA 558097A   /  MF097HQ
+
+
+
+************************************************************
+************************************************************

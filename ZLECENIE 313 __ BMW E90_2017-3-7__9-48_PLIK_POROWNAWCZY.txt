@@ -1,0 +1,28 @@
+Znaleziono towar : K0061009 (Sprawdzenie: K0061009)
+Znaleziono towar : 91722507 (Sprawdzenie: 91722507)
+Znaleziono towar : K0061001 (Sprawdzenie: K0061001)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061009
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.04
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91722507
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N2106
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             72.20
+Numer producenta: ...............................                                BOS3 F 026 402 106
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061001
+Nazwa czesci w systemie Hofsoft: ................                     Koncentrat do uk³. ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.86
+Numer producenta: ...............................                         KRAE KONC DO CH£O G12+ 1L
+
+
+
+************************************************************
+************************************************************

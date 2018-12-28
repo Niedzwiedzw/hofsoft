@@ -1,0 +1,36 @@
+Znaleziono towar : 84230504 (Sprawdzenie: 84230504)
+Znaleziono towar : 24310650 (Sprawdzenie: 24310650)
+Znaleziono towar : 24310660 (Sprawdzenie: 24310660)
+Znaleziono towar : 24230505 (Sprawdzenie: 24230505)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84230504
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              5.76
+Numer producenta: ...............................                                    TRW VO-SB-6815
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24310650
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. L
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.93
+Numer producenta: ...............................                                    SWA 50 71 0029
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24310660
+Nazwa czesci w systemie Hofsoft: ................                           Koñcówka dr¹¿ka kier. P
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.93
+Numer producenta: ...............................                                    SWA 50 71 0028
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24230505
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              5.83
+Numer producenta: ...............................                                    SWA 30 92 7330
+
+
+
+************************************************************
+************************************************************

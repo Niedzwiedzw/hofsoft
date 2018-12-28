@@ -1,0 +1,60 @@
+Znaleziono towar : 74230185 (Sprawdzenie: 74230185)
+Znaleziono towar : K6020010 (Sprawdzenie: K6020010)
+Znaleziono towar : 04230250 (Sprawdzenie: 04230250)
+Znaleziono towar : 94230180 (Sprawdzenie: 94230180)
+Znaleziono towar : 56030010 (Sprawdzenie: 56030010)
+Znaleziono towar : 54100010 (Sprawdzenie: 54100010)
+Znaleziono towar : 84220090 (Sprawdzenie: 84220090)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74230185
+Nazwa czesci w systemie Hofsoft: ................                      Tulejka sile.wah. przedniego
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              0.72
+Numer producenta: ...............................                                    SWA 99 90 3544
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6020010
+Nazwa czesci w systemie Hofsoft: ................                          Szczêki hamulcowe 180x31
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.31
+Numer producenta: ...............................                                      KRAS 6020010
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          04230250
+Nazwa czesci w systemie Hofsoft: ................                    Silentblok wahacza przed.przed
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              7.09
+Numer producenta: ...............................                            LEM 1020302 /357407182
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          94230180
+Nazwa czesci w systemie Hofsoft: ................                    Silentblok wahacza przed.tyln.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              7.70
+Numer producenta: ...............................                                    SWA 30 69 0003
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56030010
+Nazwa czesci w systemie Hofsoft: ................                    Cylinderek ham.        "14,29"
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              9.04
+Numer producenta: ...............................                                      KRA6 6030010
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54100010
+Nazwa czesci w systemie Hofsoft: ................                              £o¿ysko ko³a tylnego
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.46
+Numer producenta: ...............................                                   FAG 713 6102 30
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84220090
+Nazwa czesci w systemie Hofsoft: ................                         Sworzeñ wahacza L/P Ý19mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             14.18
+Numer producenta: ...............................                                    TRW VO-BJ-7154
+
+
+
+************************************************************
+************************************************************

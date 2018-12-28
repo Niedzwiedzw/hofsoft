@@ -1,0 +1,28 @@
+Znaleziono towar : 01612279 (Sprawdzenie: 01612279)
+Znaleziono towar : E9032015 (Sprawdzenie: E9032015)
+Znaleziono towar : 11612022 (Sprawdzenie: 11612022)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01612279
+Nazwa czesci w systemie Hofsoft: ................                                   Zestaw sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            679.97
+Numer producenta: ...............................                                   LUK 624 3378 34
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          E9032015
+Nazwa czesci w systemie Hofsoft: ................                            W³¹cznik œwiate³ stopu
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             26.30
+Numer producenta: ...............................                                        ERA 330549
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11612022
+Nazwa czesci w systemie Hofsoft: ................                          Ko³o zamachowe dwumasowe
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            655.13
+Numer producenta: ...............................                                 SAC3 2294 000 660
+
+
+
+************************************************************
+************************************************************

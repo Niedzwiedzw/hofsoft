@@ -1,0 +1,28 @@
+Znaleziono towar : D1166618 (Sprawdzenie: D1166618)
+Znaleziono towar : 91701582 (Sprawdzenie: 91701582)
+Znaleziono towar : 99801507 (Sprawdzenie: 99801507)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          D1166618
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 6x1633
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.81
+Numer producenta: ...............................                                      DRB1 6PK1633
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701582
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9199
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.55
+Numer producenta: ...............................                                BOS3 1 457 429 199
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          99801507
+Nazwa czesci w systemie Hofsoft: ................                         PrzekaŸnik œwiec ¿arowych
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            183.83
+Numer producenta: ...............................                                       OPE 6235303
+
+
+
+************************************************************
+************************************************************

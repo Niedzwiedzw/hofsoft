@@ -1,0 +1,36 @@
+Znaleziono towar : 41735040 (Sprawdzenie: 41735040)
+Znaleziono towar : D1164480 (Sprawdzenie: D1164480)
+Znaleziono towar : 56005091 (Sprawdzenie: 56005091)
+Znaleziono towar : 91163070 (Sprawdzenie: 91163070)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41735040
+Nazwa czesci w systemie Hofsoft: ................                             Filtr wlotu powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             24.87
+Numer producenta: ...............................                                      FIL 1051   K
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          D1164480
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 4x1263
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.21
+Numer producenta: ...............................                                      DRB1 4PK1263
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56005091
+Nazwa czesci w systemie Hofsoft: ................                        Klocki hamulcowe     23172
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             72.28
+Numer producenta: ...............................                                       REM 0208 00
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91163070
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 3x 715
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.33
+Numer producenta: ...............................                                BOS4 1 987 947 844
+
+
+
+************************************************************
+************************************************************

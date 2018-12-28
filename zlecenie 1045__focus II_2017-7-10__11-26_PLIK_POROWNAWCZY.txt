@@ -1,0 +1,28 @@
+Znaleziono towar : K6046430 (Sprawdzenie: K6046430)
+Znaleziono towar : 96002350 (Sprawdzenie: 96002350)
+Znaleziono towar : 84232329 (Sprawdzenie: 84232329)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6046430
+Nazwa czesci w systemie Hofsoft: ................                     Tarcza hamulcowa 300x25x48.7w
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             75.29
+Numer producenta: ...............................                                      KRA5 6046430
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96002350
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP935
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            104.57
+Numer producenta: ...............................                                BOSK 0 986 424 794
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84232329
+Nazwa czesci w systemie Hofsoft: ................                     Silentblok wahacza przedniego
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             46.06
+Numer producenta: ...............................                                    TRW VV-SB-3648
+
+
+
+************************************************************
+************************************************************

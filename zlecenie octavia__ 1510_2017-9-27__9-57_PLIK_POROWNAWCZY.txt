@@ -1,0 +1,44 @@
+Znaleziono towar : 16090130 (Sprawdzenie: 16090130)
+Znaleziono towar : 16100130 (Sprawdzenie: 16100130)
+Znaleziono towar : K6066510 (Sprawdzenie: K6066510)
+Znaleziono towar : 56036520 (Sprawdzenie: 56036520)
+Znaleziono towar : K6020100 (Sprawdzenie: K6020100)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16090130
+Nazwa czesci w systemie Hofsoft: ................                    Przewód hamulc.metal. L=650 mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              6.58
+Numer producenta: ...............................                                            WP 018
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16100130
+Nazwa czesci w systemie Hofsoft: ................                    Zestaw naprawczy szczêk hamul.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.43
+Numer producenta: ...............................                               QBR 0726 / 105-0726
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6066510
+Nazwa czesci w systemie Hofsoft: ................                            Bêben hamulcowy 230x39
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             54.73
+Numer producenta: ...............................                                      KRA5 6066510
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          56036520
+Nazwa czesci w systemie Hofsoft: ................                    Cylinderek ham.   ALU  "20,64"
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             21.72
+Numer producenta: ...............................                                      KRA6 6036520
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6020100
+Nazwa czesci w systemie Hofsoft: ................                          Szczêki hamulcowe 230x32
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             43.45
+Numer producenta: ...............................                                      KRAS 6020100
+
+
+
+************************************************************
+************************************************************

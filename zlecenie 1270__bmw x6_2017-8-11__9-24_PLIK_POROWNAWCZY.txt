@@ -1,0 +1,36 @@
+Znaleziono towar : 61722775 (Sprawdzenie: 61722775)
+Znaleziono towar : 61712615 (Sprawdzenie: 61712615)
+Znaleziono towar : 00080011 (Sprawdzenie: 00080011)
+Znaleziono towar : 61732670 (Sprawdzenie: 61732670)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61722775
+Nazwa czesci w systemie Hofsoft: ................                                      Filtr paliwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             80.84
+Numer producenta: ...............................                                       MAN WK5002X
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61712615
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             85.82
+Numer producenta: ...............................                                        MAN C36014
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080011
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   8- 12mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.04
+Numer producenta: ...............................                                       NOR 101-012
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61732670
+Nazwa czesci w systemie Hofsoft: ................                             Filtr wlotu powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            148.64
+Numer producenta: ...............................                                      MAN CU2941-2
+
+
+
+************************************************************
+************************************************************

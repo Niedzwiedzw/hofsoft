@@ -1,0 +1,124 @@
+Znaleziono towar : 91702100 (Sprawdzenie: 91702100)
+Znaleziono towar : 00080071 (Sprawdzenie: 00080071)
+Znaleziono towar : 61125908 (Sprawdzenie: 61125908)
+Znaleziono towar : 21515948 (Sprawdzenie: 21515948)
+Znaleziono towar : 48855550 (Sprawdzenie: 48855550)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : 61473055 (Sprawdzenie: 61473055)
+Znaleziono towar : 90707174 (Sprawdzenie: 90707174)
+Znaleziono towar : 11155645 (Sprawdzenie: 11155645)
+Znaleziono towar : 61135528 (Sprawdzenie: 61135528)
+Znaleziono towar : 61135948 (Sprawdzenie: 61135948)
+Znaleziono towar : 41715945 (Sprawdzenie: 41715945)
+Znaleziono towar : 98855917 (Sprawdzenie: 98855917)
+Znaleziono towar : 90705031 (Sprawdzenie: 90705031)
+Znaleziono towar : 61115514 (Sprawdzenie: 61115514)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91702100
+Nazwa czesci w systemie Hofsoft: ................                                       Filtr oleju
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.82
+Numer producenta: ...............................                                BOS3 1 457 429 249
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080071
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  25- 40mm
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                              1.23
+Numer producenta: ...............................                                       NOR 101-040
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61125908
+Nazwa czesci w systemie Hofsoft: ................                    Komplet uszczelek dekla zawor.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            104.01
+Numer producenta: ...............................                                       ELR 540.540
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21515948
+Nazwa czesci w systemie Hofsoft: ................                                    Termostat 83°C
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            115.89
+Numer producenta: ...............................                                    SWA 62 93 6180
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48855550
+Nazwa czesci w systemie Hofsoft: ................                             Przetwornik ciœnienia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             82.26
+Numer producenta: ...............................                                  PIE 7.01633.04.0
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             29.95
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61473055
+Nazwa czesci w systemie Hofsoft: ................                         Œruba g³owicy M12x1.5x126
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             36.81
+Numer producenta: ...............................                                       ELR 267.550
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90707174
+Nazwa czesci w systemie Hofsoft: ................                    AR20U  Pióro wycier.500     AE
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             20.88
+Numer producenta: ...............................                                BOS5 3 397 008 534
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11155645
+Nazwa czesci w systemie Hofsoft: ................                     Simering 27x47x7 wa³ rozrz¹du
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.72
+Numer producenta: ...............................                                     COR 26123 200
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61135528
+Nazwa czesci w systemie Hofsoft: ................                     Uszczelka kolekt. ss¹c-wydech
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.72
+Numer producenta: ...............................                                       ELR 156.770
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61135948
+Nazwa czesci w systemie Hofsoft: ................                          Zestaw monta¿owy turbiny
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             23.71
+Numer producenta: ...............................                                       ELR 714.640
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          41715945
+Nazwa czesci w systemie Hofsoft: ................                                   Filtr powietrza
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.17
+Numer producenta: ...............................                                     FIL 090/6  AP
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          98855917
+Nazwa czesci w systemie Hofsoft: ................                                         Zawór EGR
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            395.71
+Numer producenta: ...............................                               ORG 71793404/1618GZ
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90705031
+Nazwa czesci w systemie Hofsoft: ................                    AR26U  Pióro wycier.650     AE
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             39.51
+Numer producenta: ...............................                                BOS5 3 397 008 539
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61115514
+Nazwa czesci w systemie Hofsoft: ................                     Uszczelka pod g³owicê 1.4 4k.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             77.68
+Numer producenta: ...............................                          ELR 135.072   /  135.071
+
+
+
+************************************************************
+************************************************************

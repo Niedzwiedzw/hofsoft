@@ -1,0 +1,44 @@
+Znaleziono towar : Y4001530 (Sprawdzenie: Y4001530)
+Znaleziono towar : 84301558 (Sprawdzenie: 84301558)
+Znaleziono towar : 24231810 (Sprawdzenie: 24231810)
+Znaleziono towar : 74081556 (Sprawdzenie: 74081556)
+Znaleziono towar : X4001531 (Sprawdzenie: X4001531)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          Y4001530
+Nazwa czesci w systemie Hofsoft: ................                         Amortyzator przedni P (G)
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            133.84
+Numer producenta: ...............................                                        MON G16327
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84301558
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             21.47
+Numer producenta: ...............................                                    TRW OP-LS-5582
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24231810
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              5.02
+Numer producenta: ...............................                                    SWA 40 61 0016
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74081556
+Nazwa czesci w systemie Hofsoft: ................                     Os³ona amort.przed.z odb. x 2
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             36.07
+Numer producenta: ...............................                                       KYB2 935303
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          X4001531
+Nazwa czesci w systemie Hofsoft: ................                         Amortyzator przedni L (G)
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            133.84
+Numer producenta: ...............................                                        MON G16328
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,28 @@
+Znaleziono towar : 90060120 (Sprawdzenie: 90060120)
+Znaleziono towar : 11660170 (Sprawdzenie: 11660170)
+Znaleziono towar : 11660360 (Sprawdzenie: 11660360)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90060120
+Nazwa czesci w systemie Hofsoft: ................                     P³yn hamulcowy DOT 4 HP BF039
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.36
+Numer producenta: ...............................                            BOSE 1 987 479 112/060
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11660170
+Nazwa czesci w systemie Hofsoft: ................                           Pompa sprzêg³a    19.05
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            135.94
+Numer producenta: ...............................                                  SAC 6284 009 938
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11660360
+Nazwa czesci w systemie Hofsoft: ................                                 Si³ownik sprzêg³a
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            108.00
+Numer producenta: ...............................                                  SAC 6283 000 045
+
+
+
+************************************************************
+************************************************************

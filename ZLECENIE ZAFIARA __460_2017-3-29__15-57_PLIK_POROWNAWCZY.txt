@@ -1,0 +1,28 @@
+Znaleziono towar : 20521540 (Sprawdzenie: 20521540)
+Znaleziono towar : 10942295 (Sprawdzenie: 10942295)
+Znaleziono towar : 20580015 (Sprawdzenie: 20580015)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20521540
+Nazwa czesci w systemie Hofsoft: ................                               Uszczelka kolektora
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              3.68
+Numer producenta: ...............................                                       FIS 120-905
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10942295
+Nazwa czesci w systemie Hofsoft: ................                       Pasta monterska do t³umików
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.73
+Numer producenta: ...............................                                BSL 258502 /258002
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20580015
+Nazwa czesci w systemie Hofsoft: ................                           Z³¹cze elastyczne40x150
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             16.15
+Numer producenta: ...............................                                       ASM1 40X150
+
+
+
+************************************************************
+************************************************************

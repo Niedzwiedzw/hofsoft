@@ -1,0 +1,36 @@
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : 00942020 (Sprawdzenie: 00942020)
+Znaleziono towar : 00080061 (Sprawdzenie: 00080061)
+Znaleziono towar : 80950514 (Sprawdzenie: 80950514)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00942020
+Nazwa czesci w systemie Hofsoft: ................                        Klej do twardych plastików
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              3.83
+Numer producenta: ...............................                                   TEK 327 - 20 ML
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080061
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  20- 32mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.13
+Numer producenta: ...............................                                       NOR 101-032
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80950514
+Nazwa czesci w systemie Hofsoft: ................                    Akum. 54Ah/530A S5          L-
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            202.68
+Numer producenta: ...............................                                       BOS1 S5 002
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,164 @@
+Znaleziono towar : 14231708 (Sprawdzenie: 14231708)
+Znaleziono towar : 54301565 (Sprawdzenie: 54301565)
+Znaleziono towar : 74021510 (Sprawdzenie: 74021510)
+Znaleziono towar : 16106334 (Sprawdzenie: 16106334)
+Znaleziono towar : 54091583 (Sprawdzenie: 54091583)
+Znaleziono towar : 91701620 (Sprawdzenie: 91701620)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+Znaleziono towar : H9001510 (Sprawdzenie: H9001510)
+Znaleziono towar : 96051650 (Sprawdzenie: 96051650)
+Znaleziono towar : 16300046 (Sprawdzenie: 16300046)
+Znaleziono towar : 16090230 (Sprawdzenie: 16090230)
+Znaleziono towar : 21501715 (Sprawdzenie: 21501715)
+Znaleziono towar : 16160040 (Sprawdzenie: 16160040)
+Znaleziono towar : 11121785 (Sprawdzenie: 11121785)
+Znaleziono towar : 96011532 (Sprawdzenie: 96011532)
+Znaleziono towar : 59101540 (Sprawdzenie: 59101540)
+Znaleziono towar : 16093030 (Sprawdzenie: 16093030)
+Znaleziono towar : 16090243 (Sprawdzenie: 16090243)
+Znaleziono towar : 36081612 (Sprawdzenie: 36081612)
+Znaleziono towar : 00080091 (Sprawdzenie: 00080091)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          14231708
+Nazwa czesci w systemie Hofsoft: ................                                Guma stabilizatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              3.62
+Numer producenta: ...............................                              HPR 206 457 /0350148
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54301565
+Nazwa czesci w systemie Hofsoft: ................                         £¹cznik stabilizatora L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             29.24
+Numer producenta: ...............................                                          SID 9863
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          74021510
+Nazwa czesci w systemie Hofsoft: ................                        Sprê¿yna przed.zawieszenia
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             68.53
+Numer producenta: ...............................                                       KYB1 RH2661
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16106334
+Nazwa czesci w systemie Hofsoft: ................                        Zestaw napraw.kloc.hamulc.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              8.09
+Numer producenta: ...............................                               QBR 1755 / 109-1755
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          54091583
+Nazwa czesci w systemie Hofsoft: ................                              £o¿ysko amortyzatora
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             17.51
+Numer producenta: ...............................                                   FAG 713 0075 00
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91701620
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7002
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.24
+Numer producenta: ...............................                         BOS3 1 457 437 002/429157
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          H9001510
+Nazwa czesci w systemie Hofsoft: ................                    Czujnik ciœnienia oleju 14x1.5
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.70
+Numer producenta: ...............................                                        ERA 330364
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96051650
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa BD2075
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             75.90
+Numer producenta: ...............................                            BOS2 0 986 479 B74/106
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16300046
+Nazwa czesci w systemie Hofsoft: ................                           Z³¹czka stalowa    10x1
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              0.75
+Numer producenta: ...............................                                         WP 110X/Z
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16090230
+Nazwa czesci w systemie Hofsoft: ................                    Przewód hamulc.metal. L=1500mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.62
+Numer producenta: ...............................                                            WP 047
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21501715
+Nazwa czesci w systemie Hofsoft: ................                           Pompa uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             99.44
+Numer producenta: ...............................                                   SKF2 85623 VKPC
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16160040
+Nazwa czesci w systemie Hofsoft: ................                     Odpowietrznik M10x1   11x30,0
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.39
+Numer producenta: ...............................                                          QBR 0039
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11121785
+Nazwa czesci w systemie Hofsoft: ................                           Uszczelka dekla zaworów
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.11
+Numer producenta: ...............................                              HPR 206 132 /5607442
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96011532
+Nazwa czesci w systemie Hofsoft: ................                           Klocki hamulcowe BP1037
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             71.51
+Numer producenta: ...............................                                BOSK 0 986 494 127
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          59101540
+Nazwa czesci w systemie Hofsoft: ................                          Œwieca ¿arowa D-POWER 37
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             31.72
+Numer producenta: ...............................                         NGK2 D-POWER 37      6298
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16093030
+Nazwa czesci w systemie Hofsoft: ................                    Przewód hamulc.metal. L=2400mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             15.59
+Numer producenta: ...............................                         WP 014                 98
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          16090243
+Nazwa czesci w systemie Hofsoft: ................                    Przewód hamulc.metal. L=3500mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.74
+Numer producenta: ...............................                         WP 046                 98
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          36081612
+Nazwa czesci w systemie Hofsoft: ................                                 Przewód hamulcowy
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             25.10
+Numer producenta: ...............................                                      AP 5 6T48057
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080091
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.  35- 50mm
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              1.29
+Numer producenta: ...............................                                       NOR 101-050
+
+
+
+************************************************************
+************************************************************

@@ -1,0 +1,28 @@
+Znaleziono towar : 48230370 (Sprawdzenie: 48230370)
+Znaleziono towar : 48238509 (Sprawdzenie: 48238509)
+Znaleziono towar : 48233274 (Sprawdzenie: 48233274)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48230370
+Nazwa czesci w systemie Hofsoft: ................                             Wkrêt mocowania os³on
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              3.97
+Numer producenta: ...............................                          ROM C10022       10 szt.
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48238509
+Nazwa czesci w systemie Hofsoft: ................                               Blaszka mont. uniw.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.97
+Numer producenta: ...............................                          ROM 16035        25 szt.
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          48233274
+Nazwa czesci w systemie Hofsoft: ................                    Spinka tapicerki wew. (czarna)
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.68
+Numer producenta: ...............................                          ROM 10053        25 SZT.
+
+
+
+************************************************************
+************************************************************

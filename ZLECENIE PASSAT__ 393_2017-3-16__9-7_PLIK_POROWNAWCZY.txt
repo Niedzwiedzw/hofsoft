@@ -1,0 +1,20 @@
+Znaleziono towar : 11780304 (Sprawdzenie: 11780304)
+Znaleziono towar : K0061012 (Sprawdzenie: K0061012)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11780304
+Nazwa czesci w systemie Hofsoft: ................                    Korek ch³odnicy-zbiorn.wyrówn.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.35
+Numer producenta: ...............................                           HPR 107 532 /1J0121321B
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061012
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             30.43
+Numer producenta: ...............................                             KRAE P£YN G12/G12+ 5L
+
+
+
+************************************************************
+************************************************************

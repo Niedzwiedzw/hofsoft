@@ -1,0 +1,28 @@
+Znaleziono towar : K4211282 (Sprawdzenie: K4211282)
+Znaleziono towar : 96001310 (Sprawdzenie: 96001310)
+Znaleziono towar : 96041170 (Sprawdzenie: 96041170)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4211282
+Nazwa czesci w systemie Hofsoft: ................                                      Wahacz prawy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            112.60
+Numer producenta: ...............................                                      KRA4 4211282
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96001310
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP274
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            103.47
+Numer producenta: ...............................                                BOSK 0 986 494 607
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96041170
+Nazwa czesci w systemie Hofsoft: ................                            Tarcza hamulcowa BD542
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             78.46
+Numer producenta: ...............................                                BOS2 0 986 478 624
+
+
+
+************************************************************
+************************************************************

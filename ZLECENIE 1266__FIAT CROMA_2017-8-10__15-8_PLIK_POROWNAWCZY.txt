@@ -1,0 +1,28 @@
+Znaleziono towar : 00080012 (Sprawdzenie: 00080012)
+Znaleziono towar : 20580190 (Sprawdzenie: 20580190)
+Znaleziono towar : 00080011 (Sprawdzenie: 00080011)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080012
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   8- 16mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.51
+Numer producenta: ...............................                                       NOR 100-16W
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20580190
+Nazwa czesci w systemie Hofsoft: ................                           Z³¹cze elastyczne55x250
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             31.26
+Numer producenta: ...............................                                       ASM1 55X250
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00080011
+Nazwa czesci w systemie Hofsoft: ................                    Opaska zaciskowa œr.   8- 12mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              1.04
+Numer producenta: ...............................                                       NOR 101-012
+
+
+
+************************************************************
+************************************************************

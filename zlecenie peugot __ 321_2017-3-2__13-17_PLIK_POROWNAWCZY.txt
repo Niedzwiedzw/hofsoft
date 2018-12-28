@@ -1,0 +1,36 @@
+Znaleziono towar : 91705650 (Sprawdzenie: 91705650)
+Znaleziono towar : K0062004 (Sprawdzenie: K0062004)
+Znaleziono towar : 91715935 (Sprawdzenie: 91715935)
+Znaleziono towar : 91725506 (Sprawdzenie: 91725506)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91705650
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9238
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.69
+Numer producenta: ...............................                                BOS3 1 457 429 238
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0062004
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do spryskiwaczy ZIMA
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              5.17
+Numer producenta: ...............................                              KRAE KRAFT 2L (-22C)
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91715935
+Nazwa czesci w systemie Hofsoft: ................                             Filtr powietrza S0220
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             33.92
+Numer producenta: ...............................                                BOS3 F 026 400 220
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91725506
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N2862
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             59.83
+Numer producenta: ...............................                                BOS3 F 026 402 862
+
+
+
+************************************************************
+************************************************************

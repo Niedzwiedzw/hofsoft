@@ -1,0 +1,20 @@
+Znaleziono towar : K4301328 (Sprawdzenie: K4301328)
+Znaleziono towar : 86121310 (Sprawdzenie: 86121310)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K4301328
+Nazwa czesci w systemie Hofsoft: ................                     £¹cznik stab.przedniego-prawy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             19.70
+Numer producenta: ...............................                                      KRA4 4301328
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          86121310
+Nazwa czesci w systemie Hofsoft: ................                         Czujnik klocka ham. PSMB3
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              6.51
+Numer producenta: ...............................                                BOSI 1 987 474 966
+
+
+
+************************************************************
+************************************************************

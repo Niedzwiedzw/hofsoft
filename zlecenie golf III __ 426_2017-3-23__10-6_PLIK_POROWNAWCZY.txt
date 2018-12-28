@@ -1,0 +1,20 @@
+Znaleziono towar : K6000080 (Sprawdzenie: K6000080)
+Znaleziono towar : K8210031 (Sprawdzenie: K8210031)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K6000080
+Nazwa czesci w systemie Hofsoft: ................                        Klocki hamulcowe     20168
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             29.17
+Numer producenta: ...............................                                      KRAK 6000080
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K8210031
+Nazwa czesci w systemie Hofsoft: ................                    Klamka przednia lewa z wk³adk¹
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.32
+Numer producenta: ...............................                                      KRAZ 8210031
+
+
+
+************************************************************
+************************************************************

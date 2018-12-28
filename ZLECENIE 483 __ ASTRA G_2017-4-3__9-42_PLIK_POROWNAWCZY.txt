@@ -1,0 +1,20 @@
+Znaleziono towar : 00942031 (Sprawdzenie: 00942031)
+Znaleziono towar : 91721601 (Sprawdzenie: 91721601)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          00942031
+Nazwa czesci w systemie Hofsoft: ................                       Silikon wysokotemperaturowy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.20
+Numer producenta: ...............................                            TEK 907 - 20 ML CZARNY
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91721601
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa N9656
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             27.62
+Numer producenta: ...............................                                BOS3 1 457 429 656
+
+
+
+************************************************************
+************************************************************

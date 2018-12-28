@@ -1,0 +1,20 @@
+Znaleziono towar : 91704602 (Sprawdzenie: 91704602)
+Znaleziono towar : K0061170 (Sprawdzenie: K0061170)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91704602
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P3316
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.31
+Numer producenta: ...............................                                BOS3 0 451 103 316
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061170
+Nazwa czesci w systemie Hofsoft: ................                         P³yn do uk³adu ch³odzenia
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.55
+Numer producenta: ...............................                         KRAE KRAFT P£YN DO CH£.1L
+
+
+
+************************************************************
+************************************************************

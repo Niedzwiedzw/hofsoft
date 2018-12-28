@@ -1,0 +1,36 @@
+Znaleziono towar : 84304064 (Sprawdzenie: 84304064)
+Znaleziono towar : 84224001 (Sprawdzenie: 84224001)
+Znaleziono towar : 24314000 (Sprawdzenie: 24314000)
+Znaleziono towar : 84304065 (Sprawdzenie: 84304065)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84304064
+Nazwa czesci w systemie Hofsoft: ................                        £¹cznik stabilizatora lewy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             18.65
+Numer producenta: ...............................                                    TRW NI-LS-2779
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84224001
+Nazwa czesci w systemie Hofsoft: ................                               Sworzeñ wahacza L/P
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             35.09
+Numer producenta: ...............................                                    TRW NI-BJ-4841
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24314000
+Nazwa czesci w systemie Hofsoft: ................                             Koñcówka dr¹¿ka kier.
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             29.46
+Numer producenta: ...............................                                    SWA 82 71 0008
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          84304065
+Nazwa czesci w systemie Hofsoft: ................                       £¹cznik stabilizatora prawy
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             18.65
+Numer producenta: ...............................                                    TRW NI-LS-2798
+
+
+
+************************************************************
+************************************************************

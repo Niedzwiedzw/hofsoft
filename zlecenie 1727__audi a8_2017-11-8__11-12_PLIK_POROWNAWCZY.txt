@@ -1,0 +1,84 @@
+Znaleziono towar : 91700640 (Sprawdzenie: 91700640)
+Znaleziono towar : 06040032 (Sprawdzenie: 06040032)
+Znaleziono towar : 91720180 (Sprawdzenie: 91720180)
+Znaleziono towar : K0570055 (Sprawdzenie: K0570055)
+Znaleziono towar : 11150232 (Sprawdzenie: 11150232)
+Znaleziono towar : 50030211 (Sprawdzenie: 50030211)
+Znaleziono towar : 20570055 (Sprawdzenie: 20570055)
+Znaleziono towar : 96000394 (Sprawdzenie: 96000394)
+Znaleziono towar : 11153013 (Sprawdzenie: 11153013)
+Znaleziono towar : 20580160 (Sprawdzenie: 20580160)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91700640
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P9142
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             21.66
+Numer producenta: ...............................                                BOS3 1 457 429 142
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          06040032
+Nazwa czesci w systemie Hofsoft: ................                           Tarcza hamulcowa 430177
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                            241.94
+Numer producenta: ...............................                                ATE 24.0130-0177.1
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91720180
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa F5906
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             31.50
+Numer producenta: ...............................                                BOS3 0 450 905 906
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0570055
+Nazwa czesci w systemie Hofsoft: ................                                           £¹cznik
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.02
+Numer producenta: ...............................                                      KRAW 0570055
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11150232
+Nazwa czesci w systemie Hofsoft: ................                      Simering 45x60x8 pó³oœ prawa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              7.27
+Numer producenta: ...............................                                     COR 17270 120
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          50030211
+Nazwa czesci w systemie Hofsoft: ................                                   Olej przek³adn.
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             32.37
+Numer producenta: ...............................                                    CAS TRANSMAX Z
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20570055
+Nazwa czesci w systemie Hofsoft: ................                                           £¹cznik
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.78
+Numer producenta: ...............................                                       FIS 114-956
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          96000394
+Nazwa czesci w systemie Hofsoft: ................                            Klocki hamulcowe BP380
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            153.13
+Numer producenta: ...............................                                BOSK 0 986 424 664
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          11153013
+Nazwa czesci w systemie Hofsoft: ................                    Simering 40x52x7 wa³ kor.przód
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             12.63
+Numer producenta: ...............................                                     COR 19250 120
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20580160
+Nazwa czesci w systemie Hofsoft: ................                           Z³¹cze elastyczne55x150
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             21.83
+Numer producenta: ...............................                                       ASM1 55X150
+
+
+
+************************************************************
+************************************************************

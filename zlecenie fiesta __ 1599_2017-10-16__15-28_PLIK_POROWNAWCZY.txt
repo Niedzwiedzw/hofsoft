@@ -1,0 +1,28 @@
+Znaleziono towar : 91722020 (Sprawdzenie: 91722020)
+Znaleziono towar : 99042050 (Sprawdzenie: 99042050)
+Znaleziono towar : 91702059 (Sprawdzenie: 91702059)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91722020
+Nazwa czesci w systemie Hofsoft: ................                                Filtr paliwa F5324
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             22.42
+Numer producenta: ...............................                                BOS3 0 450 905 324
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          99042050
+Nazwa czesci w systemie Hofsoft: ................                          Cewka zap³onowa - listwa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            103.99
+Numer producenta: ...............................                                 BOS 0 221 503 490
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91702059
+Nazwa czesci w systemie Hofsoft: ................                                 Filtr oleju P7078
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             11.31
+Numer producenta: ...............................                                BOS3 F 026 407 078
+
+
+
+************************************************************
+************************************************************

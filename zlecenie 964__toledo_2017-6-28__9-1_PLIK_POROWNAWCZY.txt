@@ -1,0 +1,28 @@
+Znaleziono towar : 61130112 (Sprawdzenie: 61130112)
+Znaleziono towar : 61130903 (Sprawdzenie: 61130903)
+Znaleziono towar : 91817011 (Sprawdzenie: 91817011)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61130112
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora ss¹cego
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                             16.10
+Numer producenta: ...............................                                       ELR 240.120
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          61130903
+Nazwa czesci w systemie Hofsoft: ................                       Uszczelka kolektora ss¹cego
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                             10.41
+Numer producenta: ...............................                                       ELR 475.931
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91817011
+Nazwa czesci w systemie Hofsoft: ................                          Oring wtryskiwacza benz.
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              4.57
+Numer producenta: ...............................                                 BOS 1 280 210 752
+
+
+
+************************************************************
+************************************************************

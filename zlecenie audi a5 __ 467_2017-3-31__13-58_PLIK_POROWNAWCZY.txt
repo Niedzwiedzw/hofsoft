@@ -1,0 +1,36 @@
+Znaleziono towar : 80950908 (Sprawdzenie: 80950908)
+Znaleziono towar : N8251653 (Sprawdzenie: N8251653)
+Znaleziono towar : 10930005 (Sprawdzenie: 10930005)
+Znaleziono towar : 99100027 (Sprawdzenie: 99100027)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          80950908
+Nazwa czesci w systemie Hofsoft: ................                    Akum.110Ah/920A S5          L-
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            404.42
+Numer producenta: ...............................                                       BOS1 S5 015
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          N8251653
+Nazwa czesci w systemie Hofsoft: ................                       Obudowa bezp.UNIVAL MTA 30A
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.97
+Numer producenta: ...............................                                         NAG 322/2
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10930005
+Nazwa czesci w systemie Hofsoft: ................                           Bezpiecznik   5A p³aski
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              0.24
+Numer producenta: ...............................                                NAR BEZPIECZNIK 5A
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          99100027
+Nazwa czesci w systemie Hofsoft: ................                              Œwieca ¿arowa GLP194
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             34.71
+Numer producenta: ...............................                           BOSC 0 250 403 009 /007
+
+
+
+************************************************************
+************************************************************

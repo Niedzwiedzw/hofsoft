@@ -1,0 +1,28 @@
+Znaleziono towar : 90804799 (Sprawdzenie: 90804799)
+Znaleziono towar : 99815904 (Sprawdzenie: 99815904)
+Znaleziono towar : 10930045 (Sprawdzenie: 10930045)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          90804799
+Nazwa czesci w systemie Hofsoft: ................                      ¯arówka H1 55W 12V PureLight
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.83
+Numer producenta: ...............................                                BOS8 1 987 302 011
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          99815904
+Nazwa czesci w systemie Hofsoft: ................                    Pompka spryskiwacza dwubiegowa
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             26.10
+Numer producenta: ...............................                                      REN 643475 I
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10930045
+Nazwa czesci w systemie Hofsoft: ................                      Bezpiecznik  20A p³aski MINI
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              0.41
+Numer producenta: ...............................                          NAR BEZPIECZNIK MINI 20A
+
+
+
+************************************************************
+************************************************************

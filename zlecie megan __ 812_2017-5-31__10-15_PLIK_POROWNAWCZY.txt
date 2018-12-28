@@ -1,0 +1,28 @@
+Znaleziono towar : E0010274 (Sprawdzenie: E0010274)
+Znaleziono towar : 91705190 (Sprawdzenie: 91705190)
+Znaleziono towar : E0010275 (Sprawdzenie: E0010275)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          E0010274
+Nazwa czesci w systemie Hofsoft: ................                         Olej silnikowy SAE  5W-40
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             13.97
+Numer producenta: ...............................                                ELF 5W40 EVO900 NF
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          91705190
+Nazwa czesci w systemie Hofsoft: ................                                  Filtr oleju P336
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             10.31
+Numer producenta: ...............................                                BOS3 0 451 103 336
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          E0010275
+Nazwa czesci w systemie Hofsoft: ................                         Olej silnikowy SAE  5W-40
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             51.38
+Numer producenta: ...............................                                ELF 5W40 EVO900 NF
+
+
+
+************************************************************
+************************************************************

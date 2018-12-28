@@ -1,0 +1,20 @@
+Znaleziono towar : K0061001 (Sprawdzenie: K0061001)
+Znaleziono towar : 10068510 (Sprawdzenie: 10068510)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          K0061001
+Nazwa czesci w systemie Hofsoft: ................                     Koncentrat do uk³. ch³odzenia
+Ilosc: ..........................................                                                 3
+CENA: ...........................................                                              9.86
+Numer producenta: ...............................                         KRAE KONC DO CH£O G12+ 1L
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10068510
+Nazwa czesci w systemie Hofsoft: ................                             Woda demineralizowana
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              4.30
+Numer producenta: ...............................                         PLK WODA DEMINERALIZOWANL
+
+
+
+************************************************************
+************************************************************

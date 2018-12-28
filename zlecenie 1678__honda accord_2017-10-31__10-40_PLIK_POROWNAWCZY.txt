@@ -1,0 +1,36 @@
+Znaleziono towar : 01167745 (Sprawdzenie: 01167745)
+Znaleziono towar : 21226628 (Sprawdzenie: 21226628)
+Znaleziono towar : 01226623 (Sprawdzenie: 01226623)
+Znaleziono towar : 31167615 (Sprawdzenie: 31167615)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01167745
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 7x2053
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             51.35
+Numer producenta: ...............................                                       GAT 7PK2053
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          21226628
+Nazwa czesci w systemie Hofsoft: ................                            Napinacz paska micro-V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                            180.80
+Numer producenta: ...............................                                     INA 534031610
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          01226623
+Nazwa czesci w systemie Hofsoft: ................                    Rolka prowadz¹ca pasek micro-V
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             39.64
+Numer producenta: ...............................                                    SKF1 63014 VKM
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          31167615
+Nazwa czesci w systemie Hofsoft: ................                          Pasek napêdu alt. 7x1635
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             45.48
+Numer producenta: ...............................                                       CNT 7PK1635
+
+
+
+************************************************************
+************************************************************

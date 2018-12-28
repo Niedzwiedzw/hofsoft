@@ -1,0 +1,28 @@
+Znaleziono towar : 30072427 (Sprawdzenie: 30072427)
+Znaleziono towar : 20558531 (Sprawdzenie: 20558531)
+Znaleziono towar : 10942295 (Sprawdzenie: 10942295)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          30072427
+Nazwa czesci w systemie Hofsoft: ................                       Preparat do czyszczenia DPF
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                             34.77
+Numer producenta: ...............................                          K2 W150                A
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          20558531
+Nazwa czesci w systemie Hofsoft: ................                                    Obejma M8/65mm
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                              2.06
+Numer producenta: ...............................                                       FIS 911-965
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          10942295
+Nazwa czesci w systemie Hofsoft: ................                       Pasta monterska do t³umików
+Ilosc: ..........................................                                                 1
+CENA: ...........................................                                              9.73
+Numer producenta: ...............................                                BSL 258502 /258002
+
+
+
+************************************************************
+************************************************************

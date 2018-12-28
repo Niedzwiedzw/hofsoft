@@ -1,0 +1,20 @@
+Znaleziono towar : 24235532 (Sprawdzenie: 24235532)
+Znaleziono towar : 64235530 (Sprawdzenie: 64235530)
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          24235532
+Nazwa czesci w systemie Hofsoft: ................                          Silentblok wahacza tylny
+Ilosc: ..........................................                                                 2
+CENA: ...........................................                                             12.35
+Numer producenta: ...............................                                    SWA 62 60 0011
+
+
+Numer katalogowy czesci: ,,,,,,,,,,,,,,,,,,,,,,,,                                          64235530
+Nazwa czesci w systemie Hofsoft: ................                        Silentblok wahacza przedni
+Ilosc: ..........................................                                                 4
+CENA: ...........................................                                              4.72
+Numer producenta: ...............................                                      SAS 200 5250
+
+
+
+************************************************************
+************************************************************
